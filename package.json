@@ -1,0 +1,56 @@
+{
+	"name": "topdeck-api",
+	"version": "4.0.1",
+	"description": "A Javascript library for https://topdeck.com/docs/api written in Typescript.",
+	"keywords": [
+		"tournament",
+		"topdeck",
+		"api"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MarioMH8/topdeck-api"
+	},
+	"homepage": "https://github.com/MarioMH8/topdeck-api",
+	"bugs": {
+		"url": "https://github.com/MarioMH8/topdeck-api/issues"
+	},
+	"license": "MIT",
+	"type": "module",
+	"files": [
+		"dist"
+	],
+	"main": "./dist/topdeck-api.js",
+	"module": "./dist/topdeck-api.js",
+	"types": "./dist/topdeck-api.d.ts",
+	"exports": {
+		".": {
+			"import": {
+				"types": "./dist/topdeck-api.d.ts",
+				"default": "./dist/topdeck-api.js"
+			},
+			"require": {
+				"types": "./dist/topdeck-api.d.cts",
+				"default": "./dist/topdeck-api.cjs"
+			},
+			"default": "./dist/topdeck-api.js"
+		}
+	},
+	"scripts": {
+		"build": "tsup",
+		"lint": "eslint .",
+		"lint:fix": "eslint --fix .",
+		"prepublishOnly": "tsup",
+		"test": "bun test",
+		"typecheck": "tsc --noEmit"
+	},
+	"devDependencies": {
+		"@changesets/cli": "2.27.10",
+		"@hexadrop/eslint-config": "0.0.1-beta.20",
+		"@hexadrop/tsconfig": "0.0.5",
+		"@types/bun": "1.1.14",
+		"eslint": "9.13.0",
+		"tsup": "8.3.5",
+		"typescript": "5.7.2"
+	}
+}
