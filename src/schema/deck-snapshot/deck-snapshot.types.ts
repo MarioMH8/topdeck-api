@@ -1,5 +1,5 @@
-import type { infer as inferType } from 'zod';
+import type z from 'zod';
 
 import type DeckSnapshotSchema from './deck-snapshot.schema';
 
-export type DeckSnapshotType = inferType<typeof DeckSnapshotSchema>;
+export type DeckSnapshotType = z.infer<typeof DeckSnapshotSchema>;

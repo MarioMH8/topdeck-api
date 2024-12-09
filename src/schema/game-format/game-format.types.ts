@@ -1,4 +1,4 @@
-import type { infer as inferType } from 'zod';
+import type z from 'zod';
 
 import type GameFormatSchema from './game-format.schema';
 import type {
@@ -9,12 +9,12 @@ import type {
 	YuGiHoGameFormatSchema,
 } from './game-format.schema';
 
-type GameFormatType = inferType<typeof GameFormatSchema>;
-type OtherGameFormatType = inferType<typeof OtherGameFormatSchema>;
-type MagicTheGatheringGameFormatType = inferType<typeof MagicTheGatheringGameFormatSchema>;
-type PokemonGameFormatType = inferType<typeof PokemonGameFormatSchema>;
-type YuGiHoGameFormatType = inferType<typeof YuGiHoGameFormatSchema>;
-type StarWarsGameFormatType = inferType<typeof StarWarsUnlimitedGameFormatSchema>;
+type GameFormatType = z.infer<typeof GameFormatSchema>;
+type OtherGameFormatType = z.infer<typeof OtherGameFormatSchema>;
+type MagicTheGatheringGameFormatType = z.infer<typeof MagicTheGatheringGameFormatSchema>;
+type PokemonGameFormatType = z.infer<typeof PokemonGameFormatSchema>;
+type YuGiHoGameFormatType = z.infer<typeof YuGiHoGameFormatSchema>;
+type StarWarsGameFormatType = z.infer<typeof StarWarsUnlimitedGameFormatSchema>;
 
 export type {
 	GameFormatType,

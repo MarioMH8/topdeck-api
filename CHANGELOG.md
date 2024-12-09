@@ -1,5 +1,11 @@
 # topdeck-api
 
+## 0.0.1-beta.1
+
+### Patch Changes
+
+- Fix Zod infer utility type
+
 ## 0.0.1-beta.0
 
 ### Patch Changes

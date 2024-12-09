@@ -1,5 +1,5 @@
-import type { infer as inferType } from 'zod';
+import type z from 'zod';
 
 import type SearchParametersSchema from './tournament.api.parameters.schema';
 
-export type SearchParametersType = inferType<typeof SearchParametersSchema>;
+export type SearchParametersType = z.infer<typeof SearchParametersSchema>;

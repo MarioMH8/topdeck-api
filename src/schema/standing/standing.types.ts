@@ -1,5 +1,5 @@
-import type { infer as inferType } from 'zod';
+import type z from 'zod';
 
 import StandingSchema from './standing.schema';
 
-export type StandingType = inferType<typeof StandingSchema>;
+export type StandingType = z.infer<typeof StandingSchema>;

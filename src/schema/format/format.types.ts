@@ -1,4 +1,4 @@
-import type { infer as inferType } from 'zod';
+import type z from 'zod';
 
 import type {
 	MagicTheGatheringFormatSchema,
@@ -7,9 +7,9 @@ import type {
 	YuGiHoFormatSchema,
 } from './format.schema';
 
-type MagicTheGatheringFormatType = inferType<typeof MagicTheGatheringFormatSchema>;
-type PokemonFormatType = inferType<typeof PokemonFormatSchema>;
-type YuGiHoFormatType = inferType<typeof YuGiHoFormatSchema>;
-type StarWarsUnlimitedFormatType = inferType<typeof StarWarsUnlimitedFormatSchema>;
+type MagicTheGatheringFormatType = z.infer<typeof MagicTheGatheringFormatSchema>;
+type PokemonFormatType = z.infer<typeof PokemonFormatSchema>;
+type YuGiHoFormatType = z.infer<typeof YuGiHoFormatSchema>;
+type StarWarsUnlimitedFormatType = z.infer<typeof StarWarsUnlimitedFormatSchema>;
 
 export type { MagicTheGatheringFormatType, PokemonFormatType, StarWarsUnlimitedFormatType, YuGiHoFormatType };

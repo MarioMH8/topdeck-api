@@ -1,5 +1,5 @@
-import type { infer as inferType } from 'zod';
+import type z from 'zod';
 
 import TournamentDetailSchema from './tournament-detail.schema';
 
-export type TournamentDetailType = inferType<typeof TournamentDetailSchema>;
+export type TournamentDetailType = z.infer<typeof TournamentDetailSchema>;

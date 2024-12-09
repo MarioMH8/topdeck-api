@@ -1,5 +1,5 @@
-import type { infer as inferType } from 'zod';
+import type z from 'zod';
 
 import RoundTableSchema from './round-table.schema';
 
-export type RoundTableType = inferType<typeof RoundTableSchema>;
+export type RoundTableType = z.infer<typeof RoundTableSchema>;

@@ -1,5 +1,5 @@
-import type { infer as inferType } from 'zod';
+import type z from 'zod';
 
 import type DateSchema from './date.schema';
 
-export type DateType = inferType<typeof DateSchema>;
+export type DateType = z.infer<typeof DateSchema>;
