@@ -1,6 +1,6 @@
 {
 	"name": "topdeck-api",
-	"version": "0.0.0",
+	"version": "0.0.1-beta.0",
 	"description": "A Javascript library for https://topdeck.com/docs/api written in Typescript.",
 	"keywords": [
 		"tournament",
@@ -16,6 +16,9 @@
 		"url": "https://github.com/MarioMH8/topdeck-api/issues"
 	},
 	"license": "MIT",
+	"publishConfig": {
+		"access": "public"
+	},
 	"type": "module",
 	"files": [
 		"dist"
