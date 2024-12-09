@@ -16,9 +16,6 @@
 		"url": "https://github.com/MarioMH8/topdeck-api/issues"
 	},
 	"license": "MIT",
-	"publishConfig": {
-		"access": "public"
-	},
 	"type": "module",
 	"files": [
 		"dist"
