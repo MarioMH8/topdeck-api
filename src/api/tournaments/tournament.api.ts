@@ -85,7 +85,7 @@ class TournamentApi {
 		);
 	}
 
-	async round(tournamentId: string): Promise<RoundType[]> {
+	async rounds(tournamentId: string): Promise<RoundType[]> {
 		const parsedTournamentId = tournamentIdSchema.parse(tournamentId);
 
 		return fetchWithZod(RoundArraySchema, `${API_BASE_URL}/v2/tournaments/${parsedTournamentId}/rounds`, {

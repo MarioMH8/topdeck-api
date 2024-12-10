@@ -1,5 +1,11 @@
 # topdeck-api
 
+## 0.0.1-beta.3
+
+### Patch Changes
+
+- Rename `round` method to `rounds`
+
 ## 0.0.1-beta.2
 
 ### Patch Changes
