@@ -5,6 +5,7 @@ import { DeckSnapshotSchema } from '../deck-snapshot';
 
 const StandingSchema = z
 	.object({
+		commanders: z.array(z.string()).optional(),
 		decklist: DeckListSchema.optional(),
 		deckSnapshot: DeckSnapshotSchema.optional(),
 		draws: z.coerce.number().optional(),
@@ -20,6 +21,7 @@ const StandingSchema = z
 		winsBracket: z.coerce.number().optional(),
 		winsSwiss: z.coerce.number().optional(),
 	})
+	.strict()
 	.transform(value => {
 		let transformedValue = value;
 		if (!transformedValue.deckSnapshot || Object.keys(transformedValue.deckSnapshot).length === 0) {
@@ -31,6 +33,13 @@ const StandingSchema = z
 		}
 		if (!transformedValue.decklist) {
 			const { decklist, ...rest } = transformedValue;
+
+			transformedValue = {
+				...rest,
+			};
+		}
+		if (!transformedValue.commanders || transformedValue.commanders.length === 0) {
+			const { commanders, ...rest } = transformedValue;
 
 			transformedValue = {
 				...rest,

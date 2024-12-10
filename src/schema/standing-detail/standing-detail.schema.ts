@@ -5,7 +5,7 @@ import { DeckListSchema } from '../deck-list';
 const StandingDetailSchema = z
 	.object({
 		decklist: DeckListSchema,
-		discordId: z.coerce.string().optional(),
+		discord: z.coerce.string().optional(),
 		id: z.coerce.string().optional(),
 		name: z.coerce.string(),
 		opponentGameWinRate: z.coerce.number().optional(),
@@ -14,6 +14,7 @@ const StandingDetailSchema = z
 		standing: z.coerce.number(),
 		winRate: z.coerce.number().optional(),
 	})
+	.strict()
 	.transform(value => {
 		let transformedValue = value;
 		if (!transformedValue.decklist) {

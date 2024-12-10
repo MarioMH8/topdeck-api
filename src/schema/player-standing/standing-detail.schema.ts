@@ -2,15 +2,17 @@ import { z } from 'zod';
 
 import { DeckListSchema } from '../deck-list';
 
-const RoundTablePlayerSchema = z
+const PlayerStandingSchema = z
 	.object({
 		decklist: DeckListSchema,
 		discord: z.coerce.string().optional(),
-		id: z.coerce
-			.string()
-			.transform(value => (value === 'undefined' ? undefined : value))
-			.optional(),
+		gamesDrawn: z.coerce.number(),
+		gamesLost: z.coerce.number(),
+		gamesPlayed: z.coerce.number(),
+		gamesWon: z.coerce.number(),
 		name: z.coerce.string(),
+		standing: z.coerce.number(),
+		winRate: z.coerce.number(),
 	})
 	.strict()
 	.transform(value => {
@@ -26,8 +28,4 @@ const RoundTablePlayerSchema = z
 		return transformedValue;
 	});
 
-const RoundTablePlayerArraySchema = z.array(RoundTablePlayerSchema);
-
-export { RoundTablePlayerArraySchema };
-
-export default RoundTablePlayerSchema;
+export default PlayerStandingSchema;

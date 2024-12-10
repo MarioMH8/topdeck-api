@@ -4,6 +4,7 @@ export * from './deck-snapshot';
 export * from './format';
 export * from './game';
 export * from './game-format';
+export * from './player-standing';
 export * from './round';
 export * from './round-table';
 export * from './round-table-player';

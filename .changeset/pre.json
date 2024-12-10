@@ -5,6 +5,7 @@
     "topdeck-api": "0.0.0"
   },
   "changesets": [
+    "purple-otters-care",
     "rude-worms-thank",
     "wise-garlics-matter"
   ]

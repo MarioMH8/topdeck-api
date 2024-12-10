@@ -16,6 +16,7 @@ const RoundTableSchema = z
 			.transform(value => (value === 'undefined' || value === 'null' ? undefined : value))
 			.optional(),
 	})
+	.strict()
 	.transform(value => {
 		let transformedValue = value;
 		if (!transformedValue.winner_id) {

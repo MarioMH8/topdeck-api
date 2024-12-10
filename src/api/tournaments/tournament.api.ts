@@ -3,14 +3,31 @@ import { createZodFetcher } from 'zod-fetch';
 
 import { InvalidTopdeckArgumentError } from '../../error';
 import createTopdeckFetcher from '../../fetcher';
-import type { TournamentDetailType, TournamentType } from '../../schema';
-import { TournamentArraySchema, TournamentDetailSchema } from '../../schema';
+import type {
+	PlayerStandingType,
+	RoundType,
+	StandingDetailType,
+	TournamentDetailType,
+	TournamentInfoType,
+	TournamentType,
+} from '../../schema';
+import {
+	RoundArraySchema,
+	StandingDetailArraySchema,
+	TournamentArraySchema,
+	TournamentDetailSchema,
+	TournamentInfoSchema,
+} from '../../schema';
+import PlayerStandingSchema from '../../schema/player-standing/standing-detail.schema';
 import SearchParametersSchema from './tournament.api.parameters.schema';
 import type { SearchParametersType } from './tournament.api.parameters.types';
 
 const fetchWithZod = createZodFetcher(createTopdeckFetcher());
 
 const API_BASE_URL = 'https://topdeck.gg/api';
+
+const tournamentIdSchema = z.coerce.string().describe('Tournament id');
+const playerIdSchema = z.coerce.string().describe('Player id');
 
 class TournamentApi {
 	constructor(private readonly API_KEY: string) {
@@ -20,9 +37,58 @@ class TournamentApi {
 	}
 
 	async find(id: string): Promise<TournamentDetailType> {
-		const parsed = z.coerce.string().parse(id);
+		const parsed = tournamentIdSchema.parse(id);
 
 		return fetchWithZod(TournamentDetailSchema, `${API_BASE_URL}/v2/tournaments/${parsed}`, {
+			headers: {
+				Authorization: this.API_KEY,
+			},
+			method: 'GET',
+		});
+	}
+
+	async info(id: string): Promise<TournamentInfoType> {
+		const parsed = tournamentIdSchema.parse(id);
+
+		return fetchWithZod(TournamentInfoSchema, `${API_BASE_URL}/v2/tournaments/${parsed}/info`, {
+			headers: {
+				Authorization: this.API_KEY,
+			},
+			method: 'GET',
+		});
+	}
+
+	async latestRound(tournamentId: string): Promise<RoundType[]> {
+		const parsedTournamentId = tournamentIdSchema.parse(tournamentId);
+
+		return fetchWithZod(RoundArraySchema, `${API_BASE_URL}/v2/tournaments/${parsedTournamentId}/rounds/latest`, {
+			headers: {
+				Authorization: this.API_KEY,
+			},
+			method: 'GET',
+		});
+	}
+
+	async playerStandings(tournamentId: string, playerId: string): Promise<PlayerStandingType> {
+		const parsedTournamentId = tournamentIdSchema.parse(tournamentId);
+		const parsedPlayerId = playerIdSchema.parse(playerId);
+
+		return fetchWithZod(
+			PlayerStandingSchema,
+			`${API_BASE_URL}/v2/tournaments/${parsedTournamentId}/players/${parsedPlayerId}`,
+			{
+				headers: {
+					Authorization: this.API_KEY,
+				},
+				method: 'GET',
+			}
+		);
+	}
+
+	async round(tournamentId: string): Promise<RoundType[]> {
+		const parsedTournamentId = tournamentIdSchema.parse(tournamentId);
+
+		return fetchWithZod(RoundArraySchema, `${API_BASE_URL}/v2/tournaments/${parsedTournamentId}/rounds`, {
 			headers: {
 				Authorization: this.API_KEY,
 			},
@@ -41,6 +107,21 @@ class TournamentApi {
 			},
 			method: 'POST',
 		});
+	}
+
+	async standings(tournamentId: string): Promise<StandingDetailType[]> {
+		const parsedTournamentId = tournamentIdSchema.parse(tournamentId);
+
+		return fetchWithZod(
+			StandingDetailArraySchema,
+			`${API_BASE_URL}/v2/tournaments/${parsedTournamentId}/standings`,
+			{
+				headers: {
+					Authorization: this.API_KEY,
+				},
+				method: 'GET',
+			}
+		);
 	}
 }
 
