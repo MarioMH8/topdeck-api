@@ -3,16 +3,18 @@ import { createZodFetcher } from 'zod-fetch';
 
 import { InvalidTopdeckArgumentError } from '../../error';
 import createTopdeckFetcher from '../../fetcher';
-import {
-	type PlayerStandingType, RoundTableArraySchema, type RoundTableType,
-	type RoundType,
-	type StandingDetailType,
-	type TournamentDetailType,
-	type TournamentInfoType,
-	type TournamentType,
+import type {
+	PlayerStandingType,
+	RoundTableType,
+	RoundType,
+	StandingDetailType,
+	TournamentDetailType,
+	TournamentInfoType,
+	TournamentType,
 } from '../../schema';
 import {
 	RoundArraySchema,
+	RoundTableArraySchema,
 	StandingDetailArraySchema,
 	TournamentArraySchema,
 	TournamentDetailSchema,
@@ -61,12 +63,16 @@ class TournamentApi {
 	async latestRound(tournamentId: string): Promise<RoundTableType[]> {
 		const parsedTournamentId = tournamentIdSchema.parse(tournamentId);
 
-		return fetchWithZod(RoundTableArraySchema, `${API_BASE_URL}/v2/tournaments/${parsedTournamentId}/rounds/latest`, {
-			headers: {
-				Authorization: this.API_KEY,
-			},
-			method: 'GET',
-		});
+		return fetchWithZod(
+			RoundTableArraySchema,
+			`${API_BASE_URL}/v2/tournaments/${parsedTournamentId}/rounds/latest`,
+			{
+				headers: {
+					Authorization: this.API_KEY,
+				},
+				method: 'GET',
+			}
+		);
 	}
 
 	async playerStandings(tournamentId: string, playerId: string): Promise<PlayerStandingType> {

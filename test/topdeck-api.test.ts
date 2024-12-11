@@ -150,24 +150,6 @@ describe('topdeck-api', () => {
 					});
 				}).not.toThrow();
 
-				const players: Map<string, Set<string>> = new Map<string, Set<string>>();
-
-				for (const tournament of tournaments) {
-					for (const round of tournament.rounds ?? []) {
-						for (const table of round.tables ?? []) {
-							for (const player of table.players ?? []) {
-								const p = players.get(tournament.TID) ?? new Set<string>();
-								if (!players.has(tournament.TID)) {
-									players.set(tournament.TID, p);
-								}
-								if (player.id) {
-									p.add(player.id);
-								}
-							}
-						}
-					}
-				}
-
 				expect(tournaments).toMatchSnapshot();
 			}, 30_000);
 			it('should return a list of tournaments with columns', () => {
