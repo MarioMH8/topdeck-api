@@ -28,4 +28,13 @@ const YuGiHoFormatSchema = z.union([
 
 const StarWarsUnlimitedFormatSchema = z.union([z.literal('Premier'), z.literal('Draft')]);
 
+const FormatSchema = z.union([
+	MagicTheGatheringFormatSchema,
+	PokemonFormatSchema,
+	StarWarsUnlimitedFormatSchema,
+	YuGiHoFormatSchema,
+]);
+
 export { MagicTheGatheringFormatSchema, PokemonFormatSchema, StarWarsUnlimitedFormatSchema, YuGiHoFormatSchema };
+
+export default FormatSchema;
