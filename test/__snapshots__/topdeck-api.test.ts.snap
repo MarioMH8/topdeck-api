@@ -58,6 +58,66 @@ exports[`topdeck-api tournaments search() should return a list of tournaments 1`
     "tournamentName": "CEDH Tournament 11/30/24",
   },
   {
+    "TID": "ybF9HoI0CFvr6hMzwlfP",
+    "averageElo": 1496,
+    "format": "EDH",
+    "game": "Magic: The Gathering",
+    "medianElo": 1500,
+    "modeElo": 1500,
+    "standings": [
+      {
+        "draws": 0,
+        "losses": 0,
+        "wins": 2,
+      },
+      {
+        "draws": 0,
+        "losses": 1,
+        "wins": 1,
+      },
+      {
+        "draws": 0,
+        "losses": 1,
+        "wins": 1,
+      },
+      {
+        "draws": 0,
+        "losses": 1,
+        "wins": 1,
+      },
+      {
+        "draws": 0,
+        "losses": 1,
+        "wins": 1,
+      },
+      {
+        "draws": 0,
+        "losses": 2,
+        "wins": 0,
+      },
+      {
+        "draws": 0,
+        "losses": 2,
+        "wins": 0,
+      },
+      {
+        "draws": 0,
+        "losses": 2,
+        "wins": 0,
+      },
+      {
+        "draws": 0,
+        "losses": 2,
+        "wins": 0,
+      },
+    ],
+    "startDate": 2024-12-01T02:00:00.000Z,
+    "swissNum": 2,
+    "topCut": 0,
+    "topElo": 1513,
+    "tournamentName": "cEDH Weekly Saturday Event",
+  },
+  {
     "TID": "XeB0Bsb0wb63YVABih9c",
     "averageElo": 1500,
     "format": "EDH",
@@ -631,7 +691,6 @@ exports[`topdeck-api tournaments search() should return a list of tournaments 1`
         "wins": 3,
       },
       {
-        "decklist": "https://www.moxfield.com/decks/0EmQOvzLyEqIy67RdTO4XQ",
         "draws": 1,
         "losses": 2,
         "wins": 1,
@@ -1382,6 +1441,198 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
     "topCut": 4,
     "topElo": 1500,
     "tournamentName": "CEDH Tournament 11/30/24",
+  },
+  {
+    "TID": "ybF9HoI0CFvr6hMzwlfP",
+    "averageElo": 1496,
+    "format": "EDH",
+    "game": "Magic: The Gathering",
+    "medianElo": 1500,
+    "modeElo": 1500,
+    "rounds": [
+      {
+        "round": 1,
+        "tables": [
+          {
+            "players": [
+              {
+                "id": "DtgFdVEQTSQLRxSBzpGFi0CBXun2",
+                "name": "Gage",
+              },
+              {
+                "id": "pQbvuKmNIfeCeiGryvSEi10ocqG3",
+                "name": "Bill Knerr",
+              },
+              {
+                "id": "3XvA8WwgnTdbGxraDigmJ1N99CH3",
+                "name": "Jayson lawrence",
+              },
+            ],
+            "status": "Completed",
+            "table": 1,
+            "winner": "Jayson lawrence",
+            "winner_id": "3XvA8WwgnTdbGxraDigmJ1N99CH3",
+          },
+          {
+            "players": [
+              {
+                "id": "XJIMPXRqN9hTIscGtXBq0wCSA932",
+                "name": "Kriston Broxson",
+              },
+              {
+                "id": "vgX9ThPifATnZtwT3hje1KOXu1F2",
+                "name": "Ryan Monson",
+              },
+              {
+                "id": "Kq3DLakMIsZQtwOcIF9EYB5qLaA3",
+                "name": "Christopher Howard",
+              },
+            ],
+            "status": "Completed",
+            "table": 2,
+            "winner": "Kriston Broxson",
+            "winner_id": "XJIMPXRqN9hTIscGtXBq0wCSA932",
+          },
+          {
+            "players": [
+              {
+                "id": "LNzdrD9JEvSmQqif7SOOSpjNOqh1",
+                "name": "Hannah James ",
+              },
+              {
+                "id": "fz14DLNsSncFWvtk59ZuDQ4RUGG2",
+                "name": "Joshua Gilstrap",
+              },
+              {
+                "id": "DHAeKQNG2UQr97iBMGcRLb6Eu1O2",
+                "name": "William Foster-Dow",
+              },
+            ],
+            "status": "Completed",
+            "table": 3,
+            "winner": "William Foster-Dow",
+            "winner_id": "DHAeKQNG2UQr97iBMGcRLb6Eu1O2",
+          },
+        ],
+      },
+      {
+        "round": 2,
+        "tables": [
+          {
+            "players": [
+              {
+                "id": "DHAeKQNG2UQr97iBMGcRLb6Eu1O2",
+                "name": "William Foster-Dow",
+              },
+              {
+                "id": "3XvA8WwgnTdbGxraDigmJ1N99CH3",
+                "name": "Jayson lawrence",
+              },
+              {
+                "id": "XJIMPXRqN9hTIscGtXBq0wCSA932",
+                "name": "Kriston Broxson",
+              },
+            ],
+            "status": "Completed",
+            "table": 1,
+            "winner": "Jayson lawrence",
+            "winner_id": "3XvA8WwgnTdbGxraDigmJ1N99CH3",
+          },
+          {
+            "players": [
+              {
+                "id": "pQbvuKmNIfeCeiGryvSEi10ocqG3",
+                "name": "Bill Knerr",
+              },
+              {
+                "id": "vgX9ThPifATnZtwT3hje1KOXu1F2",
+                "name": "Ryan Monson",
+              },
+              {
+                "id": "fz14DLNsSncFWvtk59ZuDQ4RUGG2",
+                "name": "Joshua Gilstrap",
+              },
+            ],
+            "status": "Completed",
+            "table": 2,
+            "winner": "Joshua Gilstrap",
+            "winner_id": "fz14DLNsSncFWvtk59ZuDQ4RUGG2",
+          },
+          {
+            "players": [
+              {
+                "id": "Kq3DLakMIsZQtwOcIF9EYB5qLaA3",
+                "name": "Christopher Howard",
+              },
+              {
+                "id": "LNzdrD9JEvSmQqif7SOOSpjNOqh1",
+                "name": "Hannah James ",
+              },
+              {
+                "id": "DtgFdVEQTSQLRxSBzpGFi0CBXun2",
+                "name": "Gage",
+              },
+            ],
+            "status": "Completed",
+            "table": 3,
+            "winner": "Christopher Howard",
+            "winner_id": "Kq3DLakMIsZQtwOcIF9EYB5qLaA3",
+          },
+        ],
+      },
+    ],
+    "standings": [
+      {
+        "draws": 0,
+        "losses": 0,
+        "wins": 2,
+      },
+      {
+        "draws": 0,
+        "losses": 1,
+        "wins": 1,
+      },
+      {
+        "draws": 0,
+        "losses": 1,
+        "wins": 1,
+      },
+      {
+        "draws": 0,
+        "losses": 1,
+        "wins": 1,
+      },
+      {
+        "draws": 0,
+        "losses": 1,
+        "wins": 1,
+      },
+      {
+        "draws": 0,
+        "losses": 2,
+        "wins": 0,
+      },
+      {
+        "draws": 0,
+        "losses": 2,
+        "wins": 0,
+      },
+      {
+        "draws": 0,
+        "losses": 2,
+        "wins": 0,
+      },
+      {
+        "draws": 0,
+        "losses": 2,
+        "wins": 0,
+      },
+    ],
+    "startDate": 2024-12-01T02:00:00.000Z,
+    "swissNum": 2,
+    "topCut": 0,
+    "topElo": 1513,
+    "tournamentName": "cEDH Weekly Saturday Event",
   },
   {
     "TID": "XeB0Bsb0wb63YVABih9c",
@@ -4361,7 +4612,6 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
           {
             "players": [
               {
-                "decklist": "https://www.moxfield.com/decks/0EmQOvzLyEqIy67RdTO4XQ",
                 "id": "Cpk5UxD45Cg6mUaY9Nj7v9byoSn2",
                 "name": "Dan Tiesi",
               },
@@ -4422,7 +4672,6 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
           {
             "players": [
               {
-                "decklist": "https://www.moxfield.com/decks/0EmQOvzLyEqIy67RdTO4XQ",
                 "id": "Cpk5UxD45Cg6mUaY9Nj7v9byoSn2",
                 "name": "Dan Tiesi",
               },
@@ -4552,7 +4801,6 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
                 "name": "Omar Kilgore",
               },
               {
-                "decklist": "https://www.moxfield.com/decks/0EmQOvzLyEqIy67RdTO4XQ",
                 "id": "Cpk5UxD45Cg6mUaY9Nj7v9byoSn2",
                 "name": "Dan Tiesi",
               },
@@ -4635,7 +4883,6 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
                 "name": "Andrew H",
               },
               {
-                "decklist": "https://www.moxfield.com/decks/0EmQOvzLyEqIy67RdTO4XQ",
                 "id": "Cpk5UxD45Cg6mUaY9Nj7v9byoSn2",
                 "name": "Dan Tiesi",
               },
@@ -4667,7 +4914,6 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "wins": 3,
       },
       {
-        "decklist": "https://www.moxfield.com/decks/0EmQOvzLyEqIy67RdTO4XQ",
         "draws": 1,
         "losses": 2,
         "wins": 1,
@@ -4820,7 +5066,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/Ua-YDj_GPkCv5WTEIBoctw",
                 "id": "EQNIkvOF0tdaQAvOxwEN48opVP83",
-                "name": "patrick",
+                "name": "Patdaddy",
               },
               {
                 "decklist": "https://moxfield.com/decks/pksDgywgKUK7AMrZsNAOLA",
@@ -4870,7 +5116,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/Ua-YDj_GPkCv5WTEIBoctw",
                 "id": "EQNIkvOF0tdaQAvOxwEN48opVP83",
-                "name": "patrick",
+                "name": "Patdaddy",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/Uzk5-gAXRkepKjxRfwwcXg",
@@ -4918,7 +5164,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/Ua-YDj_GPkCv5WTEIBoctw",
                 "id": "EQNIkvOF0tdaQAvOxwEN48opVP83",
-                "name": "patrick",
+                "name": "Patdaddy",
               },
             ],
             "status": "Completed",
@@ -4996,7 +5242,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/Ua-YDj_GPkCv5WTEIBoctw",
                 "id": "EQNIkvOF0tdaQAvOxwEN48opVP83",
-                "name": "patrick",
+                "name": "Patdaddy",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/ZXUZJcK8T0i-IhtZa0xkGQ",
@@ -7006,6 +7252,279 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
     "topCut": 4,
     "topElo": 1500,
     "tournamentName": "CEDH Tournament 11/30/24",
+  },
+  {
+    "TID": "ybF9HoI0CFvr6hMzwlfP",
+    "averageElo": 1496,
+    "format": "EDH",
+    "game": "Magic: The Gathering",
+    "medianElo": 1500,
+    "modeElo": 1500,
+    "rounds": [
+      {
+        "round": 1,
+        "tables": [
+          {
+            "players": [
+              {
+                "id": "DtgFdVEQTSQLRxSBzpGFi0CBXun2",
+                "name": "Gage",
+              },
+              {
+                "id": "pQbvuKmNIfeCeiGryvSEi10ocqG3",
+                "name": "Bill Knerr",
+              },
+              {
+                "id": "3XvA8WwgnTdbGxraDigmJ1N99CH3",
+                "name": "Jayson lawrence",
+              },
+            ],
+            "status": "Completed",
+            "table": 1,
+            "winner": "Jayson lawrence",
+            "winner_id": "3XvA8WwgnTdbGxraDigmJ1N99CH3",
+          },
+          {
+            "players": [
+              {
+                "id": "XJIMPXRqN9hTIscGtXBq0wCSA932",
+                "name": "Kriston Broxson",
+              },
+              {
+                "id": "vgX9ThPifATnZtwT3hje1KOXu1F2",
+                "name": "Ryan Monson",
+              },
+              {
+                "id": "Kq3DLakMIsZQtwOcIF9EYB5qLaA3",
+                "name": "Christopher Howard",
+              },
+            ],
+            "status": "Completed",
+            "table": 2,
+            "winner": "Kriston Broxson",
+            "winner_id": "XJIMPXRqN9hTIscGtXBq0wCSA932",
+          },
+          {
+            "players": [
+              {
+                "id": "LNzdrD9JEvSmQqif7SOOSpjNOqh1",
+                "name": "Hannah James ",
+              },
+              {
+                "id": "fz14DLNsSncFWvtk59ZuDQ4RUGG2",
+                "name": "Joshua Gilstrap",
+              },
+              {
+                "id": "DHAeKQNG2UQr97iBMGcRLb6Eu1O2",
+                "name": "William Foster-Dow",
+              },
+            ],
+            "status": "Completed",
+            "table": 3,
+            "winner": "William Foster-Dow",
+            "winner_id": "DHAeKQNG2UQr97iBMGcRLb6Eu1O2",
+          },
+        ],
+      },
+      {
+        "round": 2,
+        "tables": [
+          {
+            "players": [
+              {
+                "id": "DHAeKQNG2UQr97iBMGcRLb6Eu1O2",
+                "name": "William Foster-Dow",
+              },
+              {
+                "id": "3XvA8WwgnTdbGxraDigmJ1N99CH3",
+                "name": "Jayson lawrence",
+              },
+              {
+                "id": "XJIMPXRqN9hTIscGtXBq0wCSA932",
+                "name": "Kriston Broxson",
+              },
+            ],
+            "status": "Completed",
+            "table": 1,
+            "winner": "Jayson lawrence",
+            "winner_id": "3XvA8WwgnTdbGxraDigmJ1N99CH3",
+          },
+          {
+            "players": [
+              {
+                "id": "pQbvuKmNIfeCeiGryvSEi10ocqG3",
+                "name": "Bill Knerr",
+              },
+              {
+                "id": "vgX9ThPifATnZtwT3hje1KOXu1F2",
+                "name": "Ryan Monson",
+              },
+              {
+                "id": "fz14DLNsSncFWvtk59ZuDQ4RUGG2",
+                "name": "Joshua Gilstrap",
+              },
+            ],
+            "status": "Completed",
+            "table": 2,
+            "winner": "Joshua Gilstrap",
+            "winner_id": "fz14DLNsSncFWvtk59ZuDQ4RUGG2",
+          },
+          {
+            "players": [
+              {
+                "id": "Kq3DLakMIsZQtwOcIF9EYB5qLaA3",
+                "name": "Christopher Howard",
+              },
+              {
+                "id": "LNzdrD9JEvSmQqif7SOOSpjNOqh1",
+                "name": "Hannah James ",
+              },
+              {
+                "id": "DtgFdVEQTSQLRxSBzpGFi0CBXun2",
+                "name": "Gage",
+              },
+            ],
+            "status": "Completed",
+            "table": 3,
+            "winner": "Christopher Howard",
+            "winner_id": "Kq3DLakMIsZQtwOcIF9EYB5qLaA3",
+          },
+        ],
+      },
+    ],
+    "standings": [
+      {
+        "draws": 0,
+        "id": "3XvA8WwgnTdbGxraDigmJ1N99CH3",
+        "losses": 0,
+        "lossesBracket": 0,
+        "lossesSwiss": 0,
+        "name": "Jayson lawrence",
+        "winRate": 1,
+        "winRateBracket": 0,
+        "winRateSwiss": 1,
+        "wins": 2,
+        "winsBracket": 0,
+        "winsSwiss": 2,
+      },
+      {
+        "draws": 0,
+        "id": "XJIMPXRqN9hTIscGtXBq0wCSA932",
+        "losses": 1,
+        "lossesBracket": 0,
+        "lossesSwiss": 1,
+        "name": "Kriston Broxson",
+        "winRate": 0.5,
+        "winRateBracket": 0,
+        "winRateSwiss": 0.5,
+        "wins": 1,
+        "winsBracket": 0,
+        "winsSwiss": 1,
+      },
+      {
+        "draws": 0,
+        "id": "DHAeKQNG2UQr97iBMGcRLb6Eu1O2",
+        "losses": 1,
+        "lossesBracket": 0,
+        "lossesSwiss": 1,
+        "name": "William Foster-Dow",
+        "winRate": 0.5,
+        "winRateBracket": 0,
+        "winRateSwiss": 0.5,
+        "wins": 1,
+        "winsBracket": 0,
+        "winsSwiss": 1,
+      },
+      {
+        "draws": 0,
+        "id": "fz14DLNsSncFWvtk59ZuDQ4RUGG2",
+        "losses": 1,
+        "lossesBracket": 0,
+        "lossesSwiss": 1,
+        "name": "Joshua Gilstrap",
+        "winRate": 0.5,
+        "winRateBracket": 0,
+        "winRateSwiss": 0.5,
+        "wins": 1,
+        "winsBracket": 0,
+        "winsSwiss": 1,
+      },
+      {
+        "draws": 0,
+        "id": "Kq3DLakMIsZQtwOcIF9EYB5qLaA3",
+        "losses": 1,
+        "lossesBracket": 0,
+        "lossesSwiss": 1,
+        "name": "Christopher Howard",
+        "winRate": 0.5,
+        "winRateBracket": 0,
+        "winRateSwiss": 0.5,
+        "wins": 1,
+        "winsBracket": 0,
+        "winsSwiss": 1,
+      },
+      {
+        "draws": 0,
+        "id": "pQbvuKmNIfeCeiGryvSEi10ocqG3",
+        "losses": 2,
+        "lossesBracket": 0,
+        "lossesSwiss": 2,
+        "name": "Bill Knerr",
+        "winRate": 0,
+        "winRateBracket": 0,
+        "winRateSwiss": 0,
+        "wins": 0,
+        "winsBracket": 0,
+        "winsSwiss": 0,
+      },
+      {
+        "draws": 0,
+        "id": "DtgFdVEQTSQLRxSBzpGFi0CBXun2",
+        "losses": 2,
+        "lossesBracket": 0,
+        "lossesSwiss": 2,
+        "name": "Gage",
+        "winRate": 0,
+        "winRateBracket": 0,
+        "winRateSwiss": 0,
+        "wins": 0,
+        "winsBracket": 0,
+        "winsSwiss": 0,
+      },
+      {
+        "draws": 0,
+        "id": "vgX9ThPifATnZtwT3hje1KOXu1F2",
+        "losses": 2,
+        "lossesBracket": 0,
+        "lossesSwiss": 2,
+        "name": "Ryan Monson",
+        "winRate": 0,
+        "winRateBracket": 0,
+        "winRateSwiss": 0,
+        "wins": 0,
+        "winsBracket": 0,
+        "winsSwiss": 0,
+      },
+      {
+        "draws": 0,
+        "id": "LNzdrD9JEvSmQqif7SOOSpjNOqh1",
+        "losses": 2,
+        "lossesBracket": 0,
+        "lossesSwiss": 2,
+        "name": "Hannah James ",
+        "winRate": 0,
+        "winRateBracket": 0,
+        "winRateSwiss": 0,
+        "wins": 0,
+        "winsBracket": 0,
+        "winsSwiss": 0,
+      },
+    ],
+    "startDate": 2024-12-01T02:00:00.000Z,
+    "swissNum": 2,
+    "topCut": 0,
+    "topElo": 1513,
+    "tournamentName": "cEDH Weekly Saturday Event",
   },
   {
     "TID": "XeB0Bsb0wb63YVABih9c",
@@ -10337,9 +10856,6 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
-        "commanders": [
-          "Ob Nixilis, Captive Kingpin",
-        ],
         "decklist": "https://www.moxfield.com/decks/tzXdCrbmo0OO1FfsnTftjw",
         "draws": 0,
         "id": "sVv7RfaOl4ZBG8uxX1s7i0nmiT52",
@@ -10888,7 +11404,6 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
           {
             "players": [
               {
-                "decklist": "https://www.moxfield.com/decks/0EmQOvzLyEqIy67RdTO4XQ",
                 "id": "Cpk5UxD45Cg6mUaY9Nj7v9byoSn2",
                 "name": "Dan Tiesi",
               },
@@ -10949,7 +11464,6 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
           {
             "players": [
               {
-                "decklist": "https://www.moxfield.com/decks/0EmQOvzLyEqIy67RdTO4XQ",
                 "id": "Cpk5UxD45Cg6mUaY9Nj7v9byoSn2",
                 "name": "Dan Tiesi",
               },
@@ -11079,7 +11593,6 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
                 "name": "Omar Kilgore",
               },
               {
-                "decklist": "https://www.moxfield.com/decks/0EmQOvzLyEqIy67RdTO4XQ",
                 "id": "Cpk5UxD45Cg6mUaY9Nj7v9byoSn2",
                 "name": "Dan Tiesi",
               },
@@ -11162,7 +11675,6 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
                 "name": "Andrew H",
               },
               {
-                "decklist": "https://www.moxfield.com/decks/0EmQOvzLyEqIy67RdTO4XQ",
                 "id": "Cpk5UxD45Cg6mUaY9Nj7v9byoSn2",
                 "name": "Dan Tiesi",
               },
@@ -11218,10 +11730,6 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 3,
       },
       {
-        "commanders": [
-          "K'rrik, Son of Yawgmoth",
-        ],
-        "decklist": "https://www.moxfield.com/decks/0EmQOvzLyEqIy67RdTO4XQ",
         "draws": 1,
         "id": "Cpk5UxD45Cg6mUaY9Nj7v9byoSn2",
         "losses": 2,
@@ -11566,7 +12074,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/Ua-YDj_GPkCv5WTEIBoctw",
                 "id": "EQNIkvOF0tdaQAvOxwEN48opVP83",
-                "name": "patrick",
+                "name": "Patdaddy",
               },
               {
                 "decklist": "https://moxfield.com/decks/pksDgywgKUK7AMrZsNAOLA",
@@ -11616,7 +12124,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/Ua-YDj_GPkCv5WTEIBoctw",
                 "id": "EQNIkvOF0tdaQAvOxwEN48opVP83",
-                "name": "patrick",
+                "name": "Patdaddy",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/Uzk5-gAXRkepKjxRfwwcXg",
@@ -11664,7 +12172,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/Ua-YDj_GPkCv5WTEIBoctw",
                 "id": "EQNIkvOF0tdaQAvOxwEN48opVP83",
-                "name": "patrick",
+                "name": "Patdaddy",
               },
             ],
             "status": "Completed",
@@ -11742,7 +12250,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/Ua-YDj_GPkCv5WTEIBoctw",
                 "id": "EQNIkvOF0tdaQAvOxwEN48opVP83",
-                "name": "patrick",
+                "name": "Patdaddy",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/ZXUZJcK8T0i-IhtZa0xkGQ",
@@ -11911,7 +12419,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "losses": 3,
         "lossesBracket": 0,
         "lossesSwiss": 3,
-        "name": "patrick",
+        "name": "Patdaddy",
         "winRate": 0,
         "winRateBracket": 0,
         "winRateSwiss": 0,
@@ -14096,3633 +14604,6 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
 ]
 `;
 
-exports[`topdeck-api tournaments findById('CpusQJZrpf9DwCxhJ35m') should return detail of tournaments 1`] = `
-{
-  "data": {
-    "format": "EDH",
-    "game": "Magic: The Gathering",
-    "name": "CEDH Tournament 11/30/24",
-    "startDate": 2024-12-01T02:00:00.000Z,
-  },
-  "rounds": [
-    {
-      "round": 1,
-      "tables": [
-        {
-          "players": [
-            {
-              "name": "Camron K",
-            },
-            {
-              "name": "Robert R",
-            },
-            {
-              "name": "Michael B",
-            },
-            {
-              "name": "Ed S",
-            },
-          ],
-          "status": "Completed",
-          "table": 1,
-          "winner_id": "Draw",
-        },
-        {
-          "players": [
-            {
-              "name": "Thomas L",
-            },
-            {
-              "name": "Ender S ",
-            },
-            {
-              "name": "Ryan T",
-            },
-            {
-              "name": "Chris B",
-            },
-          ],
-          "status": "Completed",
-          "table": 2,
-          "winner": "Ender S ",
-        },
-      ],
-    },
-    {
-      "round": 2,
-      "tables": [
-        {
-          "players": [
-            {
-              "name": "Chris B",
-            },
-            {
-              "name": "Ed S",
-            },
-            {
-              "name": "Ender S ",
-            },
-            {
-              "name": "Robert R",
-            },
-          ],
-          "status": "Completed",
-          "table": 1,
-          "winner": "Chris B",
-        },
-        {
-          "players": [
-            {
-              "name": "Camron K",
-            },
-            {
-              "name": "Michael B",
-            },
-            {
-              "name": "Ryan T",
-            },
-            {
-              "name": "Thomas L",
-            },
-          ],
-          "status": "Completed",
-          "table": 2,
-          "winner": "Camron K",
-        },
-      ],
-    },
-    {
-      "round": 3,
-      "tables": [
-        {
-          "players": [
-            {
-              "name": "Robert R",
-            },
-            {
-              "name": "Camron K",
-            },
-            {
-              "name": "Ryan T",
-            },
-            {
-              "name": "Chris B",
-            },
-          ],
-          "status": "Completed",
-          "table": 1,
-          "winner": "Robert R",
-        },
-        {
-          "players": [
-            {
-              "name": "Ed S",
-            },
-            {
-              "name": "Ender S ",
-            },
-            {
-              "name": "Thomas L",
-            },
-            {
-              "name": "Michael B",
-            },
-          ],
-          "status": "Completed",
-          "table": 2,
-          "winner": "Michael B",
-        },
-      ],
-    },
-    {
-      "round": "Top 4",
-      "tables": [
-        {
-          "players": [
-            {
-              "name": "Robert R",
-            },
-            {
-              "name": "Camron K",
-            },
-            {
-              "name": "Michael B",
-            },
-            {
-              "name": "Chris B",
-            },
-          ],
-          "status": "Completed",
-          "table": 1,
-          "winner": "Camron K",
-        },
-      ],
-    },
-  ],
-  "standings": [
-    {
-      "name": "Camron K",
-      "opponentWinRate": 0.28888888888888886,
-      "points": 6,
-      "standing": 1,
-    },
-    {
-      "name": "Robert R",
-      "opponentWinRate": 0.31111111111111106,
-      "points": 6,
-      "standing": 2,
-    },
-    {
-      "name": "Michael B",
-      "opponentWinRate": 0.28888888888888886,
-      "points": 6,
-      "standing": 3,
-    },
-    {
-      "name": "Chris B",
-      "opponentWinRate": 0.2888888888888889,
-      "points": 5,
-      "standing": 4,
-    },
-    {
-      "name": "Ender S ",
-      "opponentWinRate": 0.2888888888888889,
-      "points": 5,
-      "standing": 5,
-    },
-    {
-      "name": "Ed S",
-      "opponentWinRate": 0.3444444444444445,
-      "points": 1,
-      "standing": 6,
-    },
-    {
-      "name": "Ryan T",
-      "opponentWinRate": 0.3444444444444444,
-      "points": 0,
-      "standing": 7,
-    },
-    {
-      "name": "Thomas L",
-      "opponentWinRate": 0.31111111111111106,
-      "points": 0,
-      "standing": 8,
-    },
-  ],
-}
-`;
-
-exports[`topdeck-api tournaments findById('XeB0Bsb0wb63YVABih9c') should return detail of tournaments 1`] = `
-{
-  "data": {
-    "format": "EDH",
-    "game": "Magic: The Gathering",
-    "name": "COMMANDER ARMAGEDDON 7",
-    "startDate": 2024-12-01T09:00:00.000Z,
-  },
-  "rounds": [
-    {
-      "round": 1,
-      "tables": [
-        {
-          "players": [
-            {
-              "name": "Matteo Lucietto                                               ",
-            },
-            {
-              "name": "Francesco Balbi                                               ",
-            },
-            {
-              "name": "Nicola ACE Mason       ",
-            },
-            {
-              "name": "Davide Zampieri                                               ",
-            },
-          ],
-          "status": "Completed",
-          "table": 1,
-          "winner": "Nicola ACE Mason       ",
-        },
-        {
-          "players": [
-            {
-              "name": "Giacomo Andolfatto                                            ",
-            },
-            {
-              "name": "Antonio Colombo                                               ",
-            },
-            {
-              "name": "Francesco Cecchetti                                           ",
-            },
-            {
-              "name": "Elisa Ferri                                                   ",
-            },
-          ],
-          "status": "Completed",
-          "table": 2,
-          "winner": "Francesco Cecchetti                                           ",
-        },
-        {
-          "players": [
-            {
-              "name": "Damiano Ferri                                                 ",
-            },
-            {
-              "name": "matteo dalla benetta                                          ",
-            },
-            {
-              "name": "Massimiliano Scodro                                           ",
-            },
-          ],
-          "status": "Completed",
-          "table": 3,
-          "winner": "Damiano Ferri                                                 ",
-        },
-      ],
-    },
-    {
-      "round": 2,
-      "tables": [
-        {
-          "players": [
-            {
-              "name": "matteo dalla benetta                                          ",
-            },
-            {
-              "name": "Francesco Cecchetti                                           ",
-            },
-            {
-              "name": "Nicola ACE Mason       ",
-            },
-            {
-              "name": "Damiano Ferri                                                 ",
-            },
-          ],
-          "status": "Completed",
-          "table": 1,
-          "winner": "Damiano Ferri                                                 ",
-        },
-        {
-          "players": [
-            {
-              "name": "Matteo Lucietto                                               ",
-            },
-            {
-              "name": "Francesco Balbi                                               ",
-            },
-            {
-              "name": "Giacomo Andolfatto                                            ",
-            },
-            {
-              "name": "Massimiliano Scodro                                           ",
-            },
-          ],
-          "status": "Completed",
-          "table": 2,
-          "winner": "Massimiliano Scodro                                           ",
-        },
-        {
-          "players": [
-            {
-              "name": "Davide Zampieri                                               ",
-            },
-            {
-              "name": "Elisa Ferri                                                   ",
-            },
-            {
-              "name": "Antonio Colombo                                               ",
-            },
-          ],
-          "status": "Completed",
-          "table": 3,
-          "winner": "Elisa Ferri                                                   ",
-        },
-      ],
-    },
-    {
-      "round": 3,
-      "tables": [
-        {
-          "players": [
-            {
-              "name": "Elisa Ferri                                                   ",
-            },
-            {
-              "name": "matteo dalla benetta                                          ",
-            },
-            {
-              "name": "Damiano Ferri                                                 ",
-            },
-            {
-              "name": "Francesco Balbi                                               ",
-            },
-          ],
-          "status": "Completed",
-          "table": 1,
-          "winner": "Damiano Ferri                                                 ",
-        },
-        {
-          "players": [
-            {
-              "name": "Francesco Cecchetti                                           ",
-            },
-            {
-              "name": "Massimiliano Scodro                                           ",
-            },
-            {
-              "name": "Nicola ACE Mason       ",
-            },
-            {
-              "name": "Antonio Colombo                                               ",
-            },
-          ],
-          "status": "Completed",
-          "table": 2,
-          "winner": "Massimiliano Scodro                                           ",
-        },
-        {
-          "players": [
-            {
-              "name": "Davide Zampieri                                               ",
-            },
-            {
-              "name": "Giacomo Andolfatto                                            ",
-            },
-            {
-              "name": "Matteo Lucietto                                               ",
-            },
-          ],
-          "status": "Completed",
-          "table": 3,
-          "winner": "Davide Zampieri                                               ",
-        },
-      ],
-    },
-    {
-      "round": "Top 4",
-      "tables": [
-        {
-          "players": [
-            {
-              "name": "Damiano Ferri                                                 ",
-            },
-            {
-              "name": "Francesco Cecchetti                                           ",
-            },
-            {
-              "name": "Nicola ACE Mason       ",
-            },
-            {
-              "name": "Elisa Ferri                                                   ",
-            },
-          ],
-          "status": "Completed",
-          "table": 1,
-          "winner": "Elisa Ferri                                                   ",
-        },
-      ],
-    },
-  ],
-  "standings": [
-    {
-      "name": "Elisa Ferri                                                   ",
-      "opponentWinRate": 0.3523809523809524,
-      "points": 5,
-      "standing": 1,
-    },
-    {
-      "name": "Damiano Ferri                                                 ",
-      "opponentWinRate": 0.3444444444444444,
-      "points": 15,
-      "standing": 2,
-    },
-    {
-      "name": "Massimiliano Scodro                                           ",
-      "opponentWinRate": 0.33333333333333337,
-      "points": 10,
-      "standing": 3,
-    },
-    {
-      "name": "Francesco Cecchetti                                           ",
-      "opponentWinRate": 0.419047619047619,
-      "points": 5,
-      "standing": 4,
-    },
-    {
-      "name": "Nicola ACE Mason       ",
-      "opponentWinRate": 0.39166666666666666,
-      "points": 5,
-      "standing": 5,
-    },
-    {
-      "name": "Davide Zampieri                                               ",
-      "opponentWinRate": 0.24444444444444444,
-      "points": 5,
-      "standing": 6,
-    },
-    {
-      "name": "matteo dalla benetta                                          ",
-      "opponentWinRate": 0.4777777777777778,
-      "points": 0,
-      "standing": 7,
-    },
-    {
-      "name": "Francesco Balbi                                               ",
-      "opponentWinRate": 0.4083333333333334,
-      "points": 0,
-      "standing": 8,
-    },
-    {
-      "name": "Antonio Colombo                                               ",
-      "opponentWinRate": 0.3666666666666667,
-      "points": 0,
-      "standing": 9,
-    },
-    {
-      "name": "Matteo Lucietto                                               ",
-      "opponentWinRate": 0.3466666666666667,
-      "points": 0,
-      "standing": 10,
-    },
-    {
-      "name": "Giacomo Andolfatto                                            ",
-      "opponentWinRate": 0.3238095238095238,
-      "points": 0,
-      "standing": 11,
-    },
-  ],
-}
-`;
-
-exports[`topdeck-api tournaments findById('AGSIZchKVS88tXt3Xf20') should return detail of tournaments 1`] = `
-{
-  "data": {
-    "format": "EDH",
-    "game": "Magic: The Gathering",
-    "name": "Sit&Game xyz",
-    "startDate": 2024-12-01T11:00:00.000Z,
-  },
-  "rounds": [
-    {
-      "round": 1,
-      "tables": [
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/FOrhVEEsg0GEsAhn5mb6zw",
-              "name": "Kykar",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/uQWmqXJpVUWQupVvZCmjZQ",
-              "name": "Roon",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/RP7FoOw3zkakrMumaAeKMw",
-              "name": "Atla Palani",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/-W79K_IW2UONsZ8i3-2Sfg",
-              "name": "Pramikon",
-            },
-          ],
-          "status": "Completed",
-          "table": 1,
-          "winner": "Kykar",
-        },
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/KhfndN1KBkeryStOowJlkA",
-              "name": "Illuna",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/KoMtNtsSd0yPLisv3OI7Tg",
-              "name": "Estrid",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/JM-_534B3UmDbTvo5URanQ",
-              "name": "Anikthea",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/kqsdk9bMsUWA50i-JxsY2Q",
-              "name": "Kylox",
-            },
-          ],
-          "status": "Completed",
-          "table": 2,
-          "winner": "Anikthea",
-        },
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/hAYjP9Yx5UONngvxA9cKGQ",
-              "name": "Negan",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/VnmJ9t2Qo0Wq3OmIuKVYSw",
-              "name": "Muldrotha",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/vBTygbGTPEylUDCGbdstJA",
-              "name": "Aminatou",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/9xsvnNfKnkKcWPKj6yYZWg",
-              "name": "Queza",
-            },
-          ],
-          "status": "Completed",
-          "table": 3,
-          "winner": "Queza",
-        },
-      ],
-    },
-    {
-      "round": 2,
-      "tables": [
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/kqsdk9bMsUWA50i-JxsY2Q",
-              "name": "Kylox",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/9xsvnNfKnkKcWPKj6yYZWg",
-              "name": "Queza",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/JM-_534B3UmDbTvo5URanQ",
-              "name": "Anikthea",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/FOrhVEEsg0GEsAhn5mb6zw",
-              "name": "Kykar",
-            },
-          ],
-          "status": "Completed",
-          "table": 1,
-          "winner": "Queza",
-        },
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/uQWmqXJpVUWQupVvZCmjZQ",
-              "name": "Roon",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/VnmJ9t2Qo0Wq3OmIuKVYSw",
-              "name": "Muldrotha",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/RP7FoOw3zkakrMumaAeKMw",
-              "name": "Atla Palani",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/KhfndN1KBkeryStOowJlkA",
-              "name": "Illuna",
-            },
-          ],
-          "status": "Completed",
-          "table": 2,
-          "winner": "Roon",
-        },
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/-W79K_IW2UONsZ8i3-2Sfg",
-              "name": "Pramikon",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/vBTygbGTPEylUDCGbdstJA",
-              "name": "Aminatou",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/KoMtNtsSd0yPLisv3OI7Tg",
-              "name": "Estrid",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/hAYjP9Yx5UONngvxA9cKGQ",
-              "name": "Negan",
-            },
-          ],
-          "status": "Completed",
-          "table": 3,
-          "winner": "Aminatou",
-        },
-      ],
-    },
-    {
-      "round": 3,
-      "tables": [
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/KoMtNtsSd0yPLisv3OI7Tg",
-              "name": "Estrid",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/uQWmqXJpVUWQupVvZCmjZQ",
-              "name": "Roon",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/kqsdk9bMsUWA50i-JxsY2Q",
-              "name": "Kylox",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/9xsvnNfKnkKcWPKj6yYZWg",
-              "name": "Queza",
-            },
-          ],
-          "status": "Completed",
-          "table": 1,
-          "winner": "Queza",
-        },
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/JM-_534B3UmDbTvo5URanQ",
-              "name": "Anikthea",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/RP7FoOw3zkakrMumaAeKMw",
-              "name": "Atla Palani",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/vBTygbGTPEylUDCGbdstJA",
-              "name": "Aminatou",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/-W79K_IW2UONsZ8i3-2Sfg",
-              "name": "Pramikon",
-            },
-          ],
-          "status": "Completed",
-          "table": 2,
-          "winner": "Pramikon",
-        },
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/KhfndN1KBkeryStOowJlkA",
-              "name": "Illuna",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/FOrhVEEsg0GEsAhn5mb6zw",
-              "name": "Kykar",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/hAYjP9Yx5UONngvxA9cKGQ",
-              "name": "Negan",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/VnmJ9t2Qo0Wq3OmIuKVYSw",
-              "name": "Muldrotha",
-            },
-          ],
-          "status": "Completed",
-          "table": 3,
-          "winner": "Muldrotha",
-        },
-      ],
-    },
-  ],
-  "standings": [
-    {
-      "decklist": "https://www.moxfield.com/decks/9xsvnNfKnkKcWPKj6yYZWg",
-      "name": "Queza",
-      "opponentWinRate": 0.2833333333333333,
-      "points": 15,
-      "standing": 1,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/vBTygbGTPEylUDCGbdstJA",
-      "name": "Aminatou",
-      "opponentWinRate": 0.37142857142857144,
-      "points": 5,
-      "standing": 2,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/VnmJ9t2Qo0Wq3OmIuKVYSw",
-      "name": "Muldrotha",
-      "opponentWinRate": 0.37142857142857144,
-      "points": 5,
-      "standing": 3,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/JM-_534B3UmDbTvo5URanQ",
-      "name": "Anikthea",
-      "opponentWinRate": 0.35000000000000003,
-      "points": 5,
-      "standing": 4,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/uQWmqXJpVUWQupVvZCmjZQ",
-      "name": "Roon",
-      "opponentWinRate": 0.35,
-      "points": 5,
-      "standing": 5,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/FOrhVEEsg0GEsAhn5mb6zw",
-      "name": "Kykar",
-      "opponentWinRate": 0.3481481481481482,
-      "points": 5,
-      "standing": 6,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/-W79K_IW2UONsZ8i3-2Sfg",
-      "name": "Pramikon",
-      "opponentWinRate": 0.27619047619047615,
-      "points": 5,
-      "standing": 7,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/kqsdk9bMsUWA50i-JxsY2Q",
-      "name": "Kylox",
-      "opponentWinRate": 0.4000000000000001,
-      "points": 0,
-      "standing": 8,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/hAYjP9Yx5UONngvxA9cKGQ",
-      "name": "Negan",
-      "opponentWinRate": 0.3904761904761905,
-      "points": 0,
-      "standing": 9,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/KoMtNtsSd0yPLisv3OI7Tg",
-      "name": "Estrid",
-      "opponentWinRate": 0.36666666666666664,
-      "points": 0,
-      "standing": 10,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/RP7FoOw3zkakrMumaAeKMw",
-      "name": "Atla Palani",
-      "opponentWinRate": 0.3142857142857142,
-      "points": 0,
-      "standing": 11,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/KhfndN1KBkeryStOowJlkA",
-      "name": "Illuna",
-      "opponentWinRate": 0.26666666666666666,
-      "points": 0,
-      "standing": 12,
-    },
-  ],
-}
-`;
-
-exports[`topdeck-api tournaments findById('Prds4TtudmDUYQGy5glf') should return detail of tournaments 1`] = `
-{
-  "data": {
-    "format": "EDH",
-    "game": "Magic: The Gathering",
-    "name": "cEDH Win a Box - Rogues Quarter",
-    "startDate": 2024-12-01T11:00:00.000Z,
-  },
-  "rounds": [
-    {
-      "round": 1,
-      "tables": [
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/QhmCasMsVUGX03tybFXoSg",
-              "id": "QdIznURPpfQEKKO5YORwbB8vNTI2",
-              "name": "Qasim Rashid",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/KijyOoYJj02G7TsJ6fLRyQ",
-              "id": "jrkq6K8ox1bLygG091KnG3X74aq1",
-              "name": "Jay Silvester",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/o03m8fP_FkGVdT2ECNVR-g",
-              "id": "M0ctXMqFONNcBqzOVdDuPTRoa392",
-              "name": "Federico Zubani",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/UfNV_j1FqEuNVsK_70SeGA",
-              "id": "mOPcuzgdQ4R8YN5Yr0yBEIn7Wez1",
-              "name": "Nedwardo",
-            },
-          ],
-          "status": "Completed",
-          "table": 1,
-          "winner": "Jay Silvester",
-          "winner_id": "jrkq6K8ox1bLygG091KnG3X74aq1",
-        },
-        {
-          "players": [
-            {
-              "id": "rDBXZDHX2xgRQikoPh2DQZ7xExw2",
-              "name": "Lewis Sam Davis",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/uF3LG7xXVUGmIAPdgAGx9w",
-              "id": "MDtDHsLGB8SWWucg8opW2FjGhl32",
-              "name": "Jamie R",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/pp6hepGGKkqUdCSHRCxAcg",
-              "id": "tifq1nYPgaWhZgeDotAysWJDJ923",
-              "name": "Harry erskine",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/ib6YThSzHEiY4dytW8tJdQ",
-              "id": "pNQQfFQ91Vd632aQBWclWu78FLa2",
-              "name": "James Lamaison",
-            },
-          ],
-          "status": "Completed",
-          "table": 2,
-          "winner_id": "Draw",
-        },
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/1aLqNrcFPkShca628dBLNA",
-              "id": "2HCgRchKmFNdgZhw9ejXp2iZ4no1",
-              "name": "Ben Mullan",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/mECt3EMXvUqie-CPJwnNoA",
-              "id": "6s7cRCNbXWaVsDrVzBpeMTEEGwk2",
-              "name": "Lucy lucia längle",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/6QKZzRL1iUG8prPFqvA7-Q",
-              "id": "uHU3tBXzj6cyYCYgy31hZ9lSv2b2",
-              "name": "Theodore Lawson",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/z2oO9IJkBU6jX7ZQ7Y1hFA",
-              "id": "k8AmCV40MAg7xeCFUbbdGMelXfc2",
-              "name": "Matthew Harrison",
-            },
-          ],
-          "status": "Completed",
-          "table": 3,
-          "winner": "Ben Mullan",
-          "winner_id": "2HCgRchKmFNdgZhw9ejXp2iZ4no1",
-        },
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/CpF56jmoq0eaEOHr-cAfYw",
-              "id": "QQtBXdQu3her2mZRZDJqiPpqe1X2",
-              "name": "Ani Jackson",
-            },
-            {
-              "id": "cxpjZsxM4QSgH5pSwpWCrlRJY643",
-              "name": "Ed G",
-            },
-            {
-              "id": "hEocy0ou1rhM6hyyYlotMGXUoBk1",
-              "name": "Daniel Beaven",
-            },
-          ],
-          "status": "Completed",
-          "table": 4,
-          "winner": "Ed G",
-          "winner_id": "cxpjZsxM4QSgH5pSwpWCrlRJY643",
-        },
-        {
-          "players": [
-            {
-              "id": "3hZNILQujrcgOLSiCigiW1zkWyI2",
-              "name": "Dillon Beattie",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/EvO1LoSwW0ycHtOm-ttyRQ",
-              "id": "KRhbXZtyq9RJxXzKmAY2uk1JJcb2",
-              "name": "Tom Burns",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/x7p4uQ__gUqMQL2JdfiErQ",
-              "id": "ETE9gtPlD9OuDxOswfCHW78YQSW2",
-              "name": "Jade Richardson",
-            },
-          ],
-          "status": "Completed",
-          "table": 5,
-          "winner": "Dillon Beattie",
-          "winner_id": "3hZNILQujrcgOLSiCigiW1zkWyI2",
-        },
-      ],
-    },
-    {
-      "round": 2,
-      "tables": [
-        {
-          "players": [
-            {
-              "id": "cxpjZsxM4QSgH5pSwpWCrlRJY643",
-              "name": "Ed G",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/KijyOoYJj02G7TsJ6fLRyQ",
-              "id": "jrkq6K8ox1bLygG091KnG3X74aq1",
-              "name": "Jay Silvester",
-            },
-            {
-              "id": "3hZNILQujrcgOLSiCigiW1zkWyI2",
-              "name": "Dillon Beattie",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/1aLqNrcFPkShca628dBLNA",
-              "id": "2HCgRchKmFNdgZhw9ejXp2iZ4no1",
-              "name": "Ben Mullan",
-            },
-          ],
-          "status": "Completed",
-          "table": 1,
-          "winner_id": "Draw",
-        },
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/ib6YThSzHEiY4dytW8tJdQ",
-              "id": "pNQQfFQ91Vd632aQBWclWu78FLa2",
-              "name": "James Lamaison",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/x7p4uQ__gUqMQL2JdfiErQ",
-              "id": "ETE9gtPlD9OuDxOswfCHW78YQSW2",
-              "name": "Jade Richardson",
-            },
-            {
-              "id": "hEocy0ou1rhM6hyyYlotMGXUoBk1",
-              "name": "Daniel Beaven",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/6QKZzRL1iUG8prPFqvA7-Q",
-              "id": "uHU3tBXzj6cyYCYgy31hZ9lSv2b2",
-              "name": "Theodore Lawson",
-            },
-          ],
-          "status": "Completed",
-          "table": 2,
-          "winner_id": "Draw",
-        },
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/CpF56jmoq0eaEOHr-cAfYw",
-              "id": "QQtBXdQu3her2mZRZDJqiPpqe1X2",
-              "name": "Ani Jackson",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/EvO1LoSwW0ycHtOm-ttyRQ",
-              "id": "KRhbXZtyq9RJxXzKmAY2uk1JJcb2",
-              "name": "Tom Burns",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/uF3LG7xXVUGmIAPdgAGx9w",
-              "id": "MDtDHsLGB8SWWucg8opW2FjGhl32",
-              "name": "Jamie R",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/QhmCasMsVUGX03tybFXoSg",
-              "id": "QdIznURPpfQEKKO5YORwbB8vNTI2",
-              "name": "Qasim Rashid",
-            },
-          ],
-          "status": "Completed",
-          "table": 3,
-          "winner_id": "Draw",
-        },
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/o03m8fP_FkGVdT2ECNVR-g",
-              "id": "M0ctXMqFONNcBqzOVdDuPTRoa392",
-              "name": "Federico Zubani",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/mECt3EMXvUqie-CPJwnNoA",
-              "id": "6s7cRCNbXWaVsDrVzBpeMTEEGwk2",
-              "name": "Lucy lucia längle",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/pp6hepGGKkqUdCSHRCxAcg",
-              "id": "tifq1nYPgaWhZgeDotAysWJDJ923",
-              "name": "Harry erskine",
-            },
-          ],
-          "status": "Completed",
-          "table": 4,
-          "winner": "Harry erskine",
-          "winner_id": "tifq1nYPgaWhZgeDotAysWJDJ923",
-        },
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/UfNV_j1FqEuNVsK_70SeGA",
-              "id": "mOPcuzgdQ4R8YN5Yr0yBEIn7Wez1",
-              "name": "Nedwardo",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/z2oO9IJkBU6jX7ZQ7Y1hFA",
-              "id": "k8AmCV40MAg7xeCFUbbdGMelXfc2",
-              "name": "Matthew Harrison",
-            },
-            {
-              "id": "rDBXZDHX2xgRQikoPh2DQZ7xExw2",
-              "name": "Lewis Sam Davis",
-            },
-          ],
-          "status": "Completed",
-          "table": 5,
-          "winner": "Nedwardo",
-          "winner_id": "mOPcuzgdQ4R8YN5Yr0yBEIn7Wez1",
-        },
-      ],
-    },
-    {
-      "round": 3,
-      "tables": [
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/pp6hepGGKkqUdCSHRCxAcg",
-              "id": "tifq1nYPgaWhZgeDotAysWJDJ923",
-              "name": "Harry erskine",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/UfNV_j1FqEuNVsK_70SeGA",
-              "id": "mOPcuzgdQ4R8YN5Yr0yBEIn7Wez1",
-              "name": "Nedwardo",
-            },
-            {
-              "id": "hEocy0ou1rhM6hyyYlotMGXUoBk1",
-              "name": "Daniel Beaven",
-            },
-            {
-              "id": "3hZNILQujrcgOLSiCigiW1zkWyI2",
-              "name": "Dillon Beattie",
-            },
-          ],
-          "status": "Completed",
-          "table": 1,
-          "winner": "Harry erskine",
-          "winner_id": "tifq1nYPgaWhZgeDotAysWJDJ923",
-        },
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/z2oO9IJkBU6jX7ZQ7Y1hFA",
-              "id": "k8AmCV40MAg7xeCFUbbdGMelXfc2",
-              "name": "Matthew Harrison",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/ib6YThSzHEiY4dytW8tJdQ",
-              "id": "pNQQfFQ91Vd632aQBWclWu78FLa2",
-              "name": "James Lamaison",
-            },
-            {
-              "id": "cxpjZsxM4QSgH5pSwpWCrlRJY643",
-              "name": "Ed G",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/EvO1LoSwW0ycHtOm-ttyRQ",
-              "id": "KRhbXZtyq9RJxXzKmAY2uk1JJcb2",
-              "name": "Tom Burns",
-            },
-          ],
-          "status": "Completed",
-          "table": 2,
-          "winner": "James Lamaison",
-          "winner_id": "pNQQfFQ91Vd632aQBWclWu78FLa2",
-        },
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/mECt3EMXvUqie-CPJwnNoA",
-              "id": "6s7cRCNbXWaVsDrVzBpeMTEEGwk2",
-              "name": "Lucy lucia längle",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/x7p4uQ__gUqMQL2JdfiErQ",
-              "id": "ETE9gtPlD9OuDxOswfCHW78YQSW2",
-              "name": "Jade Richardson",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/uF3LG7xXVUGmIAPdgAGx9w",
-              "id": "MDtDHsLGB8SWWucg8opW2FjGhl32",
-              "name": "Jamie R",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/1aLqNrcFPkShca628dBLNA",
-              "id": "2HCgRchKmFNdgZhw9ejXp2iZ4no1",
-              "name": "Ben Mullan",
-            },
-          ],
-          "status": "Completed",
-          "table": 3,
-          "winner": "Ben Mullan",
-          "winner_id": "2HCgRchKmFNdgZhw9ejXp2iZ4no1",
-        },
-        {
-          "players": [
-            {
-              "id": "rDBXZDHX2xgRQikoPh2DQZ7xExw2",
-              "name": "Lewis Sam Davis",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/CpF56jmoq0eaEOHr-cAfYw",
-              "id": "QQtBXdQu3her2mZRZDJqiPpqe1X2",
-              "name": "Ani Jackson",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/KijyOoYJj02G7TsJ6fLRyQ",
-              "id": "jrkq6K8ox1bLygG091KnG3X74aq1",
-              "name": "Jay Silvester",
-            },
-          ],
-          "status": "Completed",
-          "table": 4,
-          "winner": "Jay Silvester",
-          "winner_id": "jrkq6K8ox1bLygG091KnG3X74aq1",
-        },
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/6QKZzRL1iUG8prPFqvA7-Q",
-              "id": "uHU3tBXzj6cyYCYgy31hZ9lSv2b2",
-              "name": "Theodore Lawson",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/QhmCasMsVUGX03tybFXoSg",
-              "id": "QdIznURPpfQEKKO5YORwbB8vNTI2",
-              "name": "Qasim Rashid",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/o03m8fP_FkGVdT2ECNVR-g",
-              "id": "M0ctXMqFONNcBqzOVdDuPTRoa392",
-              "name": "Federico Zubani",
-            },
-          ],
-          "status": "Completed",
-          "table": 5,
-          "winner": "Federico Zubani",
-          "winner_id": "M0ctXMqFONNcBqzOVdDuPTRoa392",
-        },
-      ],
-    },
-    {
-      "round": 4,
-      "tables": [
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/1aLqNrcFPkShca628dBLNA",
-              "id": "2HCgRchKmFNdgZhw9ejXp2iZ4no1",
-              "name": "Ben Mullan",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/pp6hepGGKkqUdCSHRCxAcg",
-              "id": "tifq1nYPgaWhZgeDotAysWJDJ923",
-              "name": "Harry erskine",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/x7p4uQ__gUqMQL2JdfiErQ",
-              "id": "ETE9gtPlD9OuDxOswfCHW78YQSW2",
-              "name": "Jade Richardson",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/CpF56jmoq0eaEOHr-cAfYw",
-              "id": "QQtBXdQu3her2mZRZDJqiPpqe1X2",
-              "name": "Ani Jackson",
-            },
-          ],
-          "status": "Completed",
-          "table": 1,
-          "winner_id": "Draw",
-        },
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/KijyOoYJj02G7TsJ6fLRyQ",
-              "id": "jrkq6K8ox1bLygG091KnG3X74aq1",
-              "name": "Jay Silvester",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/mECt3EMXvUqie-CPJwnNoA",
-              "id": "6s7cRCNbXWaVsDrVzBpeMTEEGwk2",
-              "name": "Lucy lucia längle",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/ib6YThSzHEiY4dytW8tJdQ",
-              "id": "pNQQfFQ91Vd632aQBWclWu78FLa2",
-              "name": "James Lamaison",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/z2oO9IJkBU6jX7ZQ7Y1hFA",
-              "id": "k8AmCV40MAg7xeCFUbbdGMelXfc2",
-              "name": "Matthew Harrison",
-            },
-          ],
-          "status": "Completed",
-          "table": 2,
-          "winner_id": "Draw",
-        },
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/o03m8fP_FkGVdT2ECNVR-g",
-              "id": "M0ctXMqFONNcBqzOVdDuPTRoa392",
-              "name": "Federico Zubani",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/uF3LG7xXVUGmIAPdgAGx9w",
-              "id": "MDtDHsLGB8SWWucg8opW2FjGhl32",
-              "name": "Jamie R",
-            },
-            {
-              "id": "cxpjZsxM4QSgH5pSwpWCrlRJY643",
-              "name": "Ed G",
-            },
-          ],
-          "status": "Completed",
-          "table": 3,
-          "winner": "Ed G",
-          "winner_id": "cxpjZsxM4QSgH5pSwpWCrlRJY643",
-        },
-        {
-          "players": [
-            {
-              "id": "3hZNILQujrcgOLSiCigiW1zkWyI2",
-              "name": "Dillon Beattie",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/QhmCasMsVUGX03tybFXoSg",
-              "id": "QdIznURPpfQEKKO5YORwbB8vNTI2",
-              "name": "Qasim Rashid",
-            },
-            {
-              "id": "rDBXZDHX2xgRQikoPh2DQZ7xExw2",
-              "name": "Lewis Sam Davis",
-            },
-          ],
-          "status": "Completed",
-          "table": 4,
-          "winner": "Lewis Sam Davis",
-          "winner_id": "rDBXZDHX2xgRQikoPh2DQZ7xExw2",
-        },
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/6QKZzRL1iUG8prPFqvA7-Q",
-              "id": "uHU3tBXzj6cyYCYgy31hZ9lSv2b2",
-              "name": "Theodore Lawson",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/EvO1LoSwW0ycHtOm-ttyRQ",
-              "id": "KRhbXZtyq9RJxXzKmAY2uk1JJcb2",
-              "name": "Tom Burns",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/UfNV_j1FqEuNVsK_70SeGA",
-              "id": "mOPcuzgdQ4R8YN5Yr0yBEIn7Wez1",
-              "name": "Nedwardo",
-            },
-          ],
-          "status": "Completed",
-          "table": 5,
-          "winner": "Theodore Lawson",
-          "winner_id": "uHU3tBXzj6cyYCYgy31hZ9lSv2b2",
-        },
-      ],
-    },
-    {
-      "round": "Top 4",
-      "tables": [
-        {
-          "players": [
-            {
-              "decklist": "https://www.moxfield.com/decks/1aLqNrcFPkShca628dBLNA",
-              "id": "2HCgRchKmFNdgZhw9ejXp2iZ4no1",
-              "name": "Ben Mullan",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/KijyOoYJj02G7TsJ6fLRyQ",
-              "id": "jrkq6K8ox1bLygG091KnG3X74aq1",
-              "name": "Jay Silvester",
-            },
-            {
-              "decklist": "https://www.moxfield.com/decks/pp6hepGGKkqUdCSHRCxAcg",
-              "id": "tifq1nYPgaWhZgeDotAysWJDJ923",
-              "name": "Harry erskine",
-            },
-            {
-              "id": "cxpjZsxM4QSgH5pSwpWCrlRJY643",
-              "name": "Ed G",
-            },
-          ],
-          "status": "Completed",
-          "table": 1,
-          "winner": "Jay Silvester",
-          "winner_id": "jrkq6K8ox1bLygG091KnG3X74aq1",
-        },
-      ],
-    },
-  ],
-  "standings": [
-    {
-      "decklist": "https://www.moxfield.com/decks/KijyOoYJj02G7TsJ6fLRyQ",
-      "id": "jrkq6K8ox1bLygG091KnG3X74aq1",
-      "name": "Jay Silvester",
-      "opponentWinRate": 0.31363636363636366,
-      "points": 12,
-      "standing": 1,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/1aLqNrcFPkShca628dBLNA",
-      "id": "2HCgRchKmFNdgZhw9ejXp2iZ4no1",
-      "name": "Ben Mullan",
-      "opponentWinRate": 0.3350000000000001,
-      "points": 12,
-      "standing": 2,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/pp6hepGGKkqUdCSHRCxAcg",
-      "id": "tifq1nYPgaWhZgeDotAysWJDJ923",
-      "name": "Harry erskine",
-      "opponentWinRate": 0.2818181818181818,
-      "points": 12,
-      "standing": 3,
-    },
-    {
-      "id": "cxpjZsxM4QSgH5pSwpWCrlRJY643",
-      "name": "Ed G",
-      "opponentWinRate": 0.31500000000000006,
-      "points": 11,
-      "standing": 4,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/ib6YThSzHEiY4dytW8tJdQ",
-      "id": "pNQQfFQ91Vd632aQBWclWu78FLa2",
-      "name": "James Lamaison",
-      "opponentWinRate": 0.32272727272727275,
-      "points": 8,
-      "standing": 5,
-    },
-    {
-      "id": "3hZNILQujrcgOLSiCigiW1zkWyI2",
-      "name": "Dillon Beattie",
-      "opponentWinRate": 0.37,
-      "points": 6,
-      "standing": 6,
-    },
-    {
-      "id": "rDBXZDHX2xgRQikoPh2DQZ7xExw2",
-      "name": "Lewis Sam Davis",
-      "opponentWinRate": 0.3277777777777778,
-      "points": 6,
-      "standing": 7,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/6QKZzRL1iUG8prPFqvA7-Q",
-      "id": "uHU3tBXzj6cyYCYgy31hZ9lSv2b2",
-      "name": "Theodore Lawson",
-      "opponentWinRate": 0.27,
-      "points": 6,
-      "standing": 8,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/o03m8fP_FkGVdT2ECNVR-g",
-      "id": "M0ctXMqFONNcBqzOVdDuPTRoa392",
-      "name": "Federico Zubani",
-      "opponentWinRate": 0.36250000000000004,
-      "points": 5,
-      "standing": 9,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/UfNV_j1FqEuNVsK_70SeGA",
-      "id": "mOPcuzgdQ4R8YN5Yr0yBEIn7Wez1",
-      "name": "Nedwardo",
-      "opponentWinRate": 0.315,
-      "points": 5,
-      "standing": 10,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/CpF56jmoq0eaEOHr-cAfYw",
-      "id": "QQtBXdQu3her2mZRZDJqiPpqe1X2",
-      "name": "Ani Jackson",
-      "opponentWinRate": 0.36500000000000005,
-      "points": 2,
-      "standing": 11,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/uF3LG7xXVUGmIAPdgAGx9w",
-      "id": "MDtDHsLGB8SWWucg8opW2FjGhl32",
-      "name": "Jamie R",
-      "opponentWinRate": 0.33636363636363636,
-      "points": 2,
-      "standing": 12,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/x7p4uQ__gUqMQL2JdfiErQ",
-      "id": "ETE9gtPlD9OuDxOswfCHW78YQSW2",
-      "name": "Jade Richardson",
-      "opponentWinRate": 0.32,
-      "points": 2,
-      "standing": 13,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/z2oO9IJkBU6jX7ZQ7Y1hFA",
-      "id": "k8AmCV40MAg7xeCFUbbdGMelXfc2",
-      "name": "Matthew Harrison",
-      "opponentWinRate": 0.3777777777777779,
-      "points": 1,
-      "standing": 14,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/mECt3EMXvUqie-CPJwnNoA",
-      "id": "6s7cRCNbXWaVsDrVzBpeMTEEGwk2",
-      "name": "Lucy lucia längle",
-      "opponentWinRate": 0.37222222222222223,
-      "points": 1,
-      "standing": 15,
-    },
-    {
-      "id": "hEocy0ou1rhM6hyyYlotMGXUoBk1",
-      "name": "Daniel Beaven",
-      "opponentWinRate": 0.35,
-      "points": 1,
-      "standing": 16,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/QhmCasMsVUGX03tybFXoSg",
-      "id": "QdIznURPpfQEKKO5YORwbB8vNTI2",
-      "name": "Qasim Rashid",
-      "opponentWinRate": 0.28888888888888886,
-      "points": 1,
-      "standing": 17,
-    },
-    {
-      "decklist": "https://www.moxfield.com/decks/EvO1LoSwW0ycHtOm-ttyRQ",
-      "id": "KRhbXZtyq9RJxXzKmAY2uk1JJcb2",
-      "name": "Tom Burns",
-      "opponentWinRate": 0.27999999999999997,
-      "points": 1,
-      "standing": 18,
-    },
-  ],
-}
-`;
-
-exports[`topdeck-api tournaments findById('SHvK2nViBz7hAcxIWLYS') should return detail of tournaments 1`] = `
-{
-  "data": {
-    "format": "EDH",
-    "game": "Magic: The Gathering",
-    "name": "CSM Torneo 4",
-    "startDate": 2024-12-01T14:00:00.000Z,
-  },
-  "rounds": [
-    {
-      "round": 1,
-      "tables": [
-        {
-          "players": [
-            {
-              "name": "Pedro Domínguez Ortega ",
-            },
-            {
-              "name": "Gonzalo Horacio Andrade Benavente",
-            },
-            {
-              "name": "Waldo Hernán Chacón Cañas",
-            },
-            {
-              "name": "Eduardo Andrés Hidalgo Cornejo",
-            },
-          ],
-          "status": "Completed",
-          "table": 1,
-        },
-        {
-          "players": [
-            {
-              "name": "Sebastián Andrés Leiva Muñoz ",
-            },
-            {
-              "name": "Fede Flessatti",
-            },
-            {
-              "name": "Pato Munardez",
-            },
-            {
-              "name": "Cristhian Parada Martínez ",
-            },
-          ],
-          "status": "Completed",
-          "table": 2,
-        },
-      ],
-    },
-    {
-      "round": 2,
-      "tables": [
-        {
-          "players": [
-            {
-              "name": "Cristhian Parada Martínez ",
-            },
-            {
-              "name": "Eduardo Andrés Hidalgo Cornejo",
-            },
-            {
-              "name": "Waldo Hernán Chacón Cañas",
-            },
-            {
-              "name": "Fede Flessatti",
-            },
-          ],
-          "status": "Completed",
-          "table": 1,
-        },
-        {
-          "players": [
-            {
-              "name": "Pato Munardez",
-            },
-            {
-              "name": "Gonzalo Horacio Andrade Benavente",
-            },
-            {
-              "name": "Sebastián Andrés Leiva Muñoz ",
-            },
-            {
-              "name": "Pedro Domínguez Ortega ",
-            },
-          ],
-          "status": "Completed",
-          "table": 2,
-        },
-      ],
-    },
-    {
-      "round": 3,
-      "tables": [
-        {
-          "players": [
-            {
-              "name": "Waldo Hernán Chacón Cañas",
-            },
-            {
-              "name": "Cristhian Parada Martínez ",
-            },
-            {
-              "name": "Pedro Domínguez Ortega ",
-            },
-            {
-              "name": "Pato Munardez",
-            },
-          ],
-          "status": "Completed",
-          "table": 1,
-        },
-        {
-          "players": [
-            {
-              "name": "Fede Flessatti",
-            },
-            {
-              "name": "Eduardo Andrés Hidalgo Cornejo",
-            },
-            {
-              "name": "Gonzalo Horacio Andrade Benavente",
-            },
-            {
-              "name": "Sebastián Andrés Leiva Muñoz ",
-            },
-          ],
-          "status": "Completed",
-          "table": 2,
-        },
-      ],
-    },
-  ],
-  "standings": [
-    {
-      "name": "Cristhian Parada Martínez ",
-      "opponentWinRate": 0.19999999999999998,
-      "points": 12,
-      "standing": 1,
-    },
-    {
-      "name": "Waldo Hernán Chacón Cañas",
-      "opponentWinRate": 0.19999999999999998,
-      "points": 10,
-      "standing": 2,
-    },
-    {
-      "name": "Eduardo Andrés Hidalgo Cornejo",
-      "opponentWinRate": 0.19999999999999998,
-      "points": 9,
-      "standing": 3,
-    },
-    {
-      "name": "Fede Flessatti",
-      "opponentWinRate": 0.19999999999999998,
-      "points": 7,
-      "standing": 4,
-    },
-    {
-      "name": "Gonzalo Horacio Andrade Benavente",
-      "opponentWinRate": 0.19999999999999998,
-      "points": 6,
-      "standing": 5,
-    },
-    {
-      "name": "Pato Munardez",
-      "opponentWinRate": 0.19999999999999998,
-      "points": 6,
-      "standing": 6,
-    },
-    {
-      "name": "Sebastián Andrés Leiva Muñoz ",
-      "opponentWinRate": 0.19999999999999998,
-      "points": 3,
-      "standing": 7,
-    },
-    {
-      "name": "Pedro Domínguez Ortega ",
-      "opponentWinRate": 0.19999999999999998,
-      "points": 1,
-      "standing": 8,
-    },
-  ],
-}
-`;
-
-exports[`topdeck-api tournaments info('CpusQJZrpf9DwCxhJ35m') should return info of tournaments 1`] = `
-{
-  "format": "EDH",
-  "game": "Magic: The Gathering",
-  "name": "CEDH Tournament 11/30/24",
-  "startDate": 2024-12-01T02:00:00.000Z,
-}
-`;
-
-exports[`topdeck-api tournaments info('XeB0Bsb0wb63YVABih9c') should return info of tournaments 1`] = `
-{
-  "format": "EDH",
-  "game": "Magic: The Gathering",
-  "name": "COMMANDER ARMAGEDDON 7",
-  "startDate": 2024-12-01T09:00:00.000Z,
-}
-`;
-
-exports[`topdeck-api tournaments info('AGSIZchKVS88tXt3Xf20') should return info of tournaments 1`] = `
-{
-  "format": "EDH",
-  "game": "Magic: The Gathering",
-  "name": "Sit&Game xyz",
-  "startDate": 2024-12-01T11:00:00.000Z,
-}
-`;
-
-exports[`topdeck-api tournaments info('Prds4TtudmDUYQGy5glf') should return info of tournaments 1`] = `
-{
-  "format": "EDH",
-  "game": "Magic: The Gathering",
-  "name": "cEDH Win a Box - Rogues Quarter",
-  "startDate": 2024-12-01T11:00:00.000Z,
-}
-`;
-
-exports[`topdeck-api tournaments info('SHvK2nViBz7hAcxIWLYS') should return info of tournaments 1`] = `
-{
-  "format": "EDH",
-  "game": "Magic: The Gathering",
-  "name": "CSM Torneo 4",
-  "startDate": 2024-12-01T14:00:00.000Z,
-}
-`;
-
-exports[`topdeck-api tournaments latestRound('CpusQJZrpf9DwCxhJ35m') should return latest round of tournaments 1`] = `
-[
-  {
-    "players": [
-      {
-        "name": "Robert R",
-      },
-      {
-        "name": "Camron K",
-      },
-      {
-        "name": "Michael B",
-      },
-      {
-        "name": "Chris B",
-      },
-    ],
-    "status": "Completed",
-    "table": 1,
-    "winner": "Camron K",
-  },
-]
-`;
-
-exports[`topdeck-api tournaments latestRound('XeB0Bsb0wb63YVABih9c') should return latest round of tournaments 1`] = `
-[
-  {
-    "players": [
-      {
-        "name": "Damiano Ferri                                                 ",
-      },
-      {
-        "name": "Francesco Cecchetti                                           ",
-      },
-      {
-        "name": "Nicola ACE Mason       ",
-      },
-      {
-        "name": "Elisa Ferri                                                   ",
-      },
-    ],
-    "status": "Completed",
-    "table": 1,
-    "winner": "Elisa Ferri                                                   ",
-  },
-]
-`;
-
-exports[`topdeck-api tournaments latestRound('AGSIZchKVS88tXt3Xf20') should return latest round of tournaments 1`] = `
-[
-  {
-    "players": [
-      {
-        "decklist": "https://www.moxfield.com/decks/KoMtNtsSd0yPLisv3OI7Tg",
-        "name": "Estrid",
-      },
-      {
-        "decklist": "https://www.moxfield.com/decks/uQWmqXJpVUWQupVvZCmjZQ",
-        "name": "Roon",
-      },
-      {
-        "decklist": "https://www.moxfield.com/decks/kqsdk9bMsUWA50i-JxsY2Q",
-        "name": "Kylox",
-      },
-      {
-        "decklist": "https://www.moxfield.com/decks/9xsvnNfKnkKcWPKj6yYZWg",
-        "name": "Queza",
-      },
-    ],
-    "status": "Completed",
-    "table": 1,
-    "winner": "Queza",
-  },
-  {
-    "players": [
-      {
-        "decklist": "https://www.moxfield.com/decks/JM-_534B3UmDbTvo5URanQ",
-        "name": "Anikthea",
-      },
-      {
-        "decklist": "https://www.moxfield.com/decks/RP7FoOw3zkakrMumaAeKMw",
-        "name": "Atla Palani",
-      },
-      {
-        "decklist": "https://www.moxfield.com/decks/vBTygbGTPEylUDCGbdstJA",
-        "name": "Aminatou",
-      },
-      {
-        "decklist": "https://www.moxfield.com/decks/-W79K_IW2UONsZ8i3-2Sfg",
-        "name": "Pramikon",
-      },
-    ],
-    "status": "Completed",
-    "table": 2,
-    "winner": "Pramikon",
-  },
-  {
-    "players": [
-      {
-        "decklist": "https://www.moxfield.com/decks/KhfndN1KBkeryStOowJlkA",
-        "name": "Illuna",
-      },
-      {
-        "decklist": "https://www.moxfield.com/decks/FOrhVEEsg0GEsAhn5mb6zw",
-        "name": "Kykar",
-      },
-      {
-        "decklist": "https://www.moxfield.com/decks/hAYjP9Yx5UONngvxA9cKGQ",
-        "name": "Negan",
-      },
-      {
-        "decklist": "https://www.moxfield.com/decks/VnmJ9t2Qo0Wq3OmIuKVYSw",
-        "name": "Muldrotha",
-      },
-    ],
-    "status": "Completed",
-    "table": 3,
-    "winner": "Muldrotha",
-  },
-]
-`;
-
-exports[`topdeck-api tournaments latestRound('Prds4TtudmDUYQGy5glf') should return latest round of tournaments 1`] = `
-[
-  {
-    "players": [
-      {
-        "decklist": "https://www.moxfield.com/decks/1aLqNrcFPkShca628dBLNA",
-        "id": "2HCgRchKmFNdgZhw9ejXp2iZ4no1",
-        "name": "Ben Mullan",
-      },
-      {
-        "decklist": "https://www.moxfield.com/decks/KijyOoYJj02G7TsJ6fLRyQ",
-        "id": "jrkq6K8ox1bLygG091KnG3X74aq1",
-        "name": "Jay Silvester",
-      },
-      {
-        "decklist": "https://www.moxfield.com/decks/pp6hepGGKkqUdCSHRCxAcg",
-        "id": "tifq1nYPgaWhZgeDotAysWJDJ923",
-        "name": "Harry erskine",
-      },
-      {
-        "id": "cxpjZsxM4QSgH5pSwpWCrlRJY643",
-        "name": "Ed G",
-      },
-    ],
-    "status": "Completed",
-    "table": 1,
-    "winner": "Jay Silvester",
-    "winner_id": "jrkq6K8ox1bLygG091KnG3X74aq1",
-  },
-]
-`;
-
-exports[`topdeck-api tournaments latestRound('SHvK2nViBz7hAcxIWLYS') should return latest round of tournaments 1`] = `
-[
-  {
-    "players": [
-      {
-        "name": "Waldo Hernán Chacón Cañas",
-      },
-      {
-        "name": "Cristhian Parada Martínez ",
-      },
-      {
-        "name": "Pedro Domínguez Ortega ",
-      },
-      {
-        "name": "Pato Munardez",
-      },
-    ],
-    "status": "Completed",
-    "table": 1,
-  },
-  {
-    "players": [
-      {
-        "name": "Fede Flessatti",
-      },
-      {
-        "name": "Eduardo Andrés Hidalgo Cornejo",
-      },
-      {
-        "name": "Gonzalo Horacio Andrade Benavente",
-      },
-      {
-        "name": "Sebastián Andrés Leiva Muñoz ",
-      },
-    ],
-    "status": "Completed",
-    "table": 2,
-  },
-]
-`;
-
-exports[`topdeck-api tournaments rounds('CpusQJZrpf9DwCxhJ35m') should return rounds of tournaments 1`] = `
-[
-  {
-    "round": 1,
-    "tables": [
-      {
-        "players": [
-          {
-            "name": "Camron K",
-          },
-          {
-            "name": "Robert R",
-          },
-          {
-            "name": "Michael B",
-          },
-          {
-            "name": "Ed S",
-          },
-        ],
-        "status": "Completed",
-        "table": 1,
-        "winner_id": "Draw",
-      },
-      {
-        "players": [
-          {
-            "name": "Thomas L",
-          },
-          {
-            "name": "Ender S ",
-          },
-          {
-            "name": "Ryan T",
-          },
-          {
-            "name": "Chris B",
-          },
-        ],
-        "status": "Completed",
-        "table": 2,
-        "winner": "Ender S ",
-      },
-    ],
-  },
-  {
-    "round": 2,
-    "tables": [
-      {
-        "players": [
-          {
-            "name": "Chris B",
-          },
-          {
-            "name": "Ed S",
-          },
-          {
-            "name": "Ender S ",
-          },
-          {
-            "name": "Robert R",
-          },
-        ],
-        "status": "Completed",
-        "table": 1,
-        "winner": "Chris B",
-      },
-      {
-        "players": [
-          {
-            "name": "Camron K",
-          },
-          {
-            "name": "Michael B",
-          },
-          {
-            "name": "Ryan T",
-          },
-          {
-            "name": "Thomas L",
-          },
-        ],
-        "status": "Completed",
-        "table": 2,
-        "winner": "Camron K",
-      },
-    ],
-  },
-  {
-    "round": 3,
-    "tables": [
-      {
-        "players": [
-          {
-            "name": "Robert R",
-          },
-          {
-            "name": "Camron K",
-          },
-          {
-            "name": "Ryan T",
-          },
-          {
-            "name": "Chris B",
-          },
-        ],
-        "status": "Completed",
-        "table": 1,
-        "winner": "Robert R",
-      },
-      {
-        "players": [
-          {
-            "name": "Ed S",
-          },
-          {
-            "name": "Ender S ",
-          },
-          {
-            "name": "Thomas L",
-          },
-          {
-            "name": "Michael B",
-          },
-        ],
-        "status": "Completed",
-        "table": 2,
-        "winner": "Michael B",
-      },
-    ],
-  },
-  {
-    "round": "Top 4",
-    "tables": [
-      {
-        "players": [
-          {
-            "name": "Robert R",
-          },
-          {
-            "name": "Camron K",
-          },
-          {
-            "name": "Michael B",
-          },
-          {
-            "name": "Chris B",
-          },
-        ],
-        "status": "Completed",
-        "table": 1,
-        "winner": "Camron K",
-      },
-    ],
-  },
-]
-`;
-
-exports[`topdeck-api tournaments rounds('XeB0Bsb0wb63YVABih9c') should return rounds of tournaments 1`] = `
-[
-  {
-    "round": 1,
-    "tables": [
-      {
-        "players": [
-          {
-            "name": "Matteo Lucietto                                               ",
-          },
-          {
-            "name": "Francesco Balbi                                               ",
-          },
-          {
-            "name": "Nicola ACE Mason       ",
-          },
-          {
-            "name": "Davide Zampieri                                               ",
-          },
-        ],
-        "status": "Completed",
-        "table": 1,
-        "winner": "Nicola ACE Mason       ",
-      },
-      {
-        "players": [
-          {
-            "name": "Giacomo Andolfatto                                            ",
-          },
-          {
-            "name": "Antonio Colombo                                               ",
-          },
-          {
-            "name": "Francesco Cecchetti                                           ",
-          },
-          {
-            "name": "Elisa Ferri                                                   ",
-          },
-        ],
-        "status": "Completed",
-        "table": 2,
-        "winner": "Francesco Cecchetti                                           ",
-      },
-      {
-        "players": [
-          {
-            "name": "Damiano Ferri                                                 ",
-          },
-          {
-            "name": "matteo dalla benetta                                          ",
-          },
-          {
-            "name": "Massimiliano Scodro                                           ",
-          },
-        ],
-        "status": "Completed",
-        "table": 3,
-        "winner": "Damiano Ferri                                                 ",
-      },
-    ],
-  },
-  {
-    "round": 2,
-    "tables": [
-      {
-        "players": [
-          {
-            "name": "matteo dalla benetta                                          ",
-          },
-          {
-            "name": "Francesco Cecchetti                                           ",
-          },
-          {
-            "name": "Nicola ACE Mason       ",
-          },
-          {
-            "name": "Damiano Ferri                                                 ",
-          },
-        ],
-        "status": "Completed",
-        "table": 1,
-        "winner": "Damiano Ferri                                                 ",
-      },
-      {
-        "players": [
-          {
-            "name": "Matteo Lucietto                                               ",
-          },
-          {
-            "name": "Francesco Balbi                                               ",
-          },
-          {
-            "name": "Giacomo Andolfatto                                            ",
-          },
-          {
-            "name": "Massimiliano Scodro                                           ",
-          },
-        ],
-        "status": "Completed",
-        "table": 2,
-        "winner": "Massimiliano Scodro                                           ",
-      },
-      {
-        "players": [
-          {
-            "name": "Davide Zampieri                                               ",
-          },
-          {
-            "name": "Elisa Ferri                                                   ",
-          },
-          {
-            "name": "Antonio Colombo                                               ",
-          },
-        ],
-        "status": "Completed",
-        "table": 3,
-        "winner": "Elisa Ferri                                                   ",
-      },
-    ],
-  },
-  {
-    "round": 3,
-    "tables": [
-      {
-        "players": [
-          {
-            "name": "Elisa Ferri                                                   ",
-          },
-          {
-            "name": "matteo dalla benetta                                          ",
-          },
-          {
-            "name": "Damiano Ferri                                                 ",
-          },
-          {
-            "name": "Francesco Balbi                                               ",
-          },
-        ],
-        "status": "Completed",
-        "table": 1,
-        "winner": "Damiano Ferri                                                 ",
-      },
-      {
-        "players": [
-          {
-            "name": "Francesco Cecchetti                                           ",
-          },
-          {
-            "name": "Massimiliano Scodro                                           ",
-          },
-          {
-            "name": "Nicola ACE Mason       ",
-          },
-          {
-            "name": "Antonio Colombo                                               ",
-          },
-        ],
-        "status": "Completed",
-        "table": 2,
-        "winner": "Massimiliano Scodro                                           ",
-      },
-      {
-        "players": [
-          {
-            "name": "Davide Zampieri                                               ",
-          },
-          {
-            "name": "Giacomo Andolfatto                                            ",
-          },
-          {
-            "name": "Matteo Lucietto                                               ",
-          },
-        ],
-        "status": "Completed",
-        "table": 3,
-        "winner": "Davide Zampieri                                               ",
-      },
-    ],
-  },
-  {
-    "round": "Top 4",
-    "tables": [
-      {
-        "players": [
-          {
-            "name": "Damiano Ferri                                                 ",
-          },
-          {
-            "name": "Francesco Cecchetti                                           ",
-          },
-          {
-            "name": "Nicola ACE Mason       ",
-          },
-          {
-            "name": "Elisa Ferri                                                   ",
-          },
-        ],
-        "status": "Completed",
-        "table": 1,
-        "winner": "Elisa Ferri                                                   ",
-      },
-    ],
-  },
-]
-`;
-
-exports[`topdeck-api tournaments rounds('AGSIZchKVS88tXt3Xf20') should return rounds of tournaments 1`] = `
-[
-  {
-    "round": 1,
-    "tables": [
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/FOrhVEEsg0GEsAhn5mb6zw",
-            "name": "Kykar",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/uQWmqXJpVUWQupVvZCmjZQ",
-            "name": "Roon",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/RP7FoOw3zkakrMumaAeKMw",
-            "name": "Atla Palani",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/-W79K_IW2UONsZ8i3-2Sfg",
-            "name": "Pramikon",
-          },
-        ],
-        "status": "Completed",
-        "table": 1,
-        "winner": "Kykar",
-      },
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/KhfndN1KBkeryStOowJlkA",
-            "name": "Illuna",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/KoMtNtsSd0yPLisv3OI7Tg",
-            "name": "Estrid",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/JM-_534B3UmDbTvo5URanQ",
-            "name": "Anikthea",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/kqsdk9bMsUWA50i-JxsY2Q",
-            "name": "Kylox",
-          },
-        ],
-        "status": "Completed",
-        "table": 2,
-        "winner": "Anikthea",
-      },
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/hAYjP9Yx5UONngvxA9cKGQ",
-            "name": "Negan",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/VnmJ9t2Qo0Wq3OmIuKVYSw",
-            "name": "Muldrotha",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/vBTygbGTPEylUDCGbdstJA",
-            "name": "Aminatou",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/9xsvnNfKnkKcWPKj6yYZWg",
-            "name": "Queza",
-          },
-        ],
-        "status": "Completed",
-        "table": 3,
-        "winner": "Queza",
-      },
-    ],
-  },
-  {
-    "round": 2,
-    "tables": [
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/kqsdk9bMsUWA50i-JxsY2Q",
-            "name": "Kylox",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/9xsvnNfKnkKcWPKj6yYZWg",
-            "name": "Queza",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/JM-_534B3UmDbTvo5URanQ",
-            "name": "Anikthea",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/FOrhVEEsg0GEsAhn5mb6zw",
-            "name": "Kykar",
-          },
-        ],
-        "status": "Completed",
-        "table": 1,
-        "winner": "Queza",
-      },
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/uQWmqXJpVUWQupVvZCmjZQ",
-            "name": "Roon",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/VnmJ9t2Qo0Wq3OmIuKVYSw",
-            "name": "Muldrotha",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/RP7FoOw3zkakrMumaAeKMw",
-            "name": "Atla Palani",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/KhfndN1KBkeryStOowJlkA",
-            "name": "Illuna",
-          },
-        ],
-        "status": "Completed",
-        "table": 2,
-        "winner": "Roon",
-      },
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/-W79K_IW2UONsZ8i3-2Sfg",
-            "name": "Pramikon",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/vBTygbGTPEylUDCGbdstJA",
-            "name": "Aminatou",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/KoMtNtsSd0yPLisv3OI7Tg",
-            "name": "Estrid",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/hAYjP9Yx5UONngvxA9cKGQ",
-            "name": "Negan",
-          },
-        ],
-        "status": "Completed",
-        "table": 3,
-        "winner": "Aminatou",
-      },
-    ],
-  },
-  {
-    "round": 3,
-    "tables": [
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/KoMtNtsSd0yPLisv3OI7Tg",
-            "name": "Estrid",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/uQWmqXJpVUWQupVvZCmjZQ",
-            "name": "Roon",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/kqsdk9bMsUWA50i-JxsY2Q",
-            "name": "Kylox",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/9xsvnNfKnkKcWPKj6yYZWg",
-            "name": "Queza",
-          },
-        ],
-        "status": "Completed",
-        "table": 1,
-        "winner": "Queza",
-      },
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/JM-_534B3UmDbTvo5URanQ",
-            "name": "Anikthea",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/RP7FoOw3zkakrMumaAeKMw",
-            "name": "Atla Palani",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/vBTygbGTPEylUDCGbdstJA",
-            "name": "Aminatou",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/-W79K_IW2UONsZ8i3-2Sfg",
-            "name": "Pramikon",
-          },
-        ],
-        "status": "Completed",
-        "table": 2,
-        "winner": "Pramikon",
-      },
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/KhfndN1KBkeryStOowJlkA",
-            "name": "Illuna",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/FOrhVEEsg0GEsAhn5mb6zw",
-            "name": "Kykar",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/hAYjP9Yx5UONngvxA9cKGQ",
-            "name": "Negan",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/VnmJ9t2Qo0Wq3OmIuKVYSw",
-            "name": "Muldrotha",
-          },
-        ],
-        "status": "Completed",
-        "table": 3,
-        "winner": "Muldrotha",
-      },
-    ],
-  },
-]
-`;
-
-exports[`topdeck-api tournaments rounds('Prds4TtudmDUYQGy5glf') should return rounds of tournaments 1`] = `
-[
-  {
-    "round": 1,
-    "tables": [
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/QhmCasMsVUGX03tybFXoSg",
-            "id": "QdIznURPpfQEKKO5YORwbB8vNTI2",
-            "name": "Qasim Rashid",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/KijyOoYJj02G7TsJ6fLRyQ",
-            "id": "jrkq6K8ox1bLygG091KnG3X74aq1",
-            "name": "Jay Silvester",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/o03m8fP_FkGVdT2ECNVR-g",
-            "id": "M0ctXMqFONNcBqzOVdDuPTRoa392",
-            "name": "Federico Zubani",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/UfNV_j1FqEuNVsK_70SeGA",
-            "id": "mOPcuzgdQ4R8YN5Yr0yBEIn7Wez1",
-            "name": "Nedwardo",
-          },
-        ],
-        "status": "Completed",
-        "table": 1,
-        "winner": "Jay Silvester",
-        "winner_id": "jrkq6K8ox1bLygG091KnG3X74aq1",
-      },
-      {
-        "players": [
-          {
-            "id": "rDBXZDHX2xgRQikoPh2DQZ7xExw2",
-            "name": "Lewis Sam Davis",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/uF3LG7xXVUGmIAPdgAGx9w",
-            "id": "MDtDHsLGB8SWWucg8opW2FjGhl32",
-            "name": "Jamie R",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/pp6hepGGKkqUdCSHRCxAcg",
-            "id": "tifq1nYPgaWhZgeDotAysWJDJ923",
-            "name": "Harry erskine",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/ib6YThSzHEiY4dytW8tJdQ",
-            "id": "pNQQfFQ91Vd632aQBWclWu78FLa2",
-            "name": "James Lamaison",
-          },
-        ],
-        "status": "Completed",
-        "table": 2,
-        "winner_id": "Draw",
-      },
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/1aLqNrcFPkShca628dBLNA",
-            "id": "2HCgRchKmFNdgZhw9ejXp2iZ4no1",
-            "name": "Ben Mullan",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/mECt3EMXvUqie-CPJwnNoA",
-            "id": "6s7cRCNbXWaVsDrVzBpeMTEEGwk2",
-            "name": "Lucy lucia längle",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/6QKZzRL1iUG8prPFqvA7-Q",
-            "id": "uHU3tBXzj6cyYCYgy31hZ9lSv2b2",
-            "name": "Theodore Lawson",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/z2oO9IJkBU6jX7ZQ7Y1hFA",
-            "id": "k8AmCV40MAg7xeCFUbbdGMelXfc2",
-            "name": "Matthew Harrison",
-          },
-        ],
-        "status": "Completed",
-        "table": 3,
-        "winner": "Ben Mullan",
-        "winner_id": "2HCgRchKmFNdgZhw9ejXp2iZ4no1",
-      },
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/CpF56jmoq0eaEOHr-cAfYw",
-            "id": "QQtBXdQu3her2mZRZDJqiPpqe1X2",
-            "name": "Ani Jackson",
-          },
-          {
-            "id": "cxpjZsxM4QSgH5pSwpWCrlRJY643",
-            "name": "Ed G",
-          },
-          {
-            "id": "hEocy0ou1rhM6hyyYlotMGXUoBk1",
-            "name": "Daniel Beaven",
-          },
-        ],
-        "status": "Completed",
-        "table": 4,
-        "winner": "Ed G",
-        "winner_id": "cxpjZsxM4QSgH5pSwpWCrlRJY643",
-      },
-      {
-        "players": [
-          {
-            "id": "3hZNILQujrcgOLSiCigiW1zkWyI2",
-            "name": "Dillon Beattie",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/EvO1LoSwW0ycHtOm-ttyRQ",
-            "id": "KRhbXZtyq9RJxXzKmAY2uk1JJcb2",
-            "name": "Tom Burns",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/x7p4uQ__gUqMQL2JdfiErQ",
-            "id": "ETE9gtPlD9OuDxOswfCHW78YQSW2",
-            "name": "Jade Richardson",
-          },
-        ],
-        "status": "Completed",
-        "table": 5,
-        "winner": "Dillon Beattie",
-        "winner_id": "3hZNILQujrcgOLSiCigiW1zkWyI2",
-      },
-    ],
-  },
-  {
-    "round": 2,
-    "tables": [
-      {
-        "players": [
-          {
-            "id": "cxpjZsxM4QSgH5pSwpWCrlRJY643",
-            "name": "Ed G",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/KijyOoYJj02G7TsJ6fLRyQ",
-            "id": "jrkq6K8ox1bLygG091KnG3X74aq1",
-            "name": "Jay Silvester",
-          },
-          {
-            "id": "3hZNILQujrcgOLSiCigiW1zkWyI2",
-            "name": "Dillon Beattie",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/1aLqNrcFPkShca628dBLNA",
-            "id": "2HCgRchKmFNdgZhw9ejXp2iZ4no1",
-            "name": "Ben Mullan",
-          },
-        ],
-        "status": "Completed",
-        "table": 1,
-        "winner_id": "Draw",
-      },
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/ib6YThSzHEiY4dytW8tJdQ",
-            "id": "pNQQfFQ91Vd632aQBWclWu78FLa2",
-            "name": "James Lamaison",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/x7p4uQ__gUqMQL2JdfiErQ",
-            "id": "ETE9gtPlD9OuDxOswfCHW78YQSW2",
-            "name": "Jade Richardson",
-          },
-          {
-            "id": "hEocy0ou1rhM6hyyYlotMGXUoBk1",
-            "name": "Daniel Beaven",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/6QKZzRL1iUG8prPFqvA7-Q",
-            "id": "uHU3tBXzj6cyYCYgy31hZ9lSv2b2",
-            "name": "Theodore Lawson",
-          },
-        ],
-        "status": "Completed",
-        "table": 2,
-        "winner_id": "Draw",
-      },
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/CpF56jmoq0eaEOHr-cAfYw",
-            "id": "QQtBXdQu3her2mZRZDJqiPpqe1X2",
-            "name": "Ani Jackson",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/EvO1LoSwW0ycHtOm-ttyRQ",
-            "id": "KRhbXZtyq9RJxXzKmAY2uk1JJcb2",
-            "name": "Tom Burns",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/uF3LG7xXVUGmIAPdgAGx9w",
-            "id": "MDtDHsLGB8SWWucg8opW2FjGhl32",
-            "name": "Jamie R",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/QhmCasMsVUGX03tybFXoSg",
-            "id": "QdIznURPpfQEKKO5YORwbB8vNTI2",
-            "name": "Qasim Rashid",
-          },
-        ],
-        "status": "Completed",
-        "table": 3,
-        "winner_id": "Draw",
-      },
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/o03m8fP_FkGVdT2ECNVR-g",
-            "id": "M0ctXMqFONNcBqzOVdDuPTRoa392",
-            "name": "Federico Zubani",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/mECt3EMXvUqie-CPJwnNoA",
-            "id": "6s7cRCNbXWaVsDrVzBpeMTEEGwk2",
-            "name": "Lucy lucia längle",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/pp6hepGGKkqUdCSHRCxAcg",
-            "id": "tifq1nYPgaWhZgeDotAysWJDJ923",
-            "name": "Harry erskine",
-          },
-        ],
-        "status": "Completed",
-        "table": 4,
-        "winner": "Harry erskine",
-        "winner_id": "tifq1nYPgaWhZgeDotAysWJDJ923",
-      },
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/UfNV_j1FqEuNVsK_70SeGA",
-            "id": "mOPcuzgdQ4R8YN5Yr0yBEIn7Wez1",
-            "name": "Nedwardo",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/z2oO9IJkBU6jX7ZQ7Y1hFA",
-            "id": "k8AmCV40MAg7xeCFUbbdGMelXfc2",
-            "name": "Matthew Harrison",
-          },
-          {
-            "id": "rDBXZDHX2xgRQikoPh2DQZ7xExw2",
-            "name": "Lewis Sam Davis",
-          },
-        ],
-        "status": "Completed",
-        "table": 5,
-        "winner": "Nedwardo",
-        "winner_id": "mOPcuzgdQ4R8YN5Yr0yBEIn7Wez1",
-      },
-    ],
-  },
-  {
-    "round": 3,
-    "tables": [
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/pp6hepGGKkqUdCSHRCxAcg",
-            "id": "tifq1nYPgaWhZgeDotAysWJDJ923",
-            "name": "Harry erskine",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/UfNV_j1FqEuNVsK_70SeGA",
-            "id": "mOPcuzgdQ4R8YN5Yr0yBEIn7Wez1",
-            "name": "Nedwardo",
-          },
-          {
-            "id": "hEocy0ou1rhM6hyyYlotMGXUoBk1",
-            "name": "Daniel Beaven",
-          },
-          {
-            "id": "3hZNILQujrcgOLSiCigiW1zkWyI2",
-            "name": "Dillon Beattie",
-          },
-        ],
-        "status": "Completed",
-        "table": 1,
-        "winner": "Harry erskine",
-        "winner_id": "tifq1nYPgaWhZgeDotAysWJDJ923",
-      },
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/z2oO9IJkBU6jX7ZQ7Y1hFA",
-            "id": "k8AmCV40MAg7xeCFUbbdGMelXfc2",
-            "name": "Matthew Harrison",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/ib6YThSzHEiY4dytW8tJdQ",
-            "id": "pNQQfFQ91Vd632aQBWclWu78FLa2",
-            "name": "James Lamaison",
-          },
-          {
-            "id": "cxpjZsxM4QSgH5pSwpWCrlRJY643",
-            "name": "Ed G",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/EvO1LoSwW0ycHtOm-ttyRQ",
-            "id": "KRhbXZtyq9RJxXzKmAY2uk1JJcb2",
-            "name": "Tom Burns",
-          },
-        ],
-        "status": "Completed",
-        "table": 2,
-        "winner": "James Lamaison",
-        "winner_id": "pNQQfFQ91Vd632aQBWclWu78FLa2",
-      },
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/mECt3EMXvUqie-CPJwnNoA",
-            "id": "6s7cRCNbXWaVsDrVzBpeMTEEGwk2",
-            "name": "Lucy lucia längle",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/x7p4uQ__gUqMQL2JdfiErQ",
-            "id": "ETE9gtPlD9OuDxOswfCHW78YQSW2",
-            "name": "Jade Richardson",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/uF3LG7xXVUGmIAPdgAGx9w",
-            "id": "MDtDHsLGB8SWWucg8opW2FjGhl32",
-            "name": "Jamie R",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/1aLqNrcFPkShca628dBLNA",
-            "id": "2HCgRchKmFNdgZhw9ejXp2iZ4no1",
-            "name": "Ben Mullan",
-          },
-        ],
-        "status": "Completed",
-        "table": 3,
-        "winner": "Ben Mullan",
-        "winner_id": "2HCgRchKmFNdgZhw9ejXp2iZ4no1",
-      },
-      {
-        "players": [
-          {
-            "id": "rDBXZDHX2xgRQikoPh2DQZ7xExw2",
-            "name": "Lewis Sam Davis",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/CpF56jmoq0eaEOHr-cAfYw",
-            "id": "QQtBXdQu3her2mZRZDJqiPpqe1X2",
-            "name": "Ani Jackson",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/KijyOoYJj02G7TsJ6fLRyQ",
-            "id": "jrkq6K8ox1bLygG091KnG3X74aq1",
-            "name": "Jay Silvester",
-          },
-        ],
-        "status": "Completed",
-        "table": 4,
-        "winner": "Jay Silvester",
-        "winner_id": "jrkq6K8ox1bLygG091KnG3X74aq1",
-      },
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/6QKZzRL1iUG8prPFqvA7-Q",
-            "id": "uHU3tBXzj6cyYCYgy31hZ9lSv2b2",
-            "name": "Theodore Lawson",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/QhmCasMsVUGX03tybFXoSg",
-            "id": "QdIznURPpfQEKKO5YORwbB8vNTI2",
-            "name": "Qasim Rashid",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/o03m8fP_FkGVdT2ECNVR-g",
-            "id": "M0ctXMqFONNcBqzOVdDuPTRoa392",
-            "name": "Federico Zubani",
-          },
-        ],
-        "status": "Completed",
-        "table": 5,
-        "winner": "Federico Zubani",
-        "winner_id": "M0ctXMqFONNcBqzOVdDuPTRoa392",
-      },
-    ],
-  },
-  {
-    "round": 4,
-    "tables": [
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/1aLqNrcFPkShca628dBLNA",
-            "id": "2HCgRchKmFNdgZhw9ejXp2iZ4no1",
-            "name": "Ben Mullan",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/pp6hepGGKkqUdCSHRCxAcg",
-            "id": "tifq1nYPgaWhZgeDotAysWJDJ923",
-            "name": "Harry erskine",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/x7p4uQ__gUqMQL2JdfiErQ",
-            "id": "ETE9gtPlD9OuDxOswfCHW78YQSW2",
-            "name": "Jade Richardson",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/CpF56jmoq0eaEOHr-cAfYw",
-            "id": "QQtBXdQu3her2mZRZDJqiPpqe1X2",
-            "name": "Ani Jackson",
-          },
-        ],
-        "status": "Completed",
-        "table": 1,
-        "winner_id": "Draw",
-      },
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/KijyOoYJj02G7TsJ6fLRyQ",
-            "id": "jrkq6K8ox1bLygG091KnG3X74aq1",
-            "name": "Jay Silvester",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/mECt3EMXvUqie-CPJwnNoA",
-            "id": "6s7cRCNbXWaVsDrVzBpeMTEEGwk2",
-            "name": "Lucy lucia längle",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/ib6YThSzHEiY4dytW8tJdQ",
-            "id": "pNQQfFQ91Vd632aQBWclWu78FLa2",
-            "name": "James Lamaison",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/z2oO9IJkBU6jX7ZQ7Y1hFA",
-            "id": "k8AmCV40MAg7xeCFUbbdGMelXfc2",
-            "name": "Matthew Harrison",
-          },
-        ],
-        "status": "Completed",
-        "table": 2,
-        "winner_id": "Draw",
-      },
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/o03m8fP_FkGVdT2ECNVR-g",
-            "id": "M0ctXMqFONNcBqzOVdDuPTRoa392",
-            "name": "Federico Zubani",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/uF3LG7xXVUGmIAPdgAGx9w",
-            "id": "MDtDHsLGB8SWWucg8opW2FjGhl32",
-            "name": "Jamie R",
-          },
-          {
-            "id": "cxpjZsxM4QSgH5pSwpWCrlRJY643",
-            "name": "Ed G",
-          },
-        ],
-        "status": "Completed",
-        "table": 3,
-        "winner": "Ed G",
-        "winner_id": "cxpjZsxM4QSgH5pSwpWCrlRJY643",
-      },
-      {
-        "players": [
-          {
-            "id": "3hZNILQujrcgOLSiCigiW1zkWyI2",
-            "name": "Dillon Beattie",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/QhmCasMsVUGX03tybFXoSg",
-            "id": "QdIznURPpfQEKKO5YORwbB8vNTI2",
-            "name": "Qasim Rashid",
-          },
-          {
-            "id": "rDBXZDHX2xgRQikoPh2DQZ7xExw2",
-            "name": "Lewis Sam Davis",
-          },
-        ],
-        "status": "Completed",
-        "table": 4,
-        "winner": "Lewis Sam Davis",
-        "winner_id": "rDBXZDHX2xgRQikoPh2DQZ7xExw2",
-      },
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/6QKZzRL1iUG8prPFqvA7-Q",
-            "id": "uHU3tBXzj6cyYCYgy31hZ9lSv2b2",
-            "name": "Theodore Lawson",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/EvO1LoSwW0ycHtOm-ttyRQ",
-            "id": "KRhbXZtyq9RJxXzKmAY2uk1JJcb2",
-            "name": "Tom Burns",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/UfNV_j1FqEuNVsK_70SeGA",
-            "id": "mOPcuzgdQ4R8YN5Yr0yBEIn7Wez1",
-            "name": "Nedwardo",
-          },
-        ],
-        "status": "Completed",
-        "table": 5,
-        "winner": "Theodore Lawson",
-        "winner_id": "uHU3tBXzj6cyYCYgy31hZ9lSv2b2",
-      },
-    ],
-  },
-  {
-    "round": "Top 4",
-    "tables": [
-      {
-        "players": [
-          {
-            "decklist": "https://www.moxfield.com/decks/1aLqNrcFPkShca628dBLNA",
-            "id": "2HCgRchKmFNdgZhw9ejXp2iZ4no1",
-            "name": "Ben Mullan",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/KijyOoYJj02G7TsJ6fLRyQ",
-            "id": "jrkq6K8ox1bLygG091KnG3X74aq1",
-            "name": "Jay Silvester",
-          },
-          {
-            "decklist": "https://www.moxfield.com/decks/pp6hepGGKkqUdCSHRCxAcg",
-            "id": "tifq1nYPgaWhZgeDotAysWJDJ923",
-            "name": "Harry erskine",
-          },
-          {
-            "id": "cxpjZsxM4QSgH5pSwpWCrlRJY643",
-            "name": "Ed G",
-          },
-        ],
-        "status": "Completed",
-        "table": 1,
-        "winner": "Jay Silvester",
-        "winner_id": "jrkq6K8ox1bLygG091KnG3X74aq1",
-      },
-    ],
-  },
-]
-`;
-
-exports[`topdeck-api tournaments rounds('SHvK2nViBz7hAcxIWLYS') should return rounds of tournaments 1`] = `
-[
-  {
-    "round": 1,
-    "tables": [
-      {
-        "players": [
-          {
-            "name": "Pedro Domínguez Ortega ",
-          },
-          {
-            "name": "Gonzalo Horacio Andrade Benavente",
-          },
-          {
-            "name": "Waldo Hernán Chacón Cañas",
-          },
-          {
-            "name": "Eduardo Andrés Hidalgo Cornejo",
-          },
-        ],
-        "status": "Completed",
-        "table": 1,
-      },
-      {
-        "players": [
-          {
-            "name": "Sebastián Andrés Leiva Muñoz ",
-          },
-          {
-            "name": "Fede Flessatti",
-          },
-          {
-            "name": "Pato Munardez",
-          },
-          {
-            "name": "Cristhian Parada Martínez ",
-          },
-        ],
-        "status": "Completed",
-        "table": 2,
-      },
-    ],
-  },
-  {
-    "round": 2,
-    "tables": [
-      {
-        "players": [
-          {
-            "name": "Cristhian Parada Martínez ",
-          },
-          {
-            "name": "Eduardo Andrés Hidalgo Cornejo",
-          },
-          {
-            "name": "Waldo Hernán Chacón Cañas",
-          },
-          {
-            "name": "Fede Flessatti",
-          },
-        ],
-        "status": "Completed",
-        "table": 1,
-      },
-      {
-        "players": [
-          {
-            "name": "Pato Munardez",
-          },
-          {
-            "name": "Gonzalo Horacio Andrade Benavente",
-          },
-          {
-            "name": "Sebastián Andrés Leiva Muñoz ",
-          },
-          {
-            "name": "Pedro Domínguez Ortega ",
-          },
-        ],
-        "status": "Completed",
-        "table": 2,
-      },
-    ],
-  },
-  {
-    "round": 3,
-    "tables": [
-      {
-        "players": [
-          {
-            "name": "Waldo Hernán Chacón Cañas",
-          },
-          {
-            "name": "Cristhian Parada Martínez ",
-          },
-          {
-            "name": "Pedro Domínguez Ortega ",
-          },
-          {
-            "name": "Pato Munardez",
-          },
-        ],
-        "status": "Completed",
-        "table": 1,
-      },
-      {
-        "players": [
-          {
-            "name": "Fede Flessatti",
-          },
-          {
-            "name": "Eduardo Andrés Hidalgo Cornejo",
-          },
-          {
-            "name": "Gonzalo Horacio Andrade Benavente",
-          },
-          {
-            "name": "Sebastián Andrés Leiva Muñoz ",
-          },
-        ],
-        "status": "Completed",
-        "table": 2,
-      },
-    ],
-  },
-]
-`;
-
-exports[`topdeck-api tournaments standings('CpusQJZrpf9DwCxhJ35m') should return standings of tournaments 1`] = `
-[
-  {
-    "name": "Camron K",
-    "opponentWinRate": 0.28888888888888886,
-    "points": 6,
-    "standing": 1,
-  },
-  {
-    "name": "Robert R",
-    "opponentWinRate": 0.31111111111111106,
-    "points": 6,
-    "standing": 2,
-  },
-  {
-    "name": "Michael B",
-    "opponentWinRate": 0.28888888888888886,
-    "points": 6,
-    "standing": 3,
-  },
-  {
-    "name": "Chris B",
-    "opponentWinRate": 0.2888888888888889,
-    "points": 5,
-    "standing": 4,
-  },
-  {
-    "name": "Ender S ",
-    "opponentWinRate": 0.2888888888888889,
-    "points": 5,
-    "standing": 5,
-  },
-  {
-    "name": "Ed S",
-    "opponentWinRate": 0.3444444444444445,
-    "points": 1,
-    "standing": 6,
-  },
-  {
-    "name": "Ryan T",
-    "opponentWinRate": 0.3444444444444444,
-    "points": 0,
-    "standing": 7,
-  },
-  {
-    "name": "Thomas L",
-    "opponentWinRate": 0.31111111111111106,
-    "points": 0,
-    "standing": 8,
-  },
-]
-`;
-
-exports[`topdeck-api tournaments standings('XeB0Bsb0wb63YVABih9c') should return standings of tournaments 1`] = `
-[
-  {
-    "name": "Elisa Ferri                                                   ",
-    "opponentWinRate": 0.3523809523809524,
-    "points": 5,
-    "standing": 1,
-  },
-  {
-    "name": "Damiano Ferri                                                 ",
-    "opponentWinRate": 0.3444444444444444,
-    "points": 15,
-    "standing": 2,
-  },
-  {
-    "name": "Massimiliano Scodro                                           ",
-    "opponentWinRate": 0.33333333333333337,
-    "points": 10,
-    "standing": 3,
-  },
-  {
-    "name": "Francesco Cecchetti                                           ",
-    "opponentWinRate": 0.419047619047619,
-    "points": 5,
-    "standing": 4,
-  },
-  {
-    "name": "Nicola ACE Mason       ",
-    "opponentWinRate": 0.39166666666666666,
-    "points": 5,
-    "standing": 5,
-  },
-  {
-    "name": "Davide Zampieri                                               ",
-    "opponentWinRate": 0.24444444444444444,
-    "points": 5,
-    "standing": 6,
-  },
-  {
-    "name": "matteo dalla benetta                                          ",
-    "opponentWinRate": 0.4777777777777778,
-    "points": 0,
-    "standing": 7,
-  },
-  {
-    "name": "Francesco Balbi                                               ",
-    "opponentWinRate": 0.4083333333333334,
-    "points": 0,
-    "standing": 8,
-  },
-  {
-    "name": "Antonio Colombo                                               ",
-    "opponentWinRate": 0.3666666666666667,
-    "points": 0,
-    "standing": 9,
-  },
-  {
-    "name": "Matteo Lucietto                                               ",
-    "opponentWinRate": 0.3466666666666667,
-    "points": 0,
-    "standing": 10,
-  },
-  {
-    "name": "Giacomo Andolfatto                                            ",
-    "opponentWinRate": 0.3238095238095238,
-    "points": 0,
-    "standing": 11,
-  },
-]
-`;
-
-exports[`topdeck-api tournaments standings('AGSIZchKVS88tXt3Xf20') should return standings of tournaments 1`] = `
-[
-  {
-    "decklist": "https://www.moxfield.com/decks/9xsvnNfKnkKcWPKj6yYZWg",
-    "name": "Queza",
-    "opponentWinRate": 0.2833333333333333,
-    "points": 15,
-    "standing": 1,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/vBTygbGTPEylUDCGbdstJA",
-    "name": "Aminatou",
-    "opponentWinRate": 0.37142857142857144,
-    "points": 5,
-    "standing": 2,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/VnmJ9t2Qo0Wq3OmIuKVYSw",
-    "name": "Muldrotha",
-    "opponentWinRate": 0.37142857142857144,
-    "points": 5,
-    "standing": 3,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/JM-_534B3UmDbTvo5URanQ",
-    "name": "Anikthea",
-    "opponentWinRate": 0.35000000000000003,
-    "points": 5,
-    "standing": 4,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/uQWmqXJpVUWQupVvZCmjZQ",
-    "name": "Roon",
-    "opponentWinRate": 0.35,
-    "points": 5,
-    "standing": 5,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/FOrhVEEsg0GEsAhn5mb6zw",
-    "name": "Kykar",
-    "opponentWinRate": 0.3481481481481482,
-    "points": 5,
-    "standing": 6,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/-W79K_IW2UONsZ8i3-2Sfg",
-    "name": "Pramikon",
-    "opponentWinRate": 0.27619047619047615,
-    "points": 5,
-    "standing": 7,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/kqsdk9bMsUWA50i-JxsY2Q",
-    "name": "Kylox",
-    "opponentWinRate": 0.4000000000000001,
-    "points": 0,
-    "standing": 8,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/hAYjP9Yx5UONngvxA9cKGQ",
-    "name": "Negan",
-    "opponentWinRate": 0.3904761904761905,
-    "points": 0,
-    "standing": 9,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/KoMtNtsSd0yPLisv3OI7Tg",
-    "name": "Estrid",
-    "opponentWinRate": 0.36666666666666664,
-    "points": 0,
-    "standing": 10,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/RP7FoOw3zkakrMumaAeKMw",
-    "name": "Atla Palani",
-    "opponentWinRate": 0.3142857142857142,
-    "points": 0,
-    "standing": 11,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/KhfndN1KBkeryStOowJlkA",
-    "name": "Illuna",
-    "opponentWinRate": 0.26666666666666666,
-    "points": 0,
-    "standing": 12,
-  },
-]
-`;
-
-exports[`topdeck-api tournaments standings('Prds4TtudmDUYQGy5glf') should return standings of tournaments 1`] = `
-[
-  {
-    "decklist": "https://www.moxfield.com/decks/KijyOoYJj02G7TsJ6fLRyQ",
-    "id": "jrkq6K8ox1bLygG091KnG3X74aq1",
-    "name": "Jay Silvester",
-    "opponentWinRate": 0.31363636363636366,
-    "points": 12,
-    "standing": 1,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/1aLqNrcFPkShca628dBLNA",
-    "id": "2HCgRchKmFNdgZhw9ejXp2iZ4no1",
-    "name": "Ben Mullan",
-    "opponentWinRate": 0.3350000000000001,
-    "points": 12,
-    "standing": 2,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/pp6hepGGKkqUdCSHRCxAcg",
-    "id": "tifq1nYPgaWhZgeDotAysWJDJ923",
-    "name": "Harry erskine",
-    "opponentWinRate": 0.2818181818181818,
-    "points": 12,
-    "standing": 3,
-  },
-  {
-    "id": "cxpjZsxM4QSgH5pSwpWCrlRJY643",
-    "name": "Ed G",
-    "opponentWinRate": 0.31500000000000006,
-    "points": 11,
-    "standing": 4,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/ib6YThSzHEiY4dytW8tJdQ",
-    "id": "pNQQfFQ91Vd632aQBWclWu78FLa2",
-    "name": "James Lamaison",
-    "opponentWinRate": 0.32272727272727275,
-    "points": 8,
-    "standing": 5,
-  },
-  {
-    "id": "3hZNILQujrcgOLSiCigiW1zkWyI2",
-    "name": "Dillon Beattie",
-    "opponentWinRate": 0.37,
-    "points": 6,
-    "standing": 6,
-  },
-  {
-    "id": "rDBXZDHX2xgRQikoPh2DQZ7xExw2",
-    "name": "Lewis Sam Davis",
-    "opponentWinRate": 0.3277777777777778,
-    "points": 6,
-    "standing": 7,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/6QKZzRL1iUG8prPFqvA7-Q",
-    "id": "uHU3tBXzj6cyYCYgy31hZ9lSv2b2",
-    "name": "Theodore Lawson",
-    "opponentWinRate": 0.27,
-    "points": 6,
-    "standing": 8,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/o03m8fP_FkGVdT2ECNVR-g",
-    "id": "M0ctXMqFONNcBqzOVdDuPTRoa392",
-    "name": "Federico Zubani",
-    "opponentWinRate": 0.36250000000000004,
-    "points": 5,
-    "standing": 9,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/UfNV_j1FqEuNVsK_70SeGA",
-    "id": "mOPcuzgdQ4R8YN5Yr0yBEIn7Wez1",
-    "name": "Nedwardo",
-    "opponentWinRate": 0.315,
-    "points": 5,
-    "standing": 10,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/CpF56jmoq0eaEOHr-cAfYw",
-    "id": "QQtBXdQu3her2mZRZDJqiPpqe1X2",
-    "name": "Ani Jackson",
-    "opponentWinRate": 0.36500000000000005,
-    "points": 2,
-    "standing": 11,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/uF3LG7xXVUGmIAPdgAGx9w",
-    "id": "MDtDHsLGB8SWWucg8opW2FjGhl32",
-    "name": "Jamie R",
-    "opponentWinRate": 0.33636363636363636,
-    "points": 2,
-    "standing": 12,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/x7p4uQ__gUqMQL2JdfiErQ",
-    "id": "ETE9gtPlD9OuDxOswfCHW78YQSW2",
-    "name": "Jade Richardson",
-    "opponentWinRate": 0.32,
-    "points": 2,
-    "standing": 13,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/z2oO9IJkBU6jX7ZQ7Y1hFA",
-    "id": "k8AmCV40MAg7xeCFUbbdGMelXfc2",
-    "name": "Matthew Harrison",
-    "opponentWinRate": 0.3777777777777779,
-    "points": 1,
-    "standing": 14,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/mECt3EMXvUqie-CPJwnNoA",
-    "id": "6s7cRCNbXWaVsDrVzBpeMTEEGwk2",
-    "name": "Lucy lucia längle",
-    "opponentWinRate": 0.37222222222222223,
-    "points": 1,
-    "standing": 15,
-  },
-  {
-    "id": "hEocy0ou1rhM6hyyYlotMGXUoBk1",
-    "name": "Daniel Beaven",
-    "opponentWinRate": 0.35,
-    "points": 1,
-    "standing": 16,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/QhmCasMsVUGX03tybFXoSg",
-    "id": "QdIznURPpfQEKKO5YORwbB8vNTI2",
-    "name": "Qasim Rashid",
-    "opponentWinRate": 0.28888888888888886,
-    "points": 1,
-    "standing": 17,
-  },
-  {
-    "decklist": "https://www.moxfield.com/decks/EvO1LoSwW0ycHtOm-ttyRQ",
-    "id": "KRhbXZtyq9RJxXzKmAY2uk1JJcb2",
-    "name": "Tom Burns",
-    "opponentWinRate": 0.27999999999999997,
-    "points": 1,
-    "standing": 18,
-  },
-]
-`;
-
-exports[`topdeck-api tournaments standings('SHvK2nViBz7hAcxIWLYS') should return standings of tournaments 1`] = `
-[
-  {
-    "name": "Cristhian Parada Martínez ",
-    "opponentWinRate": 0.19999999999999998,
-    "points": 12,
-    "standing": 1,
-  },
-  {
-    "name": "Waldo Hernán Chacón Cañas",
-    "opponentWinRate": 0.19999999999999998,
-    "points": 10,
-    "standing": 2,
-  },
-  {
-    "name": "Eduardo Andrés Hidalgo Cornejo",
-    "opponentWinRate": 0.19999999999999998,
-    "points": 9,
-    "standing": 3,
-  },
-  {
-    "name": "Fede Flessatti",
-    "opponentWinRate": 0.19999999999999998,
-    "points": 7,
-    "standing": 4,
-  },
-  {
-    "name": "Gonzalo Horacio Andrade Benavente",
-    "opponentWinRate": 0.19999999999999998,
-    "points": 6,
-    "standing": 5,
-  },
-  {
-    "name": "Pato Munardez",
-    "opponentWinRate": 0.19999999999999998,
-    "points": 6,
-    "standing": 6,
-  },
-  {
-    "name": "Sebastián Andrés Leiva Muñoz ",
-    "opponentWinRate": 0.19999999999999998,
-    "points": 3,
-    "standing": 7,
-  },
-  {
-    "name": "Pedro Domínguez Ortega ",
-    "opponentWinRate": 0.19999999999999998,
-    "points": 1,
-    "standing": 8,
-  },
-]
-`;
-
 exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') findById('CpusQJZrpf9DwCxhJ35m') should return detail of tournaments 1`] = `
 {
   "data": {
@@ -17970,6 +14851,102 @@ exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') latestRound(
     "winner": "Camron K",
   },
 ]
+`;
+
+exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', 'wROBh4ndJwjG1u45T5BV') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 1,
+  "gamesLost": 1,
+  "gamesPlayed": 3,
+  "gamesWon": 1,
+  "name": "Camron K",
+  "standing": 1,
+  "winRate": 0.3333333333333333,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', 'lpbjHXuOstGSaClSbLwT') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 1,
+  "gamesLost": 1,
+  "gamesPlayed": 3,
+  "gamesWon": 1,
+  "name": "Robert R",
+  "standing": 2,
+  "winRate": 0.3333333333333333,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', 'Uu8MZzGafjs1z8dSI3OS') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 1,
+  "gamesLost": 1,
+  "gamesPlayed": 3,
+  "gamesWon": 1,
+  "name": "Michael B",
+  "standing": 3,
+  "winRate": 0.3333333333333333,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', '76DSovVO2mCEDFIh8PCs') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 1,
+  "gamesLost": 2,
+  "gamesPlayed": 3,
+  "gamesWon": 0,
+  "name": "Ed S",
+  "standing": 6,
+  "winRate": 0,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', 'UP4WMSdvzBFjfc4lUDGX') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 3,
+  "gamesPlayed": 3,
+  "gamesWon": 0,
+  "name": "Thomas L",
+  "standing": 8,
+  "winRate": 0,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', 'xyfM81RewbLmJYHFdhEr') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 2,
+  "gamesPlayed": 3,
+  "gamesWon": 1,
+  "name": "Ender S ",
+  "standing": 5,
+  "winRate": 0.3333333333333333,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', 'RakqFU3PtYwEWEJuX1zr') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 3,
+  "gamesPlayed": 3,
+  "gamesWon": 0,
+  "name": "Ryan T",
+  "standing": 7,
+  "winRate": 0,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', 'mx7FBtM7BnidYCTSmqKB') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 2,
+  "gamesPlayed": 3,
+  "gamesWon": 1,
+  "name": "Chris B",
+  "standing": 4,
+  "winRate": 0.3333333333333333,
+}
 `;
 
 exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') rounds('CpusQJZrpf9DwCxhJ35m') should return rounds of tournaments 1`] = `
@@ -18496,6 +15473,138 @@ exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') latestRound(
     "winner": "Elisa Ferri                                                   ",
   },
 ]
+`;
+
+exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', '8sNIhXMax1kTsRDP5JhH') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 3,
+  "gamesPlayed": 3,
+  "gamesWon": 0,
+  "name": "Matteo Lucietto                                               ",
+  "standing": 10,
+  "winRate": 0,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'y6cerZpLJUq8L10JS1Ps') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 3,
+  "gamesPlayed": 3,
+  "gamesWon": 0,
+  "name": "Francesco Balbi                                               ",
+  "standing": 8,
+  "winRate": 0,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'fOzYQEDR2TexFD3nYOOs') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 2,
+  "gamesPlayed": 3,
+  "gamesWon": 1,
+  "name": "Nicola ACE Mason       ",
+  "standing": 5,
+  "winRate": 0.3333333333333333,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'Wf5deUA0j17Eys3lsrz5') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 2,
+  "gamesPlayed": 3,
+  "gamesWon": 1,
+  "name": "Davide Zampieri                                               ",
+  "standing": 6,
+  "winRate": 0.3333333333333333,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'WPm0Rq0qkhR2zWPdm11z') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 3,
+  "gamesPlayed": 3,
+  "gamesWon": 0,
+  "name": "Giacomo Andolfatto                                            ",
+  "standing": 11,
+  "winRate": 0,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'BBTn3LeuBvAXencgv9cY') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 3,
+  "gamesPlayed": 3,
+  "gamesWon": 0,
+  "name": "Antonio Colombo                                               ",
+  "standing": 9,
+  "winRate": 0,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'fwlsrFOSD6WCydAdYsCk') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 2,
+  "gamesPlayed": 3,
+  "gamesWon": 1,
+  "name": "Francesco Cecchetti                                           ",
+  "standing": 4,
+  "winRate": 0.3333333333333333,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'gzCdUQkaNXX3zq2mULLh') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 2,
+  "gamesPlayed": 3,
+  "gamesWon": 1,
+  "name": "Elisa Ferri                                                   ",
+  "standing": 1,
+  "winRate": 0.3333333333333333,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'Sj6GbquCR6X8m2QqL8vm') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 0,
+  "gamesPlayed": 3,
+  "gamesWon": 3,
+  "name": "Damiano Ferri                                                 ",
+  "standing": 2,
+  "winRate": 1,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'Lyx25XJGCraJW7VThJxs') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 3,
+  "gamesPlayed": 3,
+  "gamesWon": 0,
+  "name": "matteo dalla benetta                                          ",
+  "standing": 7,
+  "winRate": 0,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'OA9kzUc879TbqI7T8COV') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 1,
+  "gamesPlayed": 3,
+  "gamesWon": 2,
+  "name": "Massimiliano Scodro                                           ",
+  "standing": 3,
+  "winRate": 0.6666666666666666,
+}
 `;
 
 exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') rounds('XeB0Bsb0wb63YVABih9c') should return rounds of tournaments 1`] = `
@@ -19177,6 +16286,162 @@ exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') latestRound(
     "winner": "Muldrotha",
   },
 ]
+`;
+
+exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'AbdD6HRQjuxLzPc2xGMG') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/FOrhVEEsg0GEsAhn5mb6zw",
+  "gamesDrawn": 0,
+  "gamesLost": 2,
+  "gamesPlayed": 3,
+  "gamesWon": 1,
+  "name": "Kykar",
+  "standing": 6,
+  "winRate": 0.3333333333333333,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'fiennaInBrjMbgBbOCyP') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/uQWmqXJpVUWQupVvZCmjZQ",
+  "gamesDrawn": 0,
+  "gamesLost": 2,
+  "gamesPlayed": 3,
+  "gamesWon": 1,
+  "name": "Roon",
+  "standing": 5,
+  "winRate": 0.3333333333333333,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'GGp5TGqZLzyPVkrw64WQ') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/RP7FoOw3zkakrMumaAeKMw",
+  "gamesDrawn": 0,
+  "gamesLost": 3,
+  "gamesPlayed": 3,
+  "gamesWon": 0,
+  "name": "Atla Palani",
+  "standing": 11,
+  "winRate": 0,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', '8OI85IgcTzy224V9uLJF') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/-W79K_IW2UONsZ8i3-2Sfg",
+  "gamesDrawn": 0,
+  "gamesLost": 2,
+  "gamesPlayed": 3,
+  "gamesWon": 1,
+  "name": "Pramikon",
+  "standing": 7,
+  "winRate": 0.3333333333333333,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'wuhD0IqaR77cXcDLQ6ZV') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/KhfndN1KBkeryStOowJlkA",
+  "gamesDrawn": 0,
+  "gamesLost": 3,
+  "gamesPlayed": 3,
+  "gamesWon": 0,
+  "name": "Illuna",
+  "standing": 12,
+  "winRate": 0,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', '2Qm4lpTl900j7doW43vc') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/KoMtNtsSd0yPLisv3OI7Tg",
+  "gamesDrawn": 0,
+  "gamesLost": 3,
+  "gamesPlayed": 3,
+  "gamesWon": 0,
+  "name": "Estrid",
+  "standing": 10,
+  "winRate": 0,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'RxODXEj6oKb8cTrAwB6P') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/JM-_534B3UmDbTvo5URanQ",
+  "gamesDrawn": 0,
+  "gamesLost": 2,
+  "gamesPlayed": 3,
+  "gamesWon": 1,
+  "name": "Anikthea",
+  "standing": 4,
+  "winRate": 0.3333333333333333,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'HW0BGYUOtC9JGWkq2IAi') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/kqsdk9bMsUWA50i-JxsY2Q",
+  "gamesDrawn": 0,
+  "gamesLost": 3,
+  "gamesPlayed": 3,
+  "gamesWon": 0,
+  "name": "Kylox",
+  "standing": 8,
+  "winRate": 0,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'FiiEMLVBKhzwFV2Nyr1f') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/hAYjP9Yx5UONngvxA9cKGQ",
+  "gamesDrawn": 0,
+  "gamesLost": 3,
+  "gamesPlayed": 3,
+  "gamesWon": 0,
+  "name": "Negan",
+  "standing": 9,
+  "winRate": 0,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', '9qLaX6qScsEwdOrXTa09') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/VnmJ9t2Qo0Wq3OmIuKVYSw",
+  "gamesDrawn": 0,
+  "gamesLost": 2,
+  "gamesPlayed": 3,
+  "gamesWon": 1,
+  "name": "Muldrotha",
+  "standing": 3,
+  "winRate": 0.3333333333333333,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'yxVJHuwY6PgwfBVqqIEW') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/vBTygbGTPEylUDCGbdstJA",
+  "gamesDrawn": 0,
+  "gamesLost": 2,
+  "gamesPlayed": 3,
+  "gamesWon": 1,
+  "name": "Aminatou",
+  "standing": 2,
+  "winRate": 0.3333333333333333,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'TT5WnfHgemf5ghoHYQiZ') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/9xsvnNfKnkKcWPKj6yYZWg",
+  "gamesDrawn": 0,
+  "gamesLost": 0,
+  "gamesPlayed": 3,
+  "gamesWon": 3,
+  "name": "Queza",
+  "standing": 1,
+  "winRate": 1,
+}
 `;
 
 exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') rounds('AGSIZchKVS88tXt3Xf20') should return rounds of tournaments 1`] = `
@@ -20237,6 +17502,236 @@ exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') latestRound(
 ]
 `;
 
+exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'QdIznURPpfQEKKO5YORwbB8vNTI2') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/QhmCasMsVUGX03tybFXoSg",
+  "gamesDrawn": 1,
+  "gamesLost": 3,
+  "gamesPlayed": 4,
+  "gamesWon": 0,
+  "name": "Qasim Rashid",
+  "standing": 17,
+  "winRate": 0,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'jrkq6K8ox1bLygG091KnG3X74aq1') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/KijyOoYJj02G7TsJ6fLRyQ",
+  "gamesDrawn": 2,
+  "gamesLost": 0,
+  "gamesPlayed": 4,
+  "gamesWon": 2,
+  "name": "Jay Silvester",
+  "standing": 1,
+  "winRate": 0.5,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'M0ctXMqFONNcBqzOVdDuPTRoa392') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/o03m8fP_FkGVdT2ECNVR-g",
+  "gamesDrawn": 0,
+  "gamesLost": 3,
+  "gamesPlayed": 4,
+  "gamesWon": 1,
+  "name": "Federico Zubani",
+  "standing": 9,
+  "winRate": 0.25,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'mOPcuzgdQ4R8YN5Yr0yBEIn7Wez1') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/UfNV_j1FqEuNVsK_70SeGA",
+  "gamesDrawn": 0,
+  "gamesLost": 3,
+  "gamesPlayed": 4,
+  "gamesWon": 1,
+  "name": "Nedwardo",
+  "standing": 10,
+  "winRate": 0.25,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'rDBXZDHX2xgRQikoPh2DQZ7xExw2') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 1,
+  "gamesLost": 2,
+  "gamesPlayed": 4,
+  "gamesWon": 1,
+  "name": "Lewis Sam Davis",
+  "standing": 7,
+  "winRate": 0.25,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'MDtDHsLGB8SWWucg8opW2FjGhl32') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/uF3LG7xXVUGmIAPdgAGx9w",
+  "gamesDrawn": 2,
+  "gamesLost": 2,
+  "gamesPlayed": 4,
+  "gamesWon": 0,
+  "name": "Jamie R",
+  "standing": 12,
+  "winRate": 0,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'tifq1nYPgaWhZgeDotAysWJDJ923') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/pp6hepGGKkqUdCSHRCxAcg",
+  "gamesDrawn": 2,
+  "gamesLost": 0,
+  "gamesPlayed": 4,
+  "gamesWon": 2,
+  "name": "Harry erskine",
+  "standing": 3,
+  "winRate": 0.5,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'pNQQfFQ91Vd632aQBWclWu78FLa2') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/ib6YThSzHEiY4dytW8tJdQ",
+  "gamesDrawn": 3,
+  "gamesLost": 0,
+  "gamesPlayed": 4,
+  "gamesWon": 1,
+  "name": "James Lamaison",
+  "standing": 5,
+  "winRate": 0.25,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', '2HCgRchKmFNdgZhw9ejXp2iZ4no1') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/1aLqNrcFPkShca628dBLNA",
+  "gamesDrawn": 2,
+  "gamesLost": 0,
+  "gamesPlayed": 4,
+  "gamesWon": 2,
+  "name": "Ben Mullan",
+  "standing": 2,
+  "winRate": 0.5,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', '6s7cRCNbXWaVsDrVzBpeMTEEGwk2') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/mECt3EMXvUqie-CPJwnNoA",
+  "gamesDrawn": 1,
+  "gamesLost": 3,
+  "gamesPlayed": 4,
+  "gamesWon": 0,
+  "name": "Lucy lucia längle",
+  "standing": 15,
+  "winRate": 0,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'uHU3tBXzj6cyYCYgy31hZ9lSv2b2') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/6QKZzRL1iUG8prPFqvA7-Q",
+  "gamesDrawn": 1,
+  "gamesLost": 2,
+  "gamesPlayed": 4,
+  "gamesWon": 1,
+  "name": "Theodore Lawson",
+  "standing": 8,
+  "winRate": 0.25,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'k8AmCV40MAg7xeCFUbbdGMelXfc2') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/z2oO9IJkBU6jX7ZQ7Y1hFA",
+  "gamesDrawn": 1,
+  "gamesLost": 3,
+  "gamesPlayed": 4,
+  "gamesWon": 0,
+  "name": "Matthew Harrison",
+  "standing": 14,
+  "winRate": 0,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'QQtBXdQu3her2mZRZDJqiPpqe1X2') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/CpF56jmoq0eaEOHr-cAfYw",
+  "gamesDrawn": 2,
+  "gamesLost": 2,
+  "gamesPlayed": 4,
+  "gamesWon": 0,
+  "name": "Ani Jackson",
+  "standing": 11,
+  "winRate": 0,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'cxpjZsxM4QSgH5pSwpWCrlRJY643') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 1,
+  "gamesLost": 1,
+  "gamesPlayed": 4,
+  "gamesWon": 2,
+  "name": "Ed G",
+  "standing": 4,
+  "winRate": 0.5,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'hEocy0ou1rhM6hyyYlotMGXUoBk1') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 1,
+  "gamesLost": 2,
+  "gamesPlayed": 3,
+  "gamesWon": 0,
+  "name": "Daniel Beaven",
+  "standing": 16,
+  "winRate": 0,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', '3hZNILQujrcgOLSiCigiW1zkWyI2') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 1,
+  "gamesLost": 2,
+  "gamesPlayed": 4,
+  "gamesWon": 1,
+  "name": "Dillon Beattie",
+  "standing": 6,
+  "winRate": 0.25,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'KRhbXZtyq9RJxXzKmAY2uk1JJcb2') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/EvO1LoSwW0ycHtOm-ttyRQ",
+  "gamesDrawn": 1,
+  "gamesLost": 3,
+  "gamesPlayed": 4,
+  "gamesWon": 0,
+  "name": "Tom Burns",
+  "standing": 18,
+  "winRate": 0,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'ETE9gtPlD9OuDxOswfCHW78YQSW2') should return player standing of tournaments 1`] = `
+{
+  "decklist": "https://www.moxfield.com/decks/x7p4uQ__gUqMQL2JdfiErQ",
+  "gamesDrawn": 2,
+  "gamesLost": 2,
+  "gamesPlayed": 4,
+  "gamesWon": 0,
+  "name": "Jade Richardson",
+  "standing": 13,
+  "winRate": 0,
+}
+`;
+
 exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') rounds('Prds4TtudmDUYQGy5glf') should return rounds of tournaments 1`] = `
 [
   {
@@ -21169,6 +18664,102 @@ exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') latestRound(
 ]
 `;
 
+exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', 'd2w4cNZJHyl9JCuRvkkj') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 3,
+  "gamesPlayed": 3,
+  "gamesWon": 0,
+  "name": "Pedro Domínguez Ortega ",
+  "standing": 8,
+  "winRate": 0.0033333333333333335,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', '8WjalUoWJYWCTLnHM1yB') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 3,
+  "gamesPlayed": 3,
+  "gamesWon": 0,
+  "name": "Gonzalo Horacio Andrade Benavente",
+  "standing": 5,
+  "winRate": 0.02,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', 'YiF95RhrS5ktTqgxPH61') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 3,
+  "gamesPlayed": 3,
+  "gamesWon": 0,
+  "name": "Waldo Hernán Chacón Cañas",
+  "standing": 2,
+  "winRate": 0.03333333333333333,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', 'XDlJPGsPzcm1Vo17clF7') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 3,
+  "gamesPlayed": 3,
+  "gamesWon": 0,
+  "name": "Eduardo Andrés Hidalgo Cornejo",
+  "standing": 3,
+  "winRate": 0.03,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', 'PxOOJhN7bHOWAW7Arczc') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 3,
+  "gamesPlayed": 3,
+  "gamesWon": 0,
+  "name": "Sebastián Andrés Leiva Muñoz ",
+  "standing": 7,
+  "winRate": 0.01,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', 'sD4psyy1Yn9eulrPUMNW') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 3,
+  "gamesPlayed": 3,
+  "gamesWon": 0,
+  "name": "Fede Flessatti",
+  "standing": 4,
+  "winRate": 0.023333333333333334,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', 'dfkAUc72tP0M2uaD2415') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 3,
+  "gamesPlayed": 3,
+  "gamesWon": 0,
+  "name": "Pato Munardez",
+  "standing": 6,
+  "winRate": 0.02,
+}
+`;
+
+exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', 'd2zFPunY39FZMpSMeU3g') should return player standing of tournaments 1`] = `
+{
+  "gamesDrawn": 0,
+  "gamesLost": 3,
+  "gamesPlayed": 3,
+  "gamesWon": 0,
+  "name": "Cristhian Parada Martínez ",
+  "standing": 1,
+  "winRate": 0.04,
+}
+`;
+
 exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') rounds('SHvK2nViBz7hAcxIWLYS') should return rounds of tournaments 1`] = `
 [
   {
@@ -21348,714 +18939,4 @@ exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') standings('S
     "standing": 8,
   },
 ]
-`;
-
-exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', 'wROBh4ndJwjG1u45T5BV') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 1,
-  "gamesLost": 1,
-  "gamesPlayed": 3,
-  "gamesWon": 1,
-  "name": "Camron K",
-  "standing": 1,
-  "winRate": 0.3333333333333333,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', 'lpbjHXuOstGSaClSbLwT') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 1,
-  "gamesLost": 1,
-  "gamesPlayed": 3,
-  "gamesWon": 1,
-  "name": "Robert R",
-  "standing": 2,
-  "winRate": 0.3333333333333333,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', 'Uu8MZzGafjs1z8dSI3OS') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 1,
-  "gamesLost": 1,
-  "gamesPlayed": 3,
-  "gamesWon": 1,
-  "name": "Michael B",
-  "standing": 3,
-  "winRate": 0.3333333333333333,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', '76DSovVO2mCEDFIh8PCs') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 1,
-  "gamesLost": 2,
-  "gamesPlayed": 3,
-  "gamesWon": 0,
-  "name": "Ed S",
-  "standing": 6,
-  "winRate": 0,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', 'UP4WMSdvzBFjfc4lUDGX') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 3,
-  "gamesPlayed": 3,
-  "gamesWon": 0,
-  "name": "Thomas L",
-  "standing": 8,
-  "winRate": 0,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', 'xyfM81RewbLmJYHFdhEr') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 2,
-  "gamesPlayed": 3,
-  "gamesWon": 1,
-  "name": "Ender S ",
-  "standing": 5,
-  "winRate": 0.3333333333333333,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', 'RakqFU3PtYwEWEJuX1zr') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 3,
-  "gamesPlayed": 3,
-  "gamesWon": 0,
-  "name": "Ryan T",
-  "standing": 7,
-  "winRate": 0,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', 'mx7FBtM7BnidYCTSmqKB') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 2,
-  "gamesPlayed": 3,
-  "gamesWon": 1,
-  "name": "Chris B",
-  "standing": 4,
-  "winRate": 0.3333333333333333,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', '8sNIhXMax1kTsRDP5JhH') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 3,
-  "gamesPlayed": 3,
-  "gamesWon": 0,
-  "name": "Matteo Lucietto                                               ",
-  "standing": 10,
-  "winRate": 0,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'y6cerZpLJUq8L10JS1Ps') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 3,
-  "gamesPlayed": 3,
-  "gamesWon": 0,
-  "name": "Francesco Balbi                                               ",
-  "standing": 8,
-  "winRate": 0,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'fOzYQEDR2TexFD3nYOOs') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 2,
-  "gamesPlayed": 3,
-  "gamesWon": 1,
-  "name": "Nicola ACE Mason       ",
-  "standing": 5,
-  "winRate": 0.3333333333333333,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'Wf5deUA0j17Eys3lsrz5') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 2,
-  "gamesPlayed": 3,
-  "gamesWon": 1,
-  "name": "Davide Zampieri                                               ",
-  "standing": 6,
-  "winRate": 0.3333333333333333,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'WPm0Rq0qkhR2zWPdm11z') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 3,
-  "gamesPlayed": 3,
-  "gamesWon": 0,
-  "name": "Giacomo Andolfatto                                            ",
-  "standing": 11,
-  "winRate": 0,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'BBTn3LeuBvAXencgv9cY') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 3,
-  "gamesPlayed": 3,
-  "gamesWon": 0,
-  "name": "Antonio Colombo                                               ",
-  "standing": 9,
-  "winRate": 0,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'fwlsrFOSD6WCydAdYsCk') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 2,
-  "gamesPlayed": 3,
-  "gamesWon": 1,
-  "name": "Francesco Cecchetti                                           ",
-  "standing": 4,
-  "winRate": 0.3333333333333333,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'gzCdUQkaNXX3zq2mULLh') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 2,
-  "gamesPlayed": 3,
-  "gamesWon": 1,
-  "name": "Elisa Ferri                                                   ",
-  "standing": 1,
-  "winRate": 0.3333333333333333,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'Sj6GbquCR6X8m2QqL8vm') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 0,
-  "gamesPlayed": 3,
-  "gamesWon": 3,
-  "name": "Damiano Ferri                                                 ",
-  "standing": 2,
-  "winRate": 1,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'Lyx25XJGCraJW7VThJxs') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 3,
-  "gamesPlayed": 3,
-  "gamesWon": 0,
-  "name": "matteo dalla benetta                                          ",
-  "standing": 7,
-  "winRate": 0,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'OA9kzUc879TbqI7T8COV') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 1,
-  "gamesPlayed": 3,
-  "gamesWon": 2,
-  "name": "Massimiliano Scodro                                           ",
-  "standing": 3,
-  "winRate": 0.6666666666666666,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'AbdD6HRQjuxLzPc2xGMG') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/FOrhVEEsg0GEsAhn5mb6zw",
-  "gamesDrawn": 0,
-  "gamesLost": 2,
-  "gamesPlayed": 3,
-  "gamesWon": 1,
-  "name": "Kykar",
-  "standing": 6,
-  "winRate": 0.3333333333333333,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'fiennaInBrjMbgBbOCyP') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/uQWmqXJpVUWQupVvZCmjZQ",
-  "gamesDrawn": 0,
-  "gamesLost": 2,
-  "gamesPlayed": 3,
-  "gamesWon": 1,
-  "name": "Roon",
-  "standing": 5,
-  "winRate": 0.3333333333333333,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'GGp5TGqZLzyPVkrw64WQ') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/RP7FoOw3zkakrMumaAeKMw",
-  "gamesDrawn": 0,
-  "gamesLost": 3,
-  "gamesPlayed": 3,
-  "gamesWon": 0,
-  "name": "Atla Palani",
-  "standing": 11,
-  "winRate": 0,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', '8OI85IgcTzy224V9uLJF') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/-W79K_IW2UONsZ8i3-2Sfg",
-  "gamesDrawn": 0,
-  "gamesLost": 2,
-  "gamesPlayed": 3,
-  "gamesWon": 1,
-  "name": "Pramikon",
-  "standing": 7,
-  "winRate": 0.3333333333333333,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'wuhD0IqaR77cXcDLQ6ZV') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/KhfndN1KBkeryStOowJlkA",
-  "gamesDrawn": 0,
-  "gamesLost": 3,
-  "gamesPlayed": 3,
-  "gamesWon": 0,
-  "name": "Illuna",
-  "standing": 12,
-  "winRate": 0,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', '2Qm4lpTl900j7doW43vc') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/KoMtNtsSd0yPLisv3OI7Tg",
-  "gamesDrawn": 0,
-  "gamesLost": 3,
-  "gamesPlayed": 3,
-  "gamesWon": 0,
-  "name": "Estrid",
-  "standing": 10,
-  "winRate": 0,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'RxODXEj6oKb8cTrAwB6P') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/JM-_534B3UmDbTvo5URanQ",
-  "gamesDrawn": 0,
-  "gamesLost": 2,
-  "gamesPlayed": 3,
-  "gamesWon": 1,
-  "name": "Anikthea",
-  "standing": 4,
-  "winRate": 0.3333333333333333,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'HW0BGYUOtC9JGWkq2IAi') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/kqsdk9bMsUWA50i-JxsY2Q",
-  "gamesDrawn": 0,
-  "gamesLost": 3,
-  "gamesPlayed": 3,
-  "gamesWon": 0,
-  "name": "Kylox",
-  "standing": 8,
-  "winRate": 0,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'FiiEMLVBKhzwFV2Nyr1f') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/hAYjP9Yx5UONngvxA9cKGQ",
-  "gamesDrawn": 0,
-  "gamesLost": 3,
-  "gamesPlayed": 3,
-  "gamesWon": 0,
-  "name": "Negan",
-  "standing": 9,
-  "winRate": 0,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', '9qLaX6qScsEwdOrXTa09') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/VnmJ9t2Qo0Wq3OmIuKVYSw",
-  "gamesDrawn": 0,
-  "gamesLost": 2,
-  "gamesPlayed": 3,
-  "gamesWon": 1,
-  "name": "Muldrotha",
-  "standing": 3,
-  "winRate": 0.3333333333333333,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'yxVJHuwY6PgwfBVqqIEW') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/vBTygbGTPEylUDCGbdstJA",
-  "gamesDrawn": 0,
-  "gamesLost": 2,
-  "gamesPlayed": 3,
-  "gamesWon": 1,
-  "name": "Aminatou",
-  "standing": 2,
-  "winRate": 0.3333333333333333,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'TT5WnfHgemf5ghoHYQiZ') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/9xsvnNfKnkKcWPKj6yYZWg",
-  "gamesDrawn": 0,
-  "gamesLost": 0,
-  "gamesPlayed": 3,
-  "gamesWon": 3,
-  "name": "Queza",
-  "standing": 1,
-  "winRate": 1,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'QdIznURPpfQEKKO5YORwbB8vNTI2') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/QhmCasMsVUGX03tybFXoSg",
-  "gamesDrawn": 1,
-  "gamesLost": 3,
-  "gamesPlayed": 4,
-  "gamesWon": 0,
-  "name": "Qasim Rashid",
-  "standing": 17,
-  "winRate": 0,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'jrkq6K8ox1bLygG091KnG3X74aq1') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/KijyOoYJj02G7TsJ6fLRyQ",
-  "gamesDrawn": 2,
-  "gamesLost": 0,
-  "gamesPlayed": 4,
-  "gamesWon": 2,
-  "name": "Jay Silvester",
-  "standing": 1,
-  "winRate": 0.5,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'M0ctXMqFONNcBqzOVdDuPTRoa392') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/o03m8fP_FkGVdT2ECNVR-g",
-  "gamesDrawn": 0,
-  "gamesLost": 3,
-  "gamesPlayed": 4,
-  "gamesWon": 1,
-  "name": "Federico Zubani",
-  "standing": 9,
-  "winRate": 0.25,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'mOPcuzgdQ4R8YN5Yr0yBEIn7Wez1') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/UfNV_j1FqEuNVsK_70SeGA",
-  "gamesDrawn": 0,
-  "gamesLost": 3,
-  "gamesPlayed": 4,
-  "gamesWon": 1,
-  "name": "Nedwardo",
-  "standing": 10,
-  "winRate": 0.25,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'rDBXZDHX2xgRQikoPh2DQZ7xExw2') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 1,
-  "gamesLost": 2,
-  "gamesPlayed": 4,
-  "gamesWon": 1,
-  "name": "Lewis Sam Davis",
-  "standing": 7,
-  "winRate": 0.25,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'MDtDHsLGB8SWWucg8opW2FjGhl32') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/uF3LG7xXVUGmIAPdgAGx9w",
-  "gamesDrawn": 2,
-  "gamesLost": 2,
-  "gamesPlayed": 4,
-  "gamesWon": 0,
-  "name": "Jamie R",
-  "standing": 12,
-  "winRate": 0,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'tifq1nYPgaWhZgeDotAysWJDJ923') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/pp6hepGGKkqUdCSHRCxAcg",
-  "gamesDrawn": 2,
-  "gamesLost": 0,
-  "gamesPlayed": 4,
-  "gamesWon": 2,
-  "name": "Harry erskine",
-  "standing": 3,
-  "winRate": 0.5,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'pNQQfFQ91Vd632aQBWclWu78FLa2') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/ib6YThSzHEiY4dytW8tJdQ",
-  "gamesDrawn": 3,
-  "gamesLost": 0,
-  "gamesPlayed": 4,
-  "gamesWon": 1,
-  "name": "James Lamaison",
-  "standing": 5,
-  "winRate": 0.25,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', '2HCgRchKmFNdgZhw9ejXp2iZ4no1') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/1aLqNrcFPkShca628dBLNA",
-  "gamesDrawn": 2,
-  "gamesLost": 0,
-  "gamesPlayed": 4,
-  "gamesWon": 2,
-  "name": "Ben Mullan",
-  "standing": 2,
-  "winRate": 0.5,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', '6s7cRCNbXWaVsDrVzBpeMTEEGwk2') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/mECt3EMXvUqie-CPJwnNoA",
-  "gamesDrawn": 1,
-  "gamesLost": 3,
-  "gamesPlayed": 4,
-  "gamesWon": 0,
-  "name": "Lucy lucia längle",
-  "standing": 15,
-  "winRate": 0,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'uHU3tBXzj6cyYCYgy31hZ9lSv2b2') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/6QKZzRL1iUG8prPFqvA7-Q",
-  "gamesDrawn": 1,
-  "gamesLost": 2,
-  "gamesPlayed": 4,
-  "gamesWon": 1,
-  "name": "Theodore Lawson",
-  "standing": 8,
-  "winRate": 0.25,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'k8AmCV40MAg7xeCFUbbdGMelXfc2') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/z2oO9IJkBU6jX7ZQ7Y1hFA",
-  "gamesDrawn": 1,
-  "gamesLost": 3,
-  "gamesPlayed": 4,
-  "gamesWon": 0,
-  "name": "Matthew Harrison",
-  "standing": 14,
-  "winRate": 0,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'QQtBXdQu3her2mZRZDJqiPpqe1X2') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/CpF56jmoq0eaEOHr-cAfYw",
-  "gamesDrawn": 2,
-  "gamesLost": 2,
-  "gamesPlayed": 4,
-  "gamesWon": 0,
-  "name": "Ani Jackson",
-  "standing": 11,
-  "winRate": 0,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'cxpjZsxM4QSgH5pSwpWCrlRJY643') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 1,
-  "gamesLost": 1,
-  "gamesPlayed": 4,
-  "gamesWon": 2,
-  "name": "Ed G",
-  "standing": 4,
-  "winRate": 0.5,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'hEocy0ou1rhM6hyyYlotMGXUoBk1') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 1,
-  "gamesLost": 2,
-  "gamesPlayed": 3,
-  "gamesWon": 0,
-  "name": "Daniel Beaven",
-  "standing": 16,
-  "winRate": 0,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', '3hZNILQujrcgOLSiCigiW1zkWyI2') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 1,
-  "gamesLost": 2,
-  "gamesPlayed": 4,
-  "gamesWon": 1,
-  "name": "Dillon Beattie",
-  "standing": 6,
-  "winRate": 0.25,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'KRhbXZtyq9RJxXzKmAY2uk1JJcb2') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/EvO1LoSwW0ycHtOm-ttyRQ",
-  "gamesDrawn": 1,
-  "gamesLost": 3,
-  "gamesPlayed": 4,
-  "gamesWon": 0,
-  "name": "Tom Burns",
-  "standing": 18,
-  "winRate": 0,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'ETE9gtPlD9OuDxOswfCHW78YQSW2') should return player standing of tournaments 1`] = `
-{
-  "decklist": "https://www.moxfield.com/decks/x7p4uQ__gUqMQL2JdfiErQ",
-  "gamesDrawn": 2,
-  "gamesLost": 2,
-  "gamesPlayed": 4,
-  "gamesWon": 0,
-  "name": "Jade Richardson",
-  "standing": 13,
-  "winRate": 0,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', 'd2w4cNZJHyl9JCuRvkkj') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 3,
-  "gamesPlayed": 3,
-  "gamesWon": 0,
-  "name": "Pedro Domínguez Ortega ",
-  "standing": 8,
-  "winRate": 0.0033333333333333335,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', '8WjalUoWJYWCTLnHM1yB') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 3,
-  "gamesPlayed": 3,
-  "gamesWon": 0,
-  "name": "Gonzalo Horacio Andrade Benavente",
-  "standing": 5,
-  "winRate": 0.02,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', 'YiF95RhrS5ktTqgxPH61') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 3,
-  "gamesPlayed": 3,
-  "gamesWon": 0,
-  "name": "Waldo Hernán Chacón Cañas",
-  "standing": 2,
-  "winRate": 0.03333333333333333,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', 'XDlJPGsPzcm1Vo17clF7') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 3,
-  "gamesPlayed": 3,
-  "gamesWon": 0,
-  "name": "Eduardo Andrés Hidalgo Cornejo",
-  "standing": 3,
-  "winRate": 0.03,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', 'PxOOJhN7bHOWAW7Arczc') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 3,
-  "gamesPlayed": 3,
-  "gamesWon": 0,
-  "name": "Sebastián Andrés Leiva Muñoz ",
-  "standing": 7,
-  "winRate": 0.01,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', 'sD4psyy1Yn9eulrPUMNW') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 3,
-  "gamesPlayed": 3,
-  "gamesWon": 0,
-  "name": "Fede Flessatti",
-  "standing": 4,
-  "winRate": 0.023333333333333334,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', 'dfkAUc72tP0M2uaD2415') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 3,
-  "gamesPlayed": 3,
-  "gamesWon": 0,
-  "name": "Pato Munardez",
-  "standing": 6,
-  "winRate": 0.02,
-}
-`;
-
-exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', 'd2zFPunY39FZMpSMeU3g') should return player standing of tournaments 1`] = `
-{
-  "gamesDrawn": 0,
-  "gamesLost": 3,
-  "gamesPlayed": 3,
-  "gamesWon": 0,
-  "name": "Cristhian Parada Martínez ",
-  "standing": 1,
-  "winRate": 0.04,
-}
 `;
