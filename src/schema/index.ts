@@ -1,6 +1,7 @@
 export * from './date';
 export * from './deck-list';
 export * from './deck-snapshot';
+export * from './event-data';
 export * from './format';
 export * from './game';
 export * from './game-format';

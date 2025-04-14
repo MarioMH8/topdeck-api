@@ -5,14 +5,14 @@ import { DeckListSchema } from '../deck-list';
 const StandingDetailSchema = z
 	.object({
 		decklist: DeckListSchema,
-		discord: z.coerce.string().optional(),
-		id: z.coerce.string().optional(),
+		discord: z.coerce.string().nullish(),
+		id: z.coerce.string().nullish(),
 		name: z.coerce.string(),
-		opponentGameWinRate: z.coerce.number().optional(),
+		opponentGameWinRate: z.coerce.number().nullish(),
 		opponentWinRate: z.coerce.number(),
 		points: z.coerce.number(),
 		standing: z.coerce.number(),
-		winRate: z.coerce.number().optional(),
+		winRate: z.coerce.number().nullish(),
 	})
 	.strict()
 	.transform(value => {

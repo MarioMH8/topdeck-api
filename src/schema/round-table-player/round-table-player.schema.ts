@@ -5,11 +5,11 @@ import { DeckListSchema } from '../deck-list';
 const RoundTablePlayerSchema = z
 	.object({
 		decklist: DeckListSchema,
-		discord: z.coerce.string().optional(),
+		discord: z.coerce.string().nullish(),
 		id: z.coerce
 			.string()
 			.transform(value => (value === 'undefined' ? undefined : value))
-			.optional(),
+			.nullish(),
 		name: z.coerce.string(),
 	})
 	.strict()

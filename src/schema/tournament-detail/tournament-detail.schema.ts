@@ -7,7 +7,7 @@ import { TournamentInfoSchema } from '../tournament-info';
 const TournamentDetailSchema = z
 	.object({
 		data: TournamentInfoSchema,
-		rounds: RoundArraySchema.optional(),
+		rounds: RoundArraySchema.nullish(),
 		standings: StandingDetailArraySchema,
 	})
 	.strict();

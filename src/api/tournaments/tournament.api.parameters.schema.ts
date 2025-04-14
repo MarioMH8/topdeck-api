@@ -27,47 +27,47 @@ const OptionalSearchParametersSchema = z.object({
 		.describe(
 			'An array specifying which player columns to include in the response. Default: ["decklist", "wins", "draws", "losses"]'
 		)
-		.optional(),
+		.nullish(),
 	end: z.coerce
 		.number()
 		.describe(
 			'The Unix timestamp (in seconds) indicating the latest end date for the tournaments to be included in the response.'
 		)
-		.optional(),
-	last: z.coerce.number().describe('The number of days back from today to include tournaments.').optional(),
-	participantMax: z.coerce.number().describe('The maximum number of participants to include.').optional(),
-	participantMin: z.coerce.number().describe('The minimum number of participants to include.').optional(),
+		.nullish(),
+	last: z.coerce.number().describe('The number of days back from today to include tournaments.').nullish(),
+	participantMax: z.coerce.number().describe('The maximum number of participants to include.').nullish(),
+	participantMin: z.coerce.number().describe('The minimum number of participants to include.').nullish(),
 	players: z
 		.array(z.union([z.literal('name'), z.literal('id'), z.literal('decklist')]))
 		.default(['name', 'id', 'decklist'])
 		.describe(
 			'An array specifying which player details to include in the response. Default: ["name", "id", "decklist"]'
 		)
-		.optional(),
+		.nullish(),
 	rounds: z
 		.union([z.boolean(), z.array(z.union([z.literal('round'), z.literal('tables')]))])
 		.default(false)
 		.describe(
 			'An array specifying which round details to include in the response. This is default set to false. If set to true, the default is: ["round", "tables"]'
 		)
-		.optional(),
+		.nullish(),
 	start: z.coerce
 		.number()
 		.describe(
 			'The Unix timestamp (in seconds) indicating the earliest start date for the tournaments to be included in the response.'
 		)
-		.optional(),
+		.nullish(),
 	tables: z
 		.array(z.union([z.literal('table'), z.literal('players'), z.literal('winner'), z.literal('status')]))
 		.default(['table', 'players', 'winner', 'status'])
 		.describe(
 			'An array specifying which table details to include in the response. Default: ["table", "players", "winner", "status"]'
 		)
-		.optional(),
+		.nullish(),
 	TID: z
 		.union([z.coerce.string(), z.array(z.coerce.string())])
 		.describe('The ID of the tournament. Can be a single string or an array of strings for multiple tournaments.')
-		.optional(),
+		.nullish(),
 });
 
 const SearchParametersSchema = GameFormatSchema.and(OptionalSearchParametersSchema);

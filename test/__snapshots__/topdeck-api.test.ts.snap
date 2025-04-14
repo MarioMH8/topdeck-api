@@ -5,6 +5,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments 1`
   {
     "TID": "CpusQJZrpf9DwCxhJ35m",
     "averageElo": 1500,
+    "eventData": {},
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -60,6 +61,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments 1`
   {
     "TID": "ybF9HoI0CFvr6hMzwlfP",
     "averageElo": 1496,
+    "eventData": {
+      "city": "Spokane Valley",
+      "headerImage": "",
+      "lat": 47.6691538,
+      "lng": -117.2810671,
+      "location": "1306 N Mullan Rd, Spokane Valley, WA, USA",
+      "state": "WA",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -120,6 +129,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments 1`
   {
     "TID": "XeB0Bsb0wb63YVABih9c",
     "averageElo": 1500,
+    "eventData": {},
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -190,6 +200,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments 1`
   {
     "TID": "AGSIZchKVS88tXt3Xf20",
     "averageElo": 1500,
+    "eventData": {
+      "city": "Bad Zwischenahn",
+      "headerImage": "",
+      "lat": 53.1666705,
+      "lng": 8.157336299999999,
+      "location": "Heideweg 6, Bad Zwischenahn-Ofen, Deutschland",
+      "state": "NDS",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -277,6 +295,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments 1`
   {
     "TID": "Prds4TtudmDUYQGy5glf",
     "averageElo": 1529,
+    "eventData": {
+      "city": null,
+      "headerImage": "",
+      "lat": 51.5500596,
+      "lng": -0.1516331,
+      "location": "Rogues Quarter, Queens Crescent, London, UK",
+      "state": "England",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -396,6 +422,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments 1`
   {
     "TID": "SHvK2nViBz7hAcxIWLYS",
     "averageElo": 1500,
+    "eventData": {},
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -451,6 +478,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments 1`
   {
     "TID": "v7AFEEPGGcMxxtqxWVWU",
     "averageElo": 1521,
+    "eventData": {
+      "city": "Warminster",
+      "headerImage": "https://imagedelivery.net/kN_u_RUfFF6xsGMKYWhO1g/a8190ff1-0f68-4d3c-663b-075749d55e00/public",
+      "lat": 40.20238020000001,
+      "lng": -75.10027509999999,
+      "location": "445 York Road, Warminster, PA, USA",
+      "state": "PA",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -618,6 +653,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments 1`
   {
     "TID": "YSZ3sEsdMFrDA91eAh8J",
     "averageElo": 1500,
+    "eventData": {},
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -673,6 +709,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments 1`
   {
     "TID": "wvqw37hLBUtm3m8vMLL5",
     "averageElo": 1517,
+    "eventData": {
+      "city": "Randolph",
+      "headerImage": "https://imagedelivery.net/kN_u_RUfFF6xsGMKYWhO1g/ce3c66ca-1a98-409c-a3d9-cd2df30aa400/public",
+      "lat": 40.8630491,
+      "lng": -74.572828,
+      "location": "540 New Jersey 10, Randolph, NJ, USA",
+      "state": "NJ",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1497,
@@ -793,6 +837,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments 1`
   {
     "TID": "HbWnnZke85Cpp70DsQ0g",
     "averageElo": 1507,
+    "eventData": {
+      "city": "Chillicothe",
+      "headerImage": "https://imagedelivery.net/kN_u_RUfFF6xsGMKYWhO1g/26cd58f9-1575-41b1-0a79-afe035467700/public",
+      "lat": 39.3368511,
+      "lng": -83.00150699999999,
+      "location": "617 1/2 Central Center, Chillicothe, OH 45601",
+      "state": "OH",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -855,6 +907,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments 1`
   {
     "TID": "M8NW0jLj6fQqQWGAcSvL",
     "averageElo": 1490,
+    "eventData": {
+      "city": "Henryetta",
+      "headerImage": "https://imagedelivery.net/kN_u_RUfFF6xsGMKYWhO1g/5cfd02c1-4a6f-4880-66a8-a31f793ea800/public",
+      "lat": 35.4399749,
+      "lng": -95.98284989999999,
+      "location": "Good Games Good Grub, West Main Street, Henryetta, OK, USA",
+      "state": "OK",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -971,6 +1031,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments 1`
   {
     "TID": "PghSfqppYzZ8pdGjIzE2",
     "averageElo": 1500,
+    "eventData": {},
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -1021,6 +1082,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments 1`
   {
     "TID": "UEjacu8nj7JZ1lDUdJRR",
     "averageElo": 1500,
+    "eventData": {},
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -1096,6 +1158,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments 1`
   {
     "TID": "F7JXFaK33UaEDipq9elk",
     "averageElo": 1504,
+    "eventData": {
+      "city": "Waipahu",
+      "headerImage": "",
+      "lat": 21.4241616,
+      "lng": -158.0031942,
+      "location": "IWinGames, Ka Uka Boulevard, Waipahu, HI, USA",
+      "state": "HI",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -1206,6 +1276,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "CpusQJZrpf9DwCxhJ35m",
     "averageElo": 1500,
+    "eventData": {},
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -1445,6 +1516,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "ybF9HoI0CFvr6hMzwlfP",
     "averageElo": 1496,
+    "eventData": {
+      "city": "Spokane Valley",
+      "headerImage": "",
+      "lat": 47.6691538,
+      "lng": -117.2810671,
+      "location": "1306 N Mullan Rd, Spokane Valley, WA, USA",
+      "state": "WA",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -1637,6 +1716,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "XeB0Bsb0wb63YVABih9c",
     "averageElo": 1500,
+    "eventData": {},
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -1947,6 +2027,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "AGSIZchKVS88tXt3Xf20",
     "averageElo": 1500,
+    "eventData": {
+      "city": "Bad Zwischenahn",
+      "headerImage": "",
+      "lat": 53.1666705,
+      "lng": 8.157336299999999,
+      "location": "Heideweg 6, Bad Zwischenahn-Ofen, Deutschland",
+      "state": "NDS",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -2294,6 +2382,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "Prds4TtudmDUYQGy5glf",
     "averageElo": 1529,
+    "eventData": {
+      "city": null,
+      "headerImage": "",
+      "lat": 51.5500596,
+      "lng": -0.1516331,
+      "location": "Rogues Quarter, Queens Crescent, London, UK",
+      "state": "England",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -2967,6 +3063,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "SHvK2nViBz7hAcxIWLYS",
     "averageElo": 1500,
+    "eventData": {},
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -3171,6 +3268,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "v7AFEEPGGcMxxtqxWVWU",
     "averageElo": 1521,
+    "eventData": {
+      "city": "Warminster",
+      "headerImage": "https://imagedelivery.net/kN_u_RUfFF6xsGMKYWhO1g/a8190ff1-0f68-4d3c-663b-075749d55e00/public",
+      "lat": 40.20238020000001,
+      "lng": -75.10027509999999,
+      "location": "445 York Road, Warminster, PA, USA",
+      "state": "PA",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -3307,7 +3412,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/7yVyVJLd2EO_Y9fF0bBImQ",
                 "id": "dAfmFLvLM4YEXCN85pA8WrErUKW2",
-                "name": "Christopher wilson",
+                "name": "Christopher Wilson",
               },
             ],
             "status": "Completed",
@@ -3353,7 +3458,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/U-ULX4qir0aTBdHXvCcI4g",
                 "id": "1SWQPFbSyHZ7oevjc3HcqP8mrT23",
-                "name": "Todd Sloat",
+                "name": "Todd (TJ) Sloat",
               },
               {
                 "id": "hQF62oQoBCbhpPAeV8t8Tk7DiUd2",
@@ -3489,7 +3594,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/7yVyVJLd2EO_Y9fF0bBImQ",
                 "id": "dAfmFLvLM4YEXCN85pA8WrErUKW2",
-                "name": "Christopher wilson",
+                "name": "Christopher Wilson",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/gNRiXNMByEqa6sIuLrTtOQ",
@@ -3565,7 +3670,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/U-ULX4qir0aTBdHXvCcI4g",
                 "id": "1SWQPFbSyHZ7oevjc3HcqP8mrT23",
-                "name": "Todd Sloat",
+                "name": "Todd (TJ) Sloat",
               },
             ],
             "status": "Completed",
@@ -3616,7 +3721,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/7yVyVJLd2EO_Y9fF0bBImQ",
                 "id": "dAfmFLvLM4YEXCN85pA8WrErUKW2",
-                "name": "Christopher wilson",
+                "name": "Christopher Wilson",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/Nj675J5XtE-kODAKqZS-sQ",
@@ -3724,7 +3829,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/U-ULX4qir0aTBdHXvCcI4g",
                 "id": "1SWQPFbSyHZ7oevjc3HcqP8mrT23",
-                "name": "Todd Sloat",
+                "name": "Todd (TJ) Sloat",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/ttPOzGOockuGeRqKB6-g8g",
@@ -3942,7 +4047,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/U-ULX4qir0aTBdHXvCcI4g",
                 "id": "1SWQPFbSyHZ7oevjc3HcqP8mrT23",
-                "name": "Todd Sloat",
+                "name": "Todd (TJ) Sloat",
               },
               {
                 "id": "I9pHcGdYwWVYTpmuR8V1pfSLoO02",
@@ -4066,7 +4171,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/U-ULX4qir0aTBdHXvCcI4g",
                 "id": "1SWQPFbSyHZ7oevjc3HcqP8mrT23",
-                "name": "Todd Sloat",
+                "name": "Todd (TJ) Sloat",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/erwx1pe--E-pVH_r6ie7lw",
@@ -4278,6 +4383,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "YSZ3sEsdMFrDA91eAh8J",
     "averageElo": 1500,
+    "eventData": {},
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -4519,6 +4625,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "wvqw37hLBUtm3m8vMLL5",
     "averageElo": 1517,
+    "eventData": {
+      "city": "Randolph",
+      "headerImage": "https://imagedelivery.net/kN_u_RUfFF6xsGMKYWhO1g/ce3c66ca-1a98-409c-a3d9-cd2df30aa400/public",
+      "lat": 40.8630491,
+      "lng": -74.572828,
+      "location": "540 New Jersey 10, Randolph, NJ, USA",
+      "state": "NJ",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1497,
@@ -5016,6 +5130,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "HbWnnZke85Cpp70DsQ0g",
     "averageElo": 1507,
+    "eventData": {
+      "city": "Chillicothe",
+      "headerImage": "https://imagedelivery.net/kN_u_RUfFF6xsGMKYWhO1g/26cd58f9-1575-41b1-0a79-afe035467700/public",
+      "lat": 39.3368511,
+      "lng": -83.00150699999999,
+      "location": "617 1/2 Central Center, Chillicothe, OH 45601",
+      "state": "OH",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -5353,6 +5475,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "M8NW0jLj6fQqQWGAcSvL",
     "averageElo": 1490,
+    "eventData": {
+      "city": "Henryetta",
+      "headerImage": "https://imagedelivery.net/kN_u_RUfFF6xsGMKYWhO1g/5cfd02c1-4a6f-4880-66a8-a31f793ea800/public",
+      "lat": 35.4399749,
+      "lng": -95.98284989999999,
+      "location": "Good Games Good Grub, West Main Street, Henryetta, OK, USA",
+      "state": "OK",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -5381,7 +5511,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/j7lOUyAcKkK32A7NNMtQJg",
                 "id": "1x0bUbdxSONnSPiEs27cOjvUxmm2",
-                "name": "Thomas",
+                "name": "Thomas Deer",
               },
             ],
             "status": "Completed",
@@ -5538,7 +5668,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/j7lOUyAcKkK32A7NNMtQJg",
                 "id": "1x0bUbdxSONnSPiEs27cOjvUxmm2",
-                "name": "Thomas",
+                "name": "Thomas Deer",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/_ROJerUxMEStz3XqfImM2w",
@@ -5614,7 +5744,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/j7lOUyAcKkK32A7NNMtQJg",
                 "id": "1x0bUbdxSONnSPiEs27cOjvUxmm2",
-                "name": "Thomas",
+                "name": "Thomas Deer",
               },
             ],
             "status": "Completed",
@@ -5852,6 +5982,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "PghSfqppYzZ8pdGjIzE2",
     "averageElo": 1500,
+    "eventData": {},
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -6073,6 +6204,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "UEjacu8nj7JZ1lDUdJRR",
     "averageElo": 1500,
+    "eventData": {},
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -6403,6 +6535,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "F7JXFaK33UaEDipq9elk",
     "averageElo": 1504,
+    "eventData": {
+      "city": "Waipahu",
+      "headerImage": "",
+      "lat": 21.4241616,
+      "lng": -158.0031942,
+      "location": "IWinGames, Ka Uka Boulevard, Waipahu, HI, USA",
+      "state": "HI",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -6416,7 +6556,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/3SuEL2fm_kSBtcz3U4-yIQ",
                 "id": "nOp0dABFPkX0Ch9bLHTDcBf1pX13",
-                "name": "Charles A. Sonido",
+                "name": "Charles Sonido",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/fJtoXZFPUEuZS0xU6Cr_iA",
@@ -6617,7 +6757,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/3SuEL2fm_kSBtcz3U4-yIQ",
                 "id": "nOp0dABFPkX0Ch9bLHTDcBf1pX13",
-                "name": "Charles A. Sonido",
+                "name": "Charles Sonido",
               },
               {
                 "decklist": " https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
@@ -6706,7 +6846,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/3SuEL2fm_kSBtcz3U4-yIQ",
                 "id": "nOp0dABFPkX0Ch9bLHTDcBf1pX13",
-                "name": "Charles A. Sonido",
+                "name": "Charles Sonido",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/BY8sDimaXkWuU-bYaskB1g",
@@ -6945,6 +7085,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "CpusQJZrpf9DwCxhJ35m",
     "averageElo": 1500,
+    "eventData": {},
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -7198,7 +7339,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Ender S ",
         "winRate": 0.3333333333333333,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.3333333333333333,
         "wins": 1,
         "winsBracket": 0,
@@ -7212,7 +7353,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Ed S",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -7226,7 +7367,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Ryan T",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -7240,7 +7381,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Thomas L",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -7256,6 +7397,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "ybF9HoI0CFvr6hMzwlfP",
     "averageElo": 1496,
+    "eventData": {
+      "city": "Spokane Valley",
+      "headerImage": "",
+      "lat": 47.6691538,
+      "lng": -117.2810671,
+      "location": "1306 N Mullan Rd, Spokane Valley, WA, USA",
+      "state": "WA",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -7401,7 +7550,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 0,
         "name": "Jayson lawrence",
         "winRate": 1,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 1,
         "wins": 2,
         "winsBracket": 0,
@@ -7415,7 +7564,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 1,
         "name": "Kriston Broxson",
         "winRate": 0.5,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.5,
         "wins": 1,
         "winsBracket": 0,
@@ -7429,7 +7578,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 1,
         "name": "William Foster-Dow",
         "winRate": 0.5,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.5,
         "wins": 1,
         "winsBracket": 0,
@@ -7443,7 +7592,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 1,
         "name": "Joshua Gilstrap",
         "winRate": 0.5,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.5,
         "wins": 1,
         "winsBracket": 0,
@@ -7457,7 +7606,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 1,
         "name": "Christopher Howard",
         "winRate": 0.5,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.5,
         "wins": 1,
         "winsBracket": 0,
@@ -7471,7 +7620,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Bill Knerr",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -7485,7 +7634,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Gage",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -7499,7 +7648,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Ryan Monson",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -7513,7 +7662,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Hannah James ",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -7529,6 +7678,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "XeB0Bsb0wb63YVABih9c",
     "averageElo": 1500,
+    "eventData": {},
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -7810,7 +7960,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 1,
         "name": "Massimiliano Scodro                                           ",
         "winRate": 0.6666666666666666,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.6666666666666666,
         "wins": 2,
         "winsBracket": 0,
@@ -7852,7 +8002,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Davide Zampieri                                               ",
         "winRate": 0.3333333333333333,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.3333333333333333,
         "wins": 1,
         "winsBracket": 0,
@@ -7866,7 +8016,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "matteo dalla benetta                                          ",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -7880,7 +8030,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Francesco Balbi                                               ",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -7894,7 +8044,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Antonio Colombo                                               ",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -7908,7 +8058,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Matteo Lucietto                                               ",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -7922,7 +8072,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Giacomo Andolfatto                                            ",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -7938,6 +8088,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "AGSIZchKVS88tXt3Xf20",
     "averageElo": 1500,
+    "eventData": {
+      "city": "Bad Zwischenahn",
+      "headerImage": "",
+      "lat": 53.1666705,
+      "lng": 8.157336299999999,
+      "location": "Heideweg 6, Bad Zwischenahn-Ofen, Deutschland",
+      "state": "NDS",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -8215,7 +8373,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 0,
         "name": "Queza",
         "winRate": 1,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 1,
         "wins": 3,
         "winsBracket": 0,
@@ -8233,7 +8391,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Aminatou",
         "winRate": 0.3333333333333333,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.3333333333333333,
         "wins": 1,
         "winsBracket": 0,
@@ -8251,7 +8409,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Muldrotha",
         "winRate": 0.3333333333333333,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.3333333333333333,
         "wins": 1,
         "winsBracket": 0,
@@ -8269,7 +8427,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Anikthea",
         "winRate": 0.3333333333333333,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.3333333333333333,
         "wins": 1,
         "winsBracket": 0,
@@ -8287,7 +8445,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Roon",
         "winRate": 0.3333333333333333,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.3333333333333333,
         "wins": 1,
         "winsBracket": 0,
@@ -8305,7 +8463,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Kykar",
         "winRate": 0.3333333333333333,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.3333333333333333,
         "wins": 1,
         "winsBracket": 0,
@@ -8323,7 +8481,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Pramikon",
         "winRate": 0.3333333333333333,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.3333333333333333,
         "wins": 1,
         "winsBracket": 0,
@@ -8341,7 +8499,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Kylox",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -8359,16 +8517,13 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Negan",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
         "winsSwiss": 0,
       },
       {
-        "commanders": [
-          "Estrid, the Masked",
-        ],
         "decklist": "https://www.moxfield.com/decks/KoMtNtsSd0yPLisv3OI7Tg",
         "draws": 0,
         "id": "2Qm4lpTl900j7doW43vc",
@@ -8377,7 +8532,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Estrid",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -8395,7 +8550,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Atla Palani",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -8413,7 +8568,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Illuna",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -8429,6 +8584,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "Prds4TtudmDUYQGy5glf",
     "averageElo": 1529,
+    "eventData": {
+      "city": null,
+      "headerImage": "",
+      "lat": 51.5500596,
+      "lng": -0.1516331,
+      "location": "Rogues Quarter, Queens Crescent, London, UK",
+      "state": "England",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -9070,7 +9233,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 0,
         "name": "James Lamaison",
         "winRate": 0.25,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.25,
         "wins": 1,
         "winsBracket": 0,
@@ -9084,7 +9247,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Dillon Beattie",
         "winRate": 0.25,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.25,
         "wins": 1,
         "winsBracket": 0,
@@ -9098,7 +9261,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Lewis Sam Davis",
         "winRate": 0.25,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.25,
         "wins": 1,
         "winsBracket": 0,
@@ -9116,7 +9279,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Theodore Lawson",
         "winRate": 0.25,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.25,
         "wins": 1,
         "winsBracket": 0,
@@ -9135,7 +9298,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Federico Zubani",
         "winRate": 0.25,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.25,
         "wins": 1,
         "winsBracket": 0,
@@ -9154,7 +9317,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Nedwardo",
         "winRate": 0.25,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.25,
         "wins": 1,
         "winsBracket": 0,
@@ -9173,7 +9336,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Ani Jackson",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -9191,7 +9354,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Jamie R",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -9209,7 +9372,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Jade Richardson",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -9227,7 +9390,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Matthew Harrison",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -9246,7 +9409,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Lucy lucia längle",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -9260,7 +9423,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Daniel Beaven",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -9278,7 +9441,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Qasim Rashid",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -9296,7 +9459,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Tom Burns",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -9312,6 +9475,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "SHvK2nViBz7hAcxIWLYS",
     "averageElo": 1500,
+    "eventData": {},
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -9474,7 +9638,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Cristhian Parada Martínez ",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -9488,7 +9652,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Waldo Hernán Chacón Cañas",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -9502,7 +9666,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Eduardo Andrés Hidalgo Cornejo",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -9516,7 +9680,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Fede Flessatti",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -9530,7 +9694,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Gonzalo Horacio Andrade Benavente",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -9544,7 +9708,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Pato Munardez",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -9558,7 +9722,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Sebastián Andrés Leiva Muñoz ",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -9572,7 +9736,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Pedro Domínguez Ortega ",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -9588,6 +9752,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "v7AFEEPGGcMxxtqxWVWU",
     "averageElo": 1521,
+    "eventData": {
+      "city": "Warminster",
+      "headerImage": "https://imagedelivery.net/kN_u_RUfFF6xsGMKYWhO1g/a8190ff1-0f68-4d3c-663b-075749d55e00/public",
+      "lat": 40.20238020000001,
+      "lng": -75.10027509999999,
+      "location": "445 York Road, Warminster, PA, USA",
+      "state": "PA",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -9724,7 +9896,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/7yVyVJLd2EO_Y9fF0bBImQ",
                 "id": "dAfmFLvLM4YEXCN85pA8WrErUKW2",
-                "name": "Christopher wilson",
+                "name": "Christopher Wilson",
               },
             ],
             "status": "Completed",
@@ -9770,7 +9942,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/U-ULX4qir0aTBdHXvCcI4g",
                 "id": "1SWQPFbSyHZ7oevjc3HcqP8mrT23",
-                "name": "Todd Sloat",
+                "name": "Todd (TJ) Sloat",
               },
               {
                 "id": "hQF62oQoBCbhpPAeV8t8Tk7DiUd2",
@@ -9906,7 +10078,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/7yVyVJLd2EO_Y9fF0bBImQ",
                 "id": "dAfmFLvLM4YEXCN85pA8WrErUKW2",
-                "name": "Christopher wilson",
+                "name": "Christopher Wilson",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/gNRiXNMByEqa6sIuLrTtOQ",
@@ -9982,7 +10154,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/U-ULX4qir0aTBdHXvCcI4g",
                 "id": "1SWQPFbSyHZ7oevjc3HcqP8mrT23",
-                "name": "Todd Sloat",
+                "name": "Todd (TJ) Sloat",
               },
             ],
             "status": "Completed",
@@ -10033,7 +10205,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/7yVyVJLd2EO_Y9fF0bBImQ",
                 "id": "dAfmFLvLM4YEXCN85pA8WrErUKW2",
-                "name": "Christopher wilson",
+                "name": "Christopher Wilson",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/Nj675J5XtE-kODAKqZS-sQ",
@@ -10141,7 +10313,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/U-ULX4qir0aTBdHXvCcI4g",
                 "id": "1SWQPFbSyHZ7oevjc3HcqP8mrT23",
-                "name": "Todd Sloat",
+                "name": "Todd (TJ) Sloat",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/ttPOzGOockuGeRqKB6-g8g",
@@ -10359,7 +10531,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/U-ULX4qir0aTBdHXvCcI4g",
                 "id": "1SWQPFbSyHZ7oevjc3HcqP8mrT23",
-                "name": "Todd Sloat",
+                "name": "Todd (TJ) Sloat",
               },
               {
                 "id": "I9pHcGdYwWVYTpmuR8V1pfSLoO02",
@@ -10483,7 +10655,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/U-ULX4qir0aTBdHXvCcI4g",
                 "id": "1SWQPFbSyHZ7oevjc3HcqP8mrT23",
-                "name": "Todd Sloat",
+                "name": "Todd (TJ) Sloat",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/erwx1pe--E-pVH_r6ie7lw",
@@ -10667,7 +10839,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "losses": 2,
         "lossesBracket": 1,
         "lossesSwiss": 1,
-        "name": "Todd Sloat",
+        "name": "Todd (TJ) Sloat",
         "winRate": 0,
         "winRateBracket": 0,
         "winRateSwiss": 0,
@@ -10724,7 +10896,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Alex Pezzotta",
         "winRate": 0.2,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.2,
         "wins": 1,
         "winsBracket": 0,
@@ -10742,7 +10914,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "John O’Byrne",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -10761,7 +10933,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Anthony Ward",
         "winRate": 0.2,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.2,
         "wins": 1,
         "winsBracket": 0,
@@ -10779,7 +10951,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Matt Gooding",
         "winRate": 0.2,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.2,
         "wins": 1,
         "winsBracket": 0,
@@ -10797,7 +10969,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Christopher Knighton",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -10811,17 +10983,13 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Taka",
         "winRate": 0.2,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.2,
         "wins": 1,
         "winsBracket": 0,
         "winsSwiss": 1,
       },
       {
-        "commanders": [
-          "Thrasios, Triton Hero",
-          "Tymna the Weaver",
-        ],
         "decklist": "https://www.moxfield.com/decks/v1vdnOG9G021_eRKynVQYQ",
         "draws": 1,
         "id": "dQ1EcYlXSRPdX0w48llDyKaLeKy2",
@@ -10830,7 +10998,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Zachary Ritz",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -10849,7 +11017,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Bill corcoran",
         "winRate": 0.2,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.2,
         "wins": 1,
         "winsBracket": 0,
@@ -10864,7 +11032,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 4,
         "name": "Andrew Strano",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -10880,9 +11048,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "losses": 3,
         "lossesBracket": 0,
         "lossesSwiss": 3,
-        "name": "Christopher wilson",
+        "name": "Christopher Wilson",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -10900,7 +11068,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Robert weidow",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -10918,7 +11086,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Kris Mac",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -10932,7 +11100,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "David Quinn",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -10946,7 +11114,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Alex lorenz",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -10964,7 +11132,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Kai Powell",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -10982,7 +11150,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 4,
         "name": "Eugene Milbrodt",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -10998,6 +11166,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "YSZ3sEsdMFrDA91eAh8J",
     "averageElo": 1500,
+    "eventData": {},
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -11253,7 +11422,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 1,
         "name": "Mathew Fulton",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -11267,7 +11436,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 1,
         "name": "Travis Wright",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -11281,7 +11450,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 1,
         "name": "Adriana Brouwder",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -11295,7 +11464,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Henry Reeve",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -11311,6 +11480,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "wvqw37hLBUtm3m8vMLL5",
     "averageElo": 1517,
+    "eventData": {
+      "city": "Randolph",
+      "headerImage": "https://imagedelivery.net/kN_u_RUfFF6xsGMKYWhO1g/ce3c66ca-1a98-409c-a3d9-cd2df30aa400/public",
+      "lat": 40.8630491,
+      "lng": -74.572828,
+      "location": "540 New Jersey 10, Randolph, NJ, USA",
+      "state": "NJ",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1497,
@@ -11773,7 +11950,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 1,
         "name": "Amanda Deller",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -11791,7 +11968,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Trevor Dericks",
         "winRate": 0.3333333333333333,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.3333333333333333,
         "wins": 1,
         "winsBracket": 0,
@@ -11810,7 +11987,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Collis Law-Penrose",
         "winRate": 0.3333333333333333,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.3333333333333333,
         "wins": 1,
         "winsBracket": 0,
@@ -11829,7 +12006,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Omar Kilgore",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -11848,7 +12025,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Anthony DeDilectis",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -11867,7 +12044,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Aaron Garber",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -11886,7 +12063,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Shohei Ogawa",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -11905,7 +12082,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Vinny Deeds",
         "winRate": 0.3333333333333333,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.3333333333333333,
         "wins": 1,
         "winsBracket": 0,
@@ -11919,7 +12096,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "lexya nazarro",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -11938,7 +12115,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 1,
         "name": "Ka Ho Yeung",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -11957,7 +12134,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Noam D Opitz",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -11975,7 +12152,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "David Walker",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -11994,7 +12171,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Ben Brenner ",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -12008,7 +12185,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Michael Root",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -12024,6 +12201,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "HbWnnZke85Cpp70DsQ0g",
     "averageElo": 1507,
+    "eventData": {
+      "city": "Chillicothe",
+      "headerImage": "https://imagedelivery.net/kN_u_RUfFF6xsGMKYWhO1g/26cd58f9-1575-41b1-0a79-afe035467700/public",
+      "lat": 39.3368511,
+      "lng": -83.00150699999999,
+      "location": "617 1/2 Central Center, Chillicothe, OH 45601",
+      "state": "OH",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -12389,7 +12574,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "David Coyan",
         "winRate": 0.25,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.25,
         "wins": 1,
         "winsBracket": 0,
@@ -12403,7 +12588,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Alex obrien",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -12421,7 +12606,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Patdaddy",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -12440,7 +12625,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Chris Wallace",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -12456,6 +12641,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "M8NW0jLj6fQqQWGAcSvL",
     "averageElo": 1490,
+    "eventData": {
+      "city": "Henryetta",
+      "headerImage": "https://imagedelivery.net/kN_u_RUfFF6xsGMKYWhO1g/5cfd02c1-4a6f-4880-66a8-a31f793ea800/public",
+      "lat": 35.4399749,
+      "lng": -95.98284989999999,
+      "location": "Good Games Good Grub, West Main Street, Henryetta, OK, USA",
+      "state": "OK",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -12484,7 +12677,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/j7lOUyAcKkK32A7NNMtQJg",
                 "id": "1x0bUbdxSONnSPiEs27cOjvUxmm2",
-                "name": "Thomas",
+                "name": "Thomas Deer",
               },
             ],
             "status": "Completed",
@@ -12641,7 +12834,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/j7lOUyAcKkK32A7NNMtQJg",
                 "id": "1x0bUbdxSONnSPiEs27cOjvUxmm2",
-                "name": "Thomas",
+                "name": "Thomas Deer",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/_ROJerUxMEStz3XqfImM2w",
@@ -12717,7 +12910,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/j7lOUyAcKkK32A7NNMtQJg",
                 "id": "1x0bUbdxSONnSPiEs27cOjvUxmm2",
-                "name": "Thomas",
+                "name": "Thomas Deer",
               },
             ],
             "status": "Completed",
@@ -12925,7 +13118,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Wilfedis Arias Jr",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -12944,7 +13137,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Michael Zheng",
         "winRate": 0.3333333333333333,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.3333333333333333,
         "wins": 1,
         "winsBracket": 0,
@@ -12963,7 +13156,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Brandon glass",
         "winRate": 0.3333333333333333,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.3333333333333333,
         "wins": 1,
         "winsBracket": 0,
@@ -12981,7 +13174,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Stuart Braud",
         "winRate": 0.3333333333333333,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.3333333333333333,
         "wins": 1,
         "winsBracket": 0,
@@ -13000,7 +13193,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Kavis Murry Jr.",
         "winRate": 0.3333333333333333,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.3333333333333333,
         "wins": 1,
         "winsBracket": 0,
@@ -13018,7 +13211,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Matthew phan",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -13037,7 +13230,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Billy Callan",
         "winRate": 0.3333333333333333,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.3333333333333333,
         "wins": 1,
         "winsBracket": 0,
@@ -13053,9 +13246,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "losses": 3,
         "lossesBracket": 0,
         "lossesSwiss": 3,
-        "name": "Thomas",
+        "name": "Thomas Deer",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -13073,7 +13266,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "James Samuel Adams",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -13092,7 +13285,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "jonathan vick",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -13111,7 +13304,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Landon Garrison",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -13129,7 +13322,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Christopher Andrew Murry",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -13147,7 +13340,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Isaac W Guynes",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -13163,6 +13356,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "PghSfqppYzZ8pdGjIzE2",
     "averageElo": 1500,
+    "eventData": {},
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -13403,7 +13597,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Adrian",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -13417,7 +13611,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Damon",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -13431,7 +13625,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Michael",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -13447,6 +13641,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "UEjacu8nj7JZ1lDUdJRR",
     "averageElo": 1500,
+    "eventData": {},
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -13771,7 +13966,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Alexander",
         "winRate": 0.3333333333333333,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0.3333333333333333,
         "wins": 1,
         "winsBracket": 0,
@@ -13785,7 +13980,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 0,
         "name": "Mike",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -13799,7 +13994,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 1,
         "name": "Michael Hall",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -13813,7 +14008,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 1,
         "name": "Adrian",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -13827,7 +14022,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Damon",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -13841,7 +14036,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Joshua",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -13855,7 +14050,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Garner",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -13869,7 +14064,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Michael Allen",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -13885,6 +14080,14 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
   {
     "TID": "F7JXFaK33UaEDipq9elk",
     "averageElo": 1504,
+    "eventData": {
+      "city": "Waipahu",
+      "headerImage": "",
+      "lat": 21.4241616,
+      "lng": -158.0031942,
+      "location": "IWinGames, Ka Uka Boulevard, Waipahu, HI, USA",
+      "state": "HI",
+    },
     "format": "EDH",
     "game": "Magic: The Gathering",
     "medianElo": 1500,
@@ -13898,7 +14101,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/3SuEL2fm_kSBtcz3U4-yIQ",
                 "id": "nOp0dABFPkX0Ch9bLHTDcBf1pX13",
-                "name": "Charles A. Sonido",
+                "name": "Charles Sonido",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/fJtoXZFPUEuZS0xU6Cr_iA",
@@ -14099,7 +14302,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/3SuEL2fm_kSBtcz3U4-yIQ",
                 "id": "nOp0dABFPkX0Ch9bLHTDcBf1pX13",
-                "name": "Charles A. Sonido",
+                "name": "Charles Sonido",
               },
               {
                 "decklist": " https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
@@ -14188,7 +14391,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/3SuEL2fm_kSBtcz3U4-yIQ",
                 "id": "nOp0dABFPkX0Ch9bLHTDcBf1pX13",
-                "name": "Charles A. Sonido",
+                "name": "Charles Sonido",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/BY8sDimaXkWuU-bYaskB1g",
@@ -14378,9 +14581,6 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
-        "commanders": [
-          "Kinnan, Bonder Prodigy",
-        ],
         "decklist": "https://www.moxfield.com/decks/jNcQp2nnf0WPN1SvZIcCUg",
         "draws": 1,
         "id": "cbdKjwW2lMRNxtG0pfwgGB5zj3l2",
@@ -14518,13 +14718,16 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Kai Toonen",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "Godo, Bandit Warlord",
+        ],
         "decklist": "https://www.moxfield.com/decks/oJz2hcSOWUGvVX9A39g_ng",
         "draws": 0,
         "id": "t94U3sbk80NPvYMmColYLsRVNXT2",
@@ -14533,7 +14736,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 3,
         "name": "Alfred Snay",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -14551,26 +14754,22 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 2,
         "name": "Zachary Prado",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
         "winsSwiss": 0,
       },
       {
-        "commanders": [
-          "Thrasios, Triton Hero",
-          "Tymna the Weaver",
-        ],
         "decklist": "https://www.moxfield.com/decks/3SuEL2fm_kSBtcz3U4-yIQ",
         "draws": 1,
         "id": "nOp0dABFPkX0Ch9bLHTDcBf1pX13",
         "losses": 2,
         "lossesBracket": 0,
         "lossesSwiss": 2,
-        "name": "Charles A. Sonido",
+        "name": "Charles Sonido",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -14588,7 +14787,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "lossesSwiss": 0,
         "name": "Matt Hayes",
         "winRate": 0,
-        "winRateBracket": 0,
+        "winRateBracket": null,
         "winRateSwiss": 0,
         "wins": 0,
         "winsBracket": 0,
@@ -14855,6 +15054,7 @@ exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') latestRound(
 
 exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', 'wROBh4ndJwjG1u45T5BV') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 1,
   "gamesLost": 1,
   "gamesPlayed": 3,
@@ -14867,6 +15067,7 @@ exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandi
 
 exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', 'lpbjHXuOstGSaClSbLwT') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 1,
   "gamesLost": 1,
   "gamesPlayed": 3,
@@ -14879,6 +15080,7 @@ exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandi
 
 exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', 'Uu8MZzGafjs1z8dSI3OS') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 1,
   "gamesLost": 1,
   "gamesPlayed": 3,
@@ -14891,6 +15093,7 @@ exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandi
 
 exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', '76DSovVO2mCEDFIh8PCs') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 1,
   "gamesLost": 2,
   "gamesPlayed": 3,
@@ -14903,6 +15106,7 @@ exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandi
 
 exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', 'UP4WMSdvzBFjfc4lUDGX') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 3,
   "gamesPlayed": 3,
@@ -14915,6 +15119,7 @@ exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandi
 
 exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', 'xyfM81RewbLmJYHFdhEr') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 2,
   "gamesPlayed": 3,
@@ -14927,6 +15132,7 @@ exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandi
 
 exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', 'RakqFU3PtYwEWEJuX1zr') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 3,
   "gamesPlayed": 3,
@@ -14939,6 +15145,7 @@ exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandi
 
 exports[`topdeck-api tournaments tournament('CpusQJZrpf9DwCxhJ35m') playerStandings('CpusQJZrpf9DwCxhJ35m', 'mx7FBtM7BnidYCTSmqKB') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 2,
   "gamesPlayed": 3,
@@ -15477,6 +15684,7 @@ exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') latestRound(
 
 exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', '8sNIhXMax1kTsRDP5JhH') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 3,
   "gamesPlayed": 3,
@@ -15489,6 +15697,7 @@ exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandi
 
 exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'y6cerZpLJUq8L10JS1Ps') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 3,
   "gamesPlayed": 3,
@@ -15501,6 +15710,7 @@ exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandi
 
 exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'fOzYQEDR2TexFD3nYOOs') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 2,
   "gamesPlayed": 3,
@@ -15513,6 +15723,7 @@ exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandi
 
 exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'Wf5deUA0j17Eys3lsrz5') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 2,
   "gamesPlayed": 3,
@@ -15525,6 +15736,7 @@ exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandi
 
 exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'WPm0Rq0qkhR2zWPdm11z') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 3,
   "gamesPlayed": 3,
@@ -15537,6 +15749,7 @@ exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandi
 
 exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'BBTn3LeuBvAXencgv9cY') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 3,
   "gamesPlayed": 3,
@@ -15549,6 +15762,7 @@ exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandi
 
 exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'fwlsrFOSD6WCydAdYsCk') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 2,
   "gamesPlayed": 3,
@@ -15561,6 +15775,7 @@ exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandi
 
 exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'gzCdUQkaNXX3zq2mULLh') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 2,
   "gamesPlayed": 3,
@@ -15573,6 +15788,7 @@ exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandi
 
 exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'Sj6GbquCR6X8m2QqL8vm') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 0,
   "gamesPlayed": 3,
@@ -15585,6 +15801,7 @@ exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandi
 
 exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'Lyx25XJGCraJW7VThJxs') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 3,
   "gamesPlayed": 3,
@@ -15597,6 +15814,7 @@ exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandi
 
 exports[`topdeck-api tournaments tournament('XeB0Bsb0wb63YVABih9c') playerStandings('XeB0Bsb0wb63YVABih9c', 'OA9kzUc879TbqI7T8COV') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 1,
   "gamesPlayed": 3,
@@ -16290,6 +16508,7 @@ exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') latestRound(
 
 exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'AbdD6HRQjuxLzPc2xGMG') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/FOrhVEEsg0GEsAhn5mb6zw",
   "gamesDrawn": 0,
   "gamesLost": 2,
@@ -16303,6 +16522,7 @@ exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandi
 
 exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'fiennaInBrjMbgBbOCyP') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/uQWmqXJpVUWQupVvZCmjZQ",
   "gamesDrawn": 0,
   "gamesLost": 2,
@@ -16316,6 +16536,7 @@ exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandi
 
 exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'GGp5TGqZLzyPVkrw64WQ') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/RP7FoOw3zkakrMumaAeKMw",
   "gamesDrawn": 0,
   "gamesLost": 3,
@@ -16329,6 +16550,7 @@ exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandi
 
 exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', '8OI85IgcTzy224V9uLJF') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/-W79K_IW2UONsZ8i3-2Sfg",
   "gamesDrawn": 0,
   "gamesLost": 2,
@@ -16342,6 +16564,7 @@ exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandi
 
 exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'wuhD0IqaR77cXcDLQ6ZV') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/KhfndN1KBkeryStOowJlkA",
   "gamesDrawn": 0,
   "gamesLost": 3,
@@ -16355,6 +16578,7 @@ exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandi
 
 exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', '2Qm4lpTl900j7doW43vc') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/KoMtNtsSd0yPLisv3OI7Tg",
   "gamesDrawn": 0,
   "gamesLost": 3,
@@ -16368,6 +16592,7 @@ exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandi
 
 exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'RxODXEj6oKb8cTrAwB6P') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/JM-_534B3UmDbTvo5URanQ",
   "gamesDrawn": 0,
   "gamesLost": 2,
@@ -16381,6 +16606,7 @@ exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandi
 
 exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'HW0BGYUOtC9JGWkq2IAi') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/kqsdk9bMsUWA50i-JxsY2Q",
   "gamesDrawn": 0,
   "gamesLost": 3,
@@ -16394,6 +16620,7 @@ exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandi
 
 exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'FiiEMLVBKhzwFV2Nyr1f') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/hAYjP9Yx5UONngvxA9cKGQ",
   "gamesDrawn": 0,
   "gamesLost": 3,
@@ -16407,6 +16634,7 @@ exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandi
 
 exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', '9qLaX6qScsEwdOrXTa09') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/VnmJ9t2Qo0Wq3OmIuKVYSw",
   "gamesDrawn": 0,
   "gamesLost": 2,
@@ -16420,6 +16648,7 @@ exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandi
 
 exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'yxVJHuwY6PgwfBVqqIEW') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/vBTygbGTPEylUDCGbdstJA",
   "gamesDrawn": 0,
   "gamesLost": 2,
@@ -16433,6 +16662,7 @@ exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandi
 
 exports[`topdeck-api tournaments tournament('AGSIZchKVS88tXt3Xf20') playerStandings('AGSIZchKVS88tXt3Xf20', 'TT5WnfHgemf5ghoHYQiZ') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/9xsvnNfKnkKcWPKj6yYZWg",
   "gamesDrawn": 0,
   "gamesLost": 0,
@@ -17504,6 +17734,7 @@ exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') latestRound(
 
 exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'QdIznURPpfQEKKO5YORwbB8vNTI2') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/QhmCasMsVUGX03tybFXoSg",
   "gamesDrawn": 1,
   "gamesLost": 3,
@@ -17517,6 +17748,7 @@ exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandi
 
 exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'jrkq6K8ox1bLygG091KnG3X74aq1') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/KijyOoYJj02G7TsJ6fLRyQ",
   "gamesDrawn": 2,
   "gamesLost": 0,
@@ -17530,6 +17762,7 @@ exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandi
 
 exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'M0ctXMqFONNcBqzOVdDuPTRoa392') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/o03m8fP_FkGVdT2ECNVR-g",
   "gamesDrawn": 0,
   "gamesLost": 3,
@@ -17543,6 +17776,7 @@ exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandi
 
 exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'mOPcuzgdQ4R8YN5Yr0yBEIn7Wez1') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/UfNV_j1FqEuNVsK_70SeGA",
   "gamesDrawn": 0,
   "gamesLost": 3,
@@ -17556,6 +17790,7 @@ exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandi
 
 exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'rDBXZDHX2xgRQikoPh2DQZ7xExw2') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 1,
   "gamesLost": 2,
   "gamesPlayed": 4,
@@ -17568,6 +17803,7 @@ exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandi
 
 exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'MDtDHsLGB8SWWucg8opW2FjGhl32') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/uF3LG7xXVUGmIAPdgAGx9w",
   "gamesDrawn": 2,
   "gamesLost": 2,
@@ -17581,6 +17817,7 @@ exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandi
 
 exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'tifq1nYPgaWhZgeDotAysWJDJ923') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/pp6hepGGKkqUdCSHRCxAcg",
   "gamesDrawn": 2,
   "gamesLost": 0,
@@ -17594,6 +17831,7 @@ exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandi
 
 exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'pNQQfFQ91Vd632aQBWclWu78FLa2') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/ib6YThSzHEiY4dytW8tJdQ",
   "gamesDrawn": 3,
   "gamesLost": 0,
@@ -17607,6 +17845,7 @@ exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandi
 
 exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', '2HCgRchKmFNdgZhw9ejXp2iZ4no1') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/1aLqNrcFPkShca628dBLNA",
   "gamesDrawn": 2,
   "gamesLost": 0,
@@ -17620,6 +17859,7 @@ exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandi
 
 exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', '6s7cRCNbXWaVsDrVzBpeMTEEGwk2') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/mECt3EMXvUqie-CPJwnNoA",
   "gamesDrawn": 1,
   "gamesLost": 3,
@@ -17633,6 +17873,7 @@ exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandi
 
 exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'uHU3tBXzj6cyYCYgy31hZ9lSv2b2') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/6QKZzRL1iUG8prPFqvA7-Q",
   "gamesDrawn": 1,
   "gamesLost": 2,
@@ -17646,6 +17887,7 @@ exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandi
 
 exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'k8AmCV40MAg7xeCFUbbdGMelXfc2') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/z2oO9IJkBU6jX7ZQ7Y1hFA",
   "gamesDrawn": 1,
   "gamesLost": 3,
@@ -17659,6 +17901,7 @@ exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandi
 
 exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'QQtBXdQu3her2mZRZDJqiPpqe1X2') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/CpF56jmoq0eaEOHr-cAfYw",
   "gamesDrawn": 2,
   "gamesLost": 2,
@@ -17672,6 +17915,7 @@ exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandi
 
 exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'cxpjZsxM4QSgH5pSwpWCrlRJY643') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 1,
   "gamesLost": 1,
   "gamesPlayed": 4,
@@ -17684,6 +17928,7 @@ exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandi
 
 exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'hEocy0ou1rhM6hyyYlotMGXUoBk1') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 1,
   "gamesLost": 2,
   "gamesPlayed": 3,
@@ -17696,6 +17941,7 @@ exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandi
 
 exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', '3hZNILQujrcgOLSiCigiW1zkWyI2') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 1,
   "gamesLost": 2,
   "gamesPlayed": 4,
@@ -17708,6 +17954,7 @@ exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandi
 
 exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'KRhbXZtyq9RJxXzKmAY2uk1JJcb2') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/EvO1LoSwW0ycHtOm-ttyRQ",
   "gamesDrawn": 1,
   "gamesLost": 3,
@@ -17721,6 +17968,7 @@ exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandi
 
 exports[`topdeck-api tournaments tournament('Prds4TtudmDUYQGy5glf') playerStandings('Prds4TtudmDUYQGy5glf', 'ETE9gtPlD9OuDxOswfCHW78YQSW2') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "decklist": "https://www.moxfield.com/decks/x7p4uQ__gUqMQL2JdfiErQ",
   "gamesDrawn": 2,
   "gamesLost": 2,
@@ -18666,97 +18914,105 @@ exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') latestRound(
 
 exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', 'd2w4cNZJHyl9JCuRvkkj') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 3,
   "gamesPlayed": 3,
   "gamesWon": 0,
   "name": "Pedro Domínguez Ortega ",
   "standing": 8,
-  "winRate": 0.0033333333333333335,
+  "winRate": -3.33,
 }
 `;
 
 exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', '8WjalUoWJYWCTLnHM1yB') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 3,
   "gamesPlayed": 3,
   "gamesWon": 0,
   "name": "Gonzalo Horacio Andrade Benavente",
   "standing": 5,
-  "winRate": 0.02,
+  "winRate": -3.3133333333333335,
 }
 `;
 
 exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', 'YiF95RhrS5ktTqgxPH61') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 3,
   "gamesPlayed": 3,
   "gamesWon": 0,
   "name": "Waldo Hernán Chacón Cañas",
   "standing": 2,
-  "winRate": 0.03333333333333333,
+  "winRate": -3.3,
 }
 `;
 
 exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', 'XDlJPGsPzcm1Vo17clF7') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 3,
   "gamesPlayed": 3,
   "gamesWon": 0,
   "name": "Eduardo Andrés Hidalgo Cornejo",
   "standing": 3,
-  "winRate": 0.03,
+  "winRate": -3.3033333333333332,
 }
 `;
 
 exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', 'PxOOJhN7bHOWAW7Arczc') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 3,
   "gamesPlayed": 3,
   "gamesWon": 0,
   "name": "Sebastián Andrés Leiva Muñoz ",
   "standing": 7,
-  "winRate": 0.01,
+  "winRate": -3.3233333333333333,
 }
 `;
 
 exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', 'sD4psyy1Yn9eulrPUMNW') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 3,
   "gamesPlayed": 3,
   "gamesWon": 0,
   "name": "Fede Flessatti",
   "standing": 4,
-  "winRate": 0.023333333333333334,
+  "winRate": -3.31,
 }
 `;
 
 exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', 'dfkAUc72tP0M2uaD2415') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 3,
   "gamesPlayed": 3,
   "gamesWon": 0,
   "name": "Pato Munardez",
   "standing": 6,
-  "winRate": 0.02,
+  "winRate": -3.3133333333333335,
 }
 `;
 
 exports[`topdeck-api tournaments tournament('SHvK2nViBz7hAcxIWLYS') playerStandings('SHvK2nViBz7hAcxIWLYS', 'd2zFPunY39FZMpSMeU3g') should return player standing of tournaments 1`] = `
 {
+  "byes": 0,
   "gamesDrawn": 0,
   "gamesLost": 3,
   "gamesPlayed": 3,
   "gamesWon": 0,
   "name": "Cristhian Parada Martínez ",
   "standing": 1,
-  "winRate": 0.04,
+  "winRate": -3.2933333333333334,
 }
 `;
 

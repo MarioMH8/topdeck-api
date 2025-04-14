@@ -4,17 +4,17 @@ import { RoundTablePlayerArraySchema } from '../round-table-player';
 
 const RoundTableSchema = z
 	.object({
-		players: RoundTablePlayerArraySchema.optional(),
+		players: RoundTablePlayerArraySchema.nullish(),
 		status: z.coerce.string(),
 		table: z.union([z.coerce.number(), z.coerce.string()]),
 		winner: z.coerce
 			.string()
 			.transform(value => (value === 'undefined' || value === 'null' ? undefined : value))
-			.optional(),
+			.nullish(),
 		winner_id: z.coerce
 			.string()
 			.transform(value => (value === 'undefined' || value === 'null' ? undefined : value))
-			.optional(),
+			.nullish(),
 	})
 	.strict()
 	.transform(value => {
