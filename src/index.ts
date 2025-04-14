@@ -1,2 +1,2 @@
 export { default } from './api';
-export type * from './schema';
+export * from './schema';

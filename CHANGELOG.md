@@ -1,5 +1,11 @@
 # topdeck-api
 
+## 0.1.1
+
+### Patch Changes
+
+- Export schemas
+
 ## 0.1.0
 
 ### Minor Changes
