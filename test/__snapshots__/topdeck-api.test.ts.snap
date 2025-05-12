@@ -5539,7 +5539,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/UcVx1nGh1kWee49-HsawFg",
                 "id": "A5FxQt2H5hadFBy7LLiZza9ULGq2",
-                "name": "Matthew phan",
+                "name": "Matthew Phan",
               },
             ],
             "status": "Completed",
@@ -5696,7 +5696,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/UcVx1nGh1kWee49-HsawFg",
                 "id": "A5FxQt2H5hadFBy7LLiZza9ULGq2",
-                "name": "Matthew phan",
+                "name": "Matthew Phan",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/BDrKoMKWyUSZpB4n-HH5zQ",
@@ -6640,7 +6640,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/DFc1qUPuq0OGmmmYHlbr3w",
                 "id": "En20BHG78MfcH2YWz1ef0lHnShn2",
-                "name": "Casey Nakamura",
+                "name": "Casey Nakamura ¯\\_(ツ)_/¯",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/BY8sDimaXkWuU-bYaskB1g",
@@ -6655,7 +6655,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
             ],
             "status": "Completed",
             "table": 4,
-            "winner": "Casey Nakamura",
+            "winner": "Casey Nakamura ¯\\_(ツ)_/¯",
             "winner_id": "En20BHG78MfcH2YWz1ef0lHnShn2",
           },
         ],
@@ -6678,7 +6678,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/DFc1qUPuq0OGmmmYHlbr3w",
                 "id": "En20BHG78MfcH2YWz1ef0lHnShn2",
-                "name": "Casey Nakamura",
+                "name": "Casey Nakamura ¯\\_(ツ)_/¯",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/5pNPLNzlWUWCyfty2CEn4g",
@@ -6688,7 +6688,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
             ],
             "status": "Completed",
             "table": 1,
-            "winner": "Casey Nakamura",
+            "winner": "Casey Nakamura ¯\\_(ツ)_/¯",
             "winner_id": "En20BHG78MfcH2YWz1ef0lHnShn2",
           },
           {
@@ -6785,7 +6785,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/DFc1qUPuq0OGmmmYHlbr3w",
                 "id": "En20BHG78MfcH2YWz1ef0lHnShn2",
-                "name": "Casey Nakamura",
+                "name": "Casey Nakamura ¯\\_(ツ)_/¯",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/1tAtuOqgk0y55tuoDE7NZQ",
@@ -6953,7 +6953,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/DFc1qUPuq0OGmmmYHlbr3w",
                 "id": "En20BHG78MfcH2YWz1ef0lHnShn2",
-                "name": "Casey Nakamura",
+                "name": "Casey Nakamura ¯\\_(ツ)_/¯",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/6iHJDApW2kSNOr7DydaZeQ",
@@ -7276,6 +7276,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
     ],
     "standings": [
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 1,
         "id": "wROBh4ndJwjG1u45T5BV",
         "losses": 1,
@@ -7290,6 +7293,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 1,
         "id": "lpbjHXuOstGSaClSbLwT",
         "losses": 2,
@@ -7304,6 +7310,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 1,
         "id": "Uu8MZzGafjs1z8dSI3OS",
         "losses": 2,
@@ -7318,6 +7327,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "mx7FBtM7BnidYCTSmqKB",
         "losses": 3,
@@ -7332,6 +7344,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "xyfM81RewbLmJYHFdhEr",
         "losses": 2,
@@ -7346,6 +7361,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 1,
         "id": "76DSovVO2mCEDFIh8PCs",
         "losses": 2,
@@ -7360,6 +7378,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "RakqFU3PtYwEWEJuX1zr",
         "losses": 3,
@@ -7374,6 +7395,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "UP4WMSdvzBFjfc4lUDGX",
         "losses": 3,
@@ -7543,6 +7567,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
     ],
     "standings": [
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "3XvA8WwgnTdbGxraDigmJ1N99CH3",
         "losses": 0,
@@ -7557,6 +7584,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 2,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "XJIMPXRqN9hTIscGtXBq0wCSA932",
         "losses": 1,
@@ -7571,6 +7601,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "DHAeKQNG2UQr97iBMGcRLb6Eu1O2",
         "losses": 1,
@@ -7585,6 +7618,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "fz14DLNsSncFWvtk59ZuDQ4RUGG2",
         "losses": 1,
@@ -7599,6 +7635,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "Kq3DLakMIsZQtwOcIF9EYB5qLaA3",
         "losses": 1,
@@ -7613,6 +7652,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "pQbvuKmNIfeCeiGryvSEi10ocqG3",
         "losses": 2,
@@ -7627,6 +7669,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "DtgFdVEQTSQLRxSBzpGFi0CBXun2",
         "losses": 2,
@@ -7641,6 +7686,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "vgX9ThPifATnZtwT3hje1KOXu1F2",
         "losses": 2,
@@ -7655,6 +7703,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "LNzdrD9JEvSmQqif7SOOSpjNOqh1",
         "losses": 2,
@@ -7925,6 +7976,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
     ],
     "standings": [
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "gzCdUQkaNXX3zq2mULLh",
         "losses": 2,
@@ -7939,6 +7993,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "Sj6GbquCR6X8m2QqL8vm",
         "losses": 1,
@@ -7953,6 +8010,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 3,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "OA9kzUc879TbqI7T8COV",
         "losses": 1,
@@ -7967,6 +8027,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 2,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "fwlsrFOSD6WCydAdYsCk",
         "losses": 3,
@@ -7981,6 +8044,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "fOzYQEDR2TexFD3nYOOs",
         "losses": 3,
@@ -7995,6 +8061,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "Wf5deUA0j17Eys3lsrz5",
         "losses": 2,
@@ -8009,6 +8078,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "Lyx25XJGCraJW7VThJxs",
         "losses": 3,
@@ -8023,6 +8095,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "y6cerZpLJUq8L10JS1Ps",
         "losses": 3,
@@ -8037,6 +8112,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "BBTn3LeuBvAXencgv9cY",
         "losses": 3,
@@ -8051,6 +8129,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "8sNIhXMax1kTsRDP5JhH",
         "losses": 3,
@@ -8065,6 +8146,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "WPm0Rq0qkhR2zWPdm11z",
         "losses": 3,
@@ -8363,7 +8447,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
     "standings": [
       {
         "commanders": [
-          "Queza, Augur of Agonies",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/9xsvnNfKnkKcWPKj6yYZWg",
         "draws": 0,
@@ -8381,7 +8465,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Aminatou, the Fateshifter",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/vBTygbGTPEylUDCGbdstJA",
         "draws": 0,
@@ -8399,7 +8483,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Muldrotha, the Gravetide",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/VnmJ9t2Qo0Wq3OmIuKVYSw",
         "draws": 0,
@@ -8417,7 +8501,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Anikthea, Hand of Erebos",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/JM-_534B3UmDbTvo5URanQ",
         "draws": 0,
@@ -8435,7 +8519,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Roon of the Hidden Realm",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/uQWmqXJpVUWQupVvZCmjZQ",
         "draws": 0,
@@ -8453,7 +8537,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Kykar, Wind's Fury",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/FOrhVEEsg0GEsAhn5mb6zw",
         "draws": 0,
@@ -8471,7 +8555,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Pramikon, Sky Rampart",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/-W79K_IW2UONsZ8i3-2Sfg",
         "draws": 0,
@@ -8489,7 +8573,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Kylox, Visionary Inventor",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/kqsdk9bMsUWA50i-JxsY2Q",
         "draws": 0,
@@ -8507,7 +8591,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Malik, Grim Manipulator",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/hAYjP9Yx5UONngvxA9cKGQ",
         "draws": 0,
@@ -8524,6 +8608,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "decklist": "https://www.moxfield.com/decks/KoMtNtsSd0yPLisv3OI7Tg",
         "draws": 0,
         "id": "2Qm4lpTl900j7doW43vc",
@@ -8540,7 +8627,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Atla Palani, Nest Tender",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/RP7FoOw3zkakrMumaAeKMw",
         "draws": 0,
@@ -8558,7 +8645,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Illuna, Apex of Wishes",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/KhfndN1KBkeryStOowJlkA",
         "draws": 0,
@@ -9153,8 +9240,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
     "standings": [
       {
         "commanders": [
-          "Tymna the Weaver",
-          "Kodama of the East Tree",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/KijyOoYJj02G7TsJ6fLRyQ",
         "draws": 2,
@@ -9172,7 +9258,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Sisay, Weatherlight Captain",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/1aLqNrcFPkShca628dBLNA",
         "draws": 2,
@@ -9190,8 +9276,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Rograkh, Son of Rohgahh",
-          "Silas Renn, Seeker Adept",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/pp6hepGGKkqUdCSHRCxAcg",
         "draws": 2,
@@ -9208,6 +9293,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 2,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 1,
         "id": "cxpjZsxM4QSgH5pSwpWCrlRJY643",
         "losses": 2,
@@ -9223,7 +9311,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Tivit, Seller of Secrets",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/ib6YThSzHEiY4dytW8tJdQ",
         "draws": 3,
@@ -9240,6 +9328,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 1,
         "id": "3hZNILQujrcgOLSiCigiW1zkWyI2",
         "losses": 2,
@@ -9254,6 +9345,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 1,
         "id": "rDBXZDHX2xgRQikoPh2DQZ7xExw2",
         "losses": 2,
@@ -9269,7 +9363,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "The Master of Keys",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/6QKZzRL1iUG8prPFqvA7-Q",
         "draws": 1,
@@ -9287,8 +9381,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Tymna the Weaver",
-          "Kraum, Ludevic's Opus",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/o03m8fP_FkGVdT2ECNVR-g",
         "draws": 0,
@@ -9306,8 +9399,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Tymna the Weaver",
-          "Kraum, Ludevic's Opus",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/UfNV_j1FqEuNVsK_70SeGA",
         "draws": 0,
@@ -9325,8 +9417,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Tymna the Weaver",
-          "Kraum, Ludevic's Opus",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/CpF56jmoq0eaEOHr-cAfYw",
         "draws": 2,
@@ -9344,7 +9435,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Tivit, Seller of Secrets",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/uF3LG7xXVUGmIAPdgAGx9w",
         "draws": 2,
@@ -9362,7 +9453,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Sisay, Weatherlight Captain",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/x7p4uQ__gUqMQL2JdfiErQ",
         "draws": 2,
@@ -9380,7 +9471,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Stella Lee, Wild Card",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/z2oO9IJkBU6jX7ZQ7Y1hFA",
         "draws": 1,
@@ -9398,8 +9489,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Rograkh, Son of Rohgahh",
-          "Silas Renn, Seeker Adept",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/mECt3EMXvUqie-CPJwnNoA",
         "draws": 1,
@@ -9416,6 +9506,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 1,
         "id": "hEocy0ou1rhM6hyyYlotMGXUoBk1",
         "losses": 2,
@@ -9431,7 +9524,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Rielle, the Everwise",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/QhmCasMsVUGX03tybFXoSg",
         "draws": 1,
@@ -9449,7 +9542,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Dionus, Elvish Archdruid",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/EvO1LoSwW0ycHtOm-ttyRQ",
         "draws": 1,
@@ -9631,6 +9724,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
     ],
     "standings": [
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "d2zFPunY39FZMpSMeU3g",
         "losses": 3,
@@ -9645,6 +9741,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "YiF95RhrS5ktTqgxPH61",
         "losses": 3,
@@ -9659,6 +9758,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "XDlJPGsPzcm1Vo17clF7",
         "losses": 3,
@@ -9673,6 +9775,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "sD4psyy1Yn9eulrPUMNW",
         "losses": 3,
@@ -9687,6 +9792,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "8WjalUoWJYWCTLnHM1yB",
         "losses": 3,
@@ -9701,6 +9809,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "dfkAUc72tP0M2uaD2415",
         "losses": 3,
@@ -9715,6 +9826,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "PxOOJhN7bHOWAW7Arczc",
         "losses": 3,
@@ -9729,6 +9843,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "d2w4cNZJHyl9JCuRvkkj",
         "losses": 3,
@@ -10707,7 +10824,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
     "standings": [
       {
         "commanders": [
-          "Ob Nixilis, Captive Kingpin",
+          "No longer supported",
         ],
         "decklist": " https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
         "draws": 2,
@@ -10725,8 +10842,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Tymna the Weaver",
-          "Kraum, Ludevic's Opus",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/4a-iwKB3t02epwoKs3mOOg",
         "draws": 1,
@@ -10744,7 +10860,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Teshar, Ancestor's Apostle",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/6VpIYUAxnU6H43eBrXGcBQ",
         "draws": 1,
@@ -10762,7 +10878,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Sisay, Weatherlight Captain",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/ZBbUITRu00-VQP0ESRMoFg",
         "draws": 1,
@@ -10780,7 +10896,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Heliod, the Radiant Dawn // Heliod, the Warped Eclipse",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/uJYfgzd96UC5oW5NBJVnYw",
         "draws": 2,
@@ -10798,7 +10914,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Archelos, Lagoon Mystic",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/VebzJWRg0USLDS9h0AGwaQ",
         "draws": 3,
@@ -10815,6 +10931,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 3,
         "id": "I9pHcGdYwWVYTpmuR8V1pfSLoO02",
         "losses": 2,
@@ -10830,8 +10949,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Tymna the Weaver",
-          "Kraum, Ludevic's Opus",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/U-ULX4qir0aTBdHXvCcI4g",
         "draws": 3,
@@ -10849,7 +10967,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Sisay, Weatherlight Captain",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/erwx1pe--E-pVH_r6ie7lw",
         "draws": 3,
@@ -10867,8 +10985,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Tymna the Weaver",
-          "Kraum, Ludevic's Opus",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/-a-gcbQ2c0WlgySoc1mqlA",
         "draws": 2,
@@ -10886,7 +11003,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Glarb, Calamity's Augur",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/ZoFw16HshkW99NFymibLRw",
         "draws": 2,
@@ -10904,7 +11021,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/j0m2J3zMIkub5opITEnI1g",
         "draws": 2,
@@ -10922,8 +11039,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Malcolm, Keen-Eyed Navigator",
-          "Tymna the Weaver",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/HMpkoYRwAEOKYT5ETLVgJw",
         "draws": 2,
@@ -10941,7 +11057,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Tatyova, Benthic Druid",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/MdXYhg9KaUWqnSHAUyGfOg",
         "draws": 1,
@@ -10959,7 +11075,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Atraxa, Grand Unifier",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/ttPOzGOockuGeRqKB6-g8g",
         "draws": 1,
@@ -10976,6 +11092,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 1,
         "id": "NqpXfrJjIkNVhmvV4HHzzRhVbUJ2",
         "losses": 3,
@@ -10990,6 +11109,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "decklist": "https://www.moxfield.com/decks/v1vdnOG9G021_eRKynVQYQ",
         "draws": 1,
         "id": "dQ1EcYlXSRPdX0w48llDyKaLeKy2",
@@ -11006,8 +11128,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Thrasios, Triton Hero",
-          "Vial Smasher the Fierce",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/rcMOVUGMRUiJhtz1zSXR2A",
         "draws": 1,
@@ -11024,6 +11145,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "decklist": "https://www.moxfield.com/decks/tzXdCrbmo0OO1FfsnTftjw",
         "draws": 0,
         "id": "sVv7RfaOl4ZBG8uxX1s7i0nmiT52",
@@ -11040,7 +11164,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "The Gitrog Monster",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/7yVyVJLd2EO_Y9fF0bBImQ",
         "draws": 0,
@@ -11058,7 +11182,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Urza, Lord High Artificer",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/mT6HhXVOKE256WEHFgq1CA",
         "draws": 3,
@@ -11076,7 +11200,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "The Master of Keys",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/tDGCYWjQFU-p9flZNO-03g",
         "draws": 3,
@@ -11093,6 +11217,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 2,
         "id": "hQF62oQoBCbhpPAeV8t8Tk7DiUd2",
         "losses": 3,
@@ -11107,6 +11234,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 2,
         "id": "e47vCYMabMLsqyJDKcxQ",
         "losses": 3,
@@ -11122,7 +11252,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Stella Lee, Wild Card",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/Nj675J5XtE-kODAKqZS-sQ",
         "draws": 1,
@@ -11140,7 +11270,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Kenrith, the Returned King",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/gNRiXNMByEqa6sIuLrTtOQ",
         "draws": 1,
@@ -11359,6 +11489,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
     ],
     "standings": [
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 3,
         "id": "3thcC6v0IZhk0GNfHblc",
         "losses": 0,
@@ -11373,6 +11506,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 1,
         "id": "cyPy0wG8QrRFc41jAm1z",
         "losses": 2,
@@ -11387,6 +11523,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 1,
         "id": "UwAoR6RzWLswh7WXANmX",
         "losses": 2,
@@ -11401,6 +11540,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "ESXNE9XcDPRgr3lI6dNv",
         "losses": 3,
@@ -11415,6 +11557,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 2,
         "id": "aU43xQsixWO3rTGTMCim",
         "losses": 1,
@@ -11429,6 +11574,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 2,
         "id": "ZyPNP8FhpY0MICmlZsq7",
         "losses": 1,
@@ -11443,6 +11591,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 2,
         "id": "ApIEkgoLhmK1I3WuodJJ",
         "losses": 1,
@@ -11457,6 +11608,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 1,
         "id": "G8C9ZT3gr0YD7ISuQVWt",
         "losses": 2,
@@ -11872,7 +12026,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
     "standings": [
       {
         "commanders": [
-          "Elsha of the Infinite",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/HijpODkbukylqlsqedyueg",
         "draws": 0,
@@ -11890,7 +12044,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Sisay, Weatherlight Captain",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/IABRI3IZgk2UjXFDfDxayw",
         "draws": 0,
@@ -11907,6 +12061,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 3,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 1,
         "id": "Cpk5UxD45Cg6mUaY9Nj7v9byoSn2",
         "losses": 2,
@@ -11922,7 +12079,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "The Master of Keys",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/E-TRpd9DgkmRHRaQ5HqYjw",
         "draws": 1,
@@ -11940,7 +12097,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Tayam, Luminous Enigma",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/Dmr167QlekWOa87_U2iXhg",
         "draws": 1,
@@ -11958,7 +12115,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Vohar, Vodalian Desecrator",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/u8BTQt8qyEikLMJKxHV68w",
         "draws": 0,
@@ -11976,8 +12133,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Rograkh, Son of Rohgahh",
-          "Tevesh Szat, Doom of Fools",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/nINbjmn5f0WOw5GA2IZbXQ",
         "draws": 0,
@@ -11995,8 +12151,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Francisco, Fowl Marauder",
-          "Thrasios, Triton Hero",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/p010jwTzf0itIQlyO9U-SA",
         "draws": 0,
@@ -12014,8 +12169,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Rograkh, Son of Rohgahh",
-          "Thrasios, Triton Hero",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/BNWjUa_lA0mzxNpgpHDGSA",
         "draws": 0,
@@ -12033,8 +12187,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Tymna the Weaver",
-          "Thrasios, Triton Hero",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/ka104_ZGlESbW_hLQ7zW9g",
         "draws": 0,
@@ -12052,8 +12205,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Ishai, Ojutai Dragonspeaker",
-          "Kediss, Emberclaw Familiar",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/mejg5-LZ6km0hYqZ6QPJrA",
         "draws": 0,
@@ -12071,8 +12223,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Malcolm, Keen-Eyed Navigator",
-          "Vial Smasher the Fierce",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/djJcTyZPnUOvj3sQuEwREA",
         "draws": 0,
@@ -12089,6 +12240,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "iYZMGw0HtCUqCm8k748PDvGGAQ02",
         "losses": 2,
@@ -12104,8 +12258,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Rograkh, Son of Rohgahh",
-          "Silas Renn, Seeker Adept",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/r_mDA1ecMUCI-rJWlb97wQ",
         "draws": 2,
@@ -12123,8 +12276,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Rograkh, Son of Rohgahh",
-          "Thrasios, Triton Hero",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/k0CAcYyfC0WkwEzA1j8E0w",
         "draws": 1,
@@ -12142,7 +12294,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Bladewing the Risen",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/Ug6nsaHr8EeZ-BTLU_FHWg",
         "draws": 1,
@@ -12160,8 +12312,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Thrasios, Triton Hero",
-          "Rograkh, Son of Rohgahh",
+          "No longer supported",
         ],
         "decklist": " https://www.moxfield.com/decks/sw-5ViHgHky7UFAhnczLEA",
         "draws": 1,
@@ -12178,6 +12329,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "dXBRrzYOcea9BHHKWe6jRJKxEkV2",
         "losses": 3,
@@ -12491,7 +12645,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
     "standings": [
       {
         "commanders": [
-          "Kenrith, the Returned King",
+          "No longer supported",
         ],
         "decklist": "https://moxfield.com/decks/pksDgywgKUK7AMrZsNAOLA",
         "draws": 0,
@@ -12509,7 +12663,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Marneus Calgar",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/scyF2Dh3vUGJXvmhVSzX3Q",
         "draws": 1,
@@ -12527,8 +12681,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Rograkh, Son of Rohgahh",
-          "Silas Renn, Seeker Adept",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/Uzk5-gAXRkepKjxRfwwcXg",
         "draws": 0,
@@ -12546,7 +12699,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Ezuri, Renegade Leader",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/hvoEviX8K0i76UgdXD1iEA",
         "draws": 0,
@@ -12564,7 +12717,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Rocco, Cabaretti Caterer",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/k82HYCNvLUO7OhX2N6UKjQ",
         "draws": 0,
@@ -12581,6 +12734,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 1,
         "id": "2cebY5iahqRpuDiSPF3OmHlS9552",
         "losses": 3,
@@ -12596,7 +12752,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Omnath, Locus of Creation",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/Ua-YDj_GPkCv5WTEIBoctw",
         "draws": 1,
@@ -12614,8 +12770,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Kraum, Ludevic's Opus",
-          "Tymna the Weaver",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/ZXUZJcK8T0i-IhtZa0xkGQ",
         "draws": 1,
@@ -12705,7 +12860,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/UcVx1nGh1kWee49-HsawFg",
                 "id": "A5FxQt2H5hadFBy7LLiZza9ULGq2",
-                "name": "Matthew phan",
+                "name": "Matthew Phan",
               },
             ],
             "status": "Completed",
@@ -12862,7 +13017,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/UcVx1nGh1kWee49-HsawFg",
                 "id": "A5FxQt2H5hadFBy7LLiZza9ULGq2",
-                "name": "Matthew phan",
+                "name": "Matthew Phan",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/BDrKoMKWyUSZpB4n-HH5zQ",
@@ -13039,8 +13194,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
     "standings": [
       {
         "commanders": [
-          "Tymna the Weaver",
-          "Thrasios, Triton Hero",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/zSzUQFN6VUSofi5S08W3aw",
         "draws": 0,
@@ -13057,6 +13211,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 3,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "lnqzkFaow4cEkjvQUOlxWJ3kFC83",
         "losses": 2,
@@ -13072,7 +13229,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Yawgmoth, Thran Physician",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/WFhRYHUItEO5zjuSLe19Zw",
         "draws": 0,
@@ -13090,7 +13247,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Emry, Lurker of the Loch",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/fVualKzMlUirC2TE1IJUcQ",
         "draws": 0,
@@ -13108,7 +13265,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Sliver Overlord",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/cFzmuIPZ9EywOfzD87xBzg",
         "draws": 0,
@@ -13126,8 +13283,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Krark, the Thumbless",
-          "Silas Renn, Seeker Adept",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/z_wYo3WHOEqYj3fBte84dw",
         "draws": 0,
@@ -13145,8 +13301,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Tymna the Weaver",
-          "Thrasios, Triton Hero",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/6OFElTdad0WR6S5ShR3DzA",
         "draws": 0,
@@ -13164,7 +13319,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Kinnan, Bonder Prodigy",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/qR2b2yho4Ue-Z0mLJWpucg",
         "draws": 0,
@@ -13182,8 +13337,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Malcolm, Keen-Eyed Navigator",
-          "Vial Smasher the Fierce",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/BDrKoMKWyUSZpB4n-HH5zQ",
         "draws": 0,
@@ -13201,7 +13355,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Najeela, the Blade-Blossom",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/UcVx1nGh1kWee49-HsawFg",
         "draws": 0,
@@ -13209,7 +13363,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "losses": 2,
         "lossesBracket": 0,
         "lossesSwiss": 2,
-        "name": "Matthew phan",
+        "name": "Matthew Phan",
         "winRate": 0,
         "winRateBracket": null,
         "winRateSwiss": 0,
@@ -13219,8 +13373,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Tymna the Weaver",
-          "Thrasios, Triton Hero",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/fdRuev-GaEmUtQWJFJwWFg",
         "draws": 0,
@@ -13238,7 +13391,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Slicer, Hired Muscle // Slicer, High-Speed Antagonist",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/j7lOUyAcKkK32A7NNMtQJg",
         "draws": 0,
@@ -13256,7 +13409,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Lavinia, Azorius Renegade",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/0qPAyrclU0Gg_16znlbv6w",
         "draws": 0,
@@ -13274,8 +13427,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Thrasios, Triton Hero",
-          "Rograkh, Son of Rohgahh",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/_ROJerUxMEStz3XqfImM2w",
         "draws": 0,
@@ -13293,8 +13445,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Krark, the Thumbless",
-          "Sakashima of a Thousand Faces",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/cyMhhD5XWUOzSNakPul3yA",
         "draws": 0,
@@ -13312,7 +13463,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Shorikai, Genesis Engine",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/27U7wbrLo0alq9II7gno6A",
         "draws": 0,
@@ -13330,7 +13481,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Ral, Monsoon Mage // Ral, Leyline Prodigy",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/bpcnlHLp5UeGlCsQtyWYyw",
         "draws": 0,
@@ -13534,6 +13685,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
     ],
     "standings": [
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "bEWqPZcZNU0oUhqYnFVk",
         "losses": 2,
@@ -13548,6 +13702,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "QJ9zBLNHssFYLwMTcy15",
         "losses": 2,
@@ -13562,6 +13719,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 2,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "rgGnH9SzHuu2gs8wOBL3",
         "losses": 2,
@@ -13576,6 +13736,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 2,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "LkXGsxlwUP2UiPfxl6hA",
         "losses": 3,
@@ -13590,6 +13753,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "e7kNlb9bYcmoyNVnYcQU",
         "losses": 3,
@@ -13604,6 +13770,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "bCN4q3DuuYpeuY3kpQbT",
         "losses": 3,
@@ -13618,6 +13787,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "SIM21MvxGNvRZdfcH4Xb",
         "losses": 3,
@@ -13903,6 +14075,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
     ],
     "standings": [
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 1,
         "id": "QgZ78H3hlK7ca2axMUIC",
         "losses": 1,
@@ -13917,6 +14092,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 1,
         "id": "eLzgE6yUBSyt4jJXQ9TT",
         "losses": 1,
@@ -13931,6 +14109,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 2,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "Qfeb4WSEzdEzJqYoCoZX",
         "losses": 3,
@@ -13945,6 +14126,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "wMuq4nIVwAvrSkisuxzY",
         "losses": 3,
@@ -13959,6 +14143,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "jNzJ12yBrcu4o2W48Raa",
         "losses": 2,
@@ -13973,6 +14160,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 3,
         "id": "iXA76GVHPEiIedm1HfPO",
         "losses": 0,
@@ -13987,6 +14177,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 2,
         "id": "NmGGXKYOykn9KBxYhA0j",
         "losses": 1,
@@ -14001,6 +14194,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 2,
         "id": "HxZcAuUBv4y1YSIzhWhS",
         "losses": 1,
@@ -14015,6 +14211,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 1,
         "id": "O96FqUluKdtnolK2gb2f",
         "losses": 2,
@@ -14029,6 +14228,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 1,
         "id": "KrOgw2FdDdY7dTkkGyYE",
         "losses": 2,
@@ -14043,6 +14245,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 1,
         "id": "SpU0U4ae4a7dLnFKlmWL",
         "losses": 2,
@@ -14057,6 +14262,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "draws": 0,
         "id": "YsfFMhVGyU5btgO1IxVZ",
         "losses": 3,
@@ -14185,7 +14393,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/DFc1qUPuq0OGmmmYHlbr3w",
                 "id": "En20BHG78MfcH2YWz1ef0lHnShn2",
-                "name": "Casey Nakamura",
+                "name": "Casey Nakamura ¯\\_(ツ)_/¯",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/BY8sDimaXkWuU-bYaskB1g",
@@ -14200,7 +14408,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
             ],
             "status": "Completed",
             "table": 4,
-            "winner": "Casey Nakamura",
+            "winner": "Casey Nakamura ¯\\_(ツ)_/¯",
             "winner_id": "En20BHG78MfcH2YWz1ef0lHnShn2",
           },
         ],
@@ -14223,7 +14431,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/DFc1qUPuq0OGmmmYHlbr3w",
                 "id": "En20BHG78MfcH2YWz1ef0lHnShn2",
-                "name": "Casey Nakamura",
+                "name": "Casey Nakamura ¯\\_(ツ)_/¯",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/5pNPLNzlWUWCyfty2CEn4g",
@@ -14233,7 +14441,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
             ],
             "status": "Completed",
             "table": 1,
-            "winner": "Casey Nakamura",
+            "winner": "Casey Nakamura ¯\\_(ツ)_/¯",
             "winner_id": "En20BHG78MfcH2YWz1ef0lHnShn2",
           },
           {
@@ -14330,7 +14538,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/DFc1qUPuq0OGmmmYHlbr3w",
                 "id": "En20BHG78MfcH2YWz1ef0lHnShn2",
-                "name": "Casey Nakamura",
+                "name": "Casey Nakamura ¯\\_(ツ)_/¯",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/1tAtuOqgk0y55tuoDE7NZQ",
@@ -14498,7 +14706,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/DFc1qUPuq0OGmmmYHlbr3w",
                 "id": "En20BHG78MfcH2YWz1ef0lHnShn2",
-                "name": "Casey Nakamura",
+                "name": "Casey Nakamura ¯\\_(ツ)_/¯",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/6iHJDApW2kSNOr7DydaZeQ",
@@ -14527,8 +14735,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
     "standings": [
       {
         "commanders": [
-          "Tymna the Weaver",
-          "Kraum, Ludevic's Opus",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/6iHJDApW2kSNOr7DydaZeQ",
         "draws": 0,
@@ -14546,7 +14753,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Yuriko, the Tiger's Shadow",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/DFc1qUPuq0OGmmmYHlbr3w",
         "draws": 0,
@@ -14554,7 +14761,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "losses": 2,
         "lossesBracket": 1,
         "lossesSwiss": 1,
-        "name": "Casey Nakamura",
+        "name": "Casey Nakamura ¯\\_(ツ)_/¯",
         "winRate": 0.5,
         "winRateBracket": 0,
         "winRateSwiss": 0.6666666666666666,
@@ -14564,7 +14771,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Najeela, the Blade-Blossom",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/1tAtuOqgk0y55tuoDE7NZQ",
         "draws": 1,
@@ -14581,6 +14788,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 1,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "decklist": "https://www.moxfield.com/decks/jNcQp2nnf0WPN1SvZIcCUg",
         "draws": 1,
         "id": "cbdKjwW2lMRNxtG0pfwgGB5zj3l2",
@@ -14597,8 +14807,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Thrasios, Triton Hero",
-          "Rograkh, Son of Rohgahh",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/SJ_FMSxTv0ySgdtkESLJhA",
         "draws": 0,
@@ -14616,8 +14825,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Kraum, Ludevic's Opus",
-          "Tymna the Weaver",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/5pNPLNzlWUWCyfty2CEn4g",
         "draws": 1,
@@ -14635,7 +14843,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Fblthp, the Lost",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/fJtoXZFPUEuZS0xU6Cr_iA",
         "draws": 1,
@@ -14653,7 +14861,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Chatterfang, Squirrel General",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/pxBGYM9eVk6NZXK4hpuaIw",
         "draws": 1,
@@ -14671,7 +14879,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Yuriko, the Tiger's Shadow",
+          "No longer supported",
         ],
         "decklist": " https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
         "draws": 0,
@@ -14689,7 +14897,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Yuriko, the Tiger's Shadow",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/__w1xtfFUEqk9TzgOwr9tQ",
         "draws": 1,
@@ -14707,8 +14915,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Thrasios, Triton Hero",
-          "Rograkh, Son of Rohgahh",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/BY8sDimaXkWuU-bYaskB1g",
         "draws": 1,
@@ -14726,7 +14933,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Godo, Bandit Warlord",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/oJz2hcSOWUGvVX9A39g_ng",
         "draws": 0,
@@ -14744,7 +14951,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Tayam, Luminous Enigma",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/xLEPeXCJ0UyZiIL1lH-TwQ",
         "draws": 1,
@@ -14761,6 +14968,9 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "winsSwiss": 0,
       },
       {
+        "commanders": [
+          "No longer supported",
+        ],
         "decklist": "https://www.moxfield.com/decks/3SuEL2fm_kSBtcz3U4-yIQ",
         "draws": 1,
         "id": "nOp0dABFPkX0Ch9bLHTDcBf1pX13",
@@ -14777,7 +14987,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "commanders": [
-          "Kinnan, Bonder Prodigy",
+          "No longer supported",
         ],
         "decklist": "https://www.moxfield.com/decks/Y2046gwSokOQ_8xBXYUuew",
         "draws": 3,
