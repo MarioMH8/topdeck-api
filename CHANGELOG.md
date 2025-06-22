@@ -1,5 +1,11 @@
 # topdeck-api
 
+## 0.1.3
+
+### Patch Changes
+
+- Add deckObj field
+
 ## 0.1.2
 
 ### Patch Changes
