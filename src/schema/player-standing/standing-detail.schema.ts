@@ -6,6 +6,7 @@ const PlayerStandingSchema = z
 	.object({
 		byes: z.coerce.number(),
 		decklist: DeckListSchema,
+		deckObj: z.unknown().nullish(),
 		discord: z.coerce.string().nullish(),
 		gamesDrawn: z.coerce.number(),
 		gamesLost: z.coerce.number(),

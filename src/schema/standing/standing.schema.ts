@@ -7,6 +7,7 @@ const StandingSchema = z
 	.object({
 		commanders: z.array(z.string()).nullish(),
 		decklist: DeckListSchema.nullish(),
+		deckObj: z.unknown().nullish(),
 		deckSnapshot: DeckSnapshotSchema.nullish(),
 		draws: z.coerce.number().nullish(),
 		id: z.coerce.string().nullish(),

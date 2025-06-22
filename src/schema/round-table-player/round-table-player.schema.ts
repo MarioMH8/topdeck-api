@@ -5,6 +5,7 @@ import { DeckListSchema } from '../deck-list';
 const RoundTablePlayerSchema = z
 	.object({
 		decklist: DeckListSchema,
+		deckObj: z.unknown().nullish(),
 		discord: z.coerce.string().nullish(),
 		id: z.coerce
 			.string()
