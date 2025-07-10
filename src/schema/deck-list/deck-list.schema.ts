@@ -5,7 +5,7 @@ const DeckListSchema = z.coerce.string().transform(value => {
 		return;
 	}
 
-	const parsed = z.coerce.string().url().safeParse(value).data;
+	const parsed = z.url().safeParse(value).data;
 	if (parsed === 'https://www.moxfield.com/decks/undefined') {
 		return;
 	}

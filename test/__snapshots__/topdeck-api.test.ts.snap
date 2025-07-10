@@ -559,7 +559,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments 1`
     "standings": [
       {
         "deckObj": null,
-        "decklist": " https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
+        "decklist": "https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
         "draws": 2,
         "losses": 1,
         "wins": 4,
@@ -934,7 +934,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments 1`
       },
       {
         "deckObj": null,
-        "decklist": " https://www.moxfield.com/decks/sw-5ViHgHky7UFAhnczLEA",
+        "decklist": "https://www.moxfield.com/decks/sw-5ViHgHky7UFAhnczLEA",
         "draws": 1,
         "losses": 2,
         "wins": 0,
@@ -1391,7 +1391,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments 1`
       },
       {
         "deckObj": null,
-        "decklist": " https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
+        "decklist": "https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
         "draws": 0,
         "losses": 4,
         "wins": 0,
@@ -3879,7 +3879,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
+                "decklist": "https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
                 "id": "xgoFcKyBmNMBHadFuS5eGzPiBGD2",
                 "name": "Michael Levine ",
               },
@@ -3953,7 +3953,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
+                "decklist": "https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
                 "id": "xgoFcKyBmNMBHadFuS5eGzPiBGD2",
                 "name": "Michael Levine ",
               },
@@ -4135,7 +4135,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
             "players": [
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
+                "decklist": "https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
                 "id": "xgoFcKyBmNMBHadFuS5eGzPiBGD2",
                 "name": "Michael Levine ",
               },
@@ -4340,7 +4340,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
+                "decklist": "https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
                 "id": "xgoFcKyBmNMBHadFuS5eGzPiBGD2",
                 "name": "Michael Levine ",
               },
@@ -4538,7 +4538,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
+                "decklist": "https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
                 "id": "xgoFcKyBmNMBHadFuS5eGzPiBGD2",
                 "name": "Michael Levine ",
               },
@@ -4714,7 +4714,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
             "players": [
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
+                "decklist": "https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
                 "id": "xgoFcKyBmNMBHadFuS5eGzPiBGD2",
                 "name": "Michael Levine ",
               },
@@ -4794,7 +4794,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
+                "decklist": "https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
                 "id": "xgoFcKyBmNMBHadFuS5eGzPiBGD2",
                 "name": "Michael Levine ",
               },
@@ -4816,7 +4816,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
     "standings": [
       {
         "deckObj": null,
-        "decklist": " https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
+        "decklist": "https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
         "draws": 2,
         "losses": 1,
         "wins": 4,
@@ -5411,7 +5411,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/sw-5ViHgHky7UFAhnczLEA",
+                "decklist": "https://www.moxfield.com/decks/sw-5ViHgHky7UFAhnczLEA",
                 "id": "nAelLkYd2eTlVFwNCdIcdBuknmD2",
                 "name": "Ben Brenner ",
               },
@@ -5536,7 +5536,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/sw-5ViHgHky7UFAhnczLEA",
+                "decklist": "https://www.moxfield.com/decks/sw-5ViHgHky7UFAhnczLEA",
                 "id": "nAelLkYd2eTlVFwNCdIcdBuknmD2",
                 "name": "Ben Brenner ",
               },
@@ -5660,7 +5660,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/sw-5ViHgHky7UFAhnczLEA",
+                "decklist": "https://www.moxfield.com/decks/sw-5ViHgHky7UFAhnczLEA",
                 "id": "nAelLkYd2eTlVFwNCdIcdBuknmD2",
                 "name": "Ben Brenner ",
               },
@@ -5834,7 +5834,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "deckObj": null,
-        "decklist": " https://www.moxfield.com/decks/sw-5ViHgHky7UFAhnczLEA",
+        "decklist": "https://www.moxfield.com/decks/sw-5ViHgHky7UFAhnczLEA",
         "draws": 1,
         "losses": 2,
         "wins": 0,
@@ -7559,7 +7559,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
+                "decklist": "https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
                 "id": "5TtU1bBdyEXhKRQzs4p4yw0Hj2A3",
                 "name": "Nelson Simbajon",
               },
@@ -7712,7 +7712,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
+                "decklist": "https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
                 "id": "5TtU1bBdyEXhKRQzs4p4yw0Hj2A3",
                 "name": "Nelson Simbajon",
               },
@@ -7763,7 +7763,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
             "players": [
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
+                "decklist": "https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
                 "id": "5TtU1bBdyEXhKRQzs4p4yw0Hj2A3",
                 "name": "Nelson Simbajon",
               },
@@ -7908,7 +7908,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
+                "decklist": "https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
                 "id": "5TtU1bBdyEXhKRQzs4p4yw0Hj2A3",
                 "name": "Nelson Simbajon",
               },
@@ -8017,7 +8017,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "deckObj": null,
-        "decklist": " https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
+        "decklist": "https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
         "draws": 0,
         "losses": 4,
         "wins": 0,
@@ -11099,7 +11099,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
+                "decklist": "https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
                 "id": "xgoFcKyBmNMBHadFuS5eGzPiBGD2",
                 "name": "Michael Levine ",
               },
@@ -11173,7 +11173,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
+                "decklist": "https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
                 "id": "xgoFcKyBmNMBHadFuS5eGzPiBGD2",
                 "name": "Michael Levine ",
               },
@@ -11355,7 +11355,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
             "players": [
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
+                "decklist": "https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
                 "id": "xgoFcKyBmNMBHadFuS5eGzPiBGD2",
                 "name": "Michael Levine ",
               },
@@ -11560,7 +11560,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
+                "decklist": "https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
                 "id": "xgoFcKyBmNMBHadFuS5eGzPiBGD2",
                 "name": "Michael Levine ",
               },
@@ -11758,7 +11758,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
+                "decklist": "https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
                 "id": "xgoFcKyBmNMBHadFuS5eGzPiBGD2",
                 "name": "Michael Levine ",
               },
@@ -11934,7 +11934,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
             "players": [
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
+                "decklist": "https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
                 "id": "xgoFcKyBmNMBHadFuS5eGzPiBGD2",
                 "name": "Michael Levine ",
               },
@@ -12014,7 +12014,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
+                "decklist": "https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
                 "id": "xgoFcKyBmNMBHadFuS5eGzPiBGD2",
                 "name": "Michael Levine ",
               },
@@ -12036,7 +12036,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
     "standings": [
       {
         "deckObj": null,
-        "decklist": " https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
+        "decklist": "https://www.moxfield.com/decks/9mk4L7FtdE6eM73vyX7jDg",
         "draws": 2,
         "id": "xgoFcKyBmNMBHadFuS5eGzPiBGD2",
         "losses": 1,
@@ -12937,7 +12937,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/sw-5ViHgHky7UFAhnczLEA",
+                "decklist": "https://www.moxfield.com/decks/sw-5ViHgHky7UFAhnczLEA",
                 "id": "nAelLkYd2eTlVFwNCdIcdBuknmD2",
                 "name": "Ben Brenner ",
               },
@@ -13062,7 +13062,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/sw-5ViHgHky7UFAhnczLEA",
+                "decklist": "https://www.moxfield.com/decks/sw-5ViHgHky7UFAhnczLEA",
                 "id": "nAelLkYd2eTlVFwNCdIcdBuknmD2",
                 "name": "Ben Brenner ",
               },
@@ -13186,7 +13186,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/sw-5ViHgHky7UFAhnczLEA",
+                "decklist": "https://www.moxfield.com/decks/sw-5ViHgHky7UFAhnczLEA",
                 "id": "nAelLkYd2eTlVFwNCdIcdBuknmD2",
                 "name": "Ben Brenner ",
               },
@@ -13504,7 +13504,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "deckObj": null,
-        "decklist": " https://www.moxfield.com/decks/sw-5ViHgHky7UFAhnczLEA",
+        "decklist": "https://www.moxfield.com/decks/sw-5ViHgHky7UFAhnczLEA",
         "draws": 1,
         "id": "nAelLkYd2eTlVFwNCdIcdBuknmD2",
         "losses": 2,
@@ -15643,7 +15643,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
+                "decklist": "https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
                 "id": "5TtU1bBdyEXhKRQzs4p4yw0Hj2A3",
                 "name": "Nelson Simbajon",
               },
@@ -15796,7 +15796,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
+                "decklist": "https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
                 "id": "5TtU1bBdyEXhKRQzs4p4yw0Hj2A3",
                 "name": "Nelson Simbajon",
               },
@@ -15847,7 +15847,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
             "players": [
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
+                "decklist": "https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
                 "id": "5TtU1bBdyEXhKRQzs4p4yw0Hj2A3",
                 "name": "Nelson Simbajon",
               },
@@ -15992,7 +15992,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "deckObj": null,
-                "decklist": " https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
+                "decklist": "https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
                 "id": "5TtU1bBdyEXhKRQzs4p4yw0Hj2A3",
                 "name": "Nelson Simbajon",
               },
@@ -16173,7 +16173,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
       },
       {
         "deckObj": null,
-        "decklist": " https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
+        "decklist": "https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
         "draws": 0,
         "id": "5TtU1bBdyEXhKRQzs4p4yw0Hj2A3",
         "losses": 4,
