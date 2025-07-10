@@ -1,5 +1,11 @@
 # topdeck-api
 
+## 1.0.0
+
+### Major Changes
+
+- 22e760b: fix(deps): update dependency zod to v4
+
 ## 0.1.3
 
 ### Patch Changes
