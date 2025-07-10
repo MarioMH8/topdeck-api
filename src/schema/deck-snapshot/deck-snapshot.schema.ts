@@ -2,8 +2,8 @@ import { z } from 'zod';
 
 const DeckSnapshotSchema = z
 	.object({
-		mainboard: z.record(z.number()).nullish(),
-		sideboard: z.record(z.number()).nullish(),
+		mainboard: z.record(z.number(), z.string()).nullish(),
+		sideboard: z.record(z.number(), z.string()).nullish(),
 	})
 	.strict()
 	.transform(value => {

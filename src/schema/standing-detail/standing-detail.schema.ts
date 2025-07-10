@@ -4,7 +4,7 @@ import { DeckListSchema } from '../deck-list';
 
 const StandingDetailSchema = z
 	.object({
-		decklist: DeckListSchema,
+		decklist: DeckListSchema.nullish(),
 		deckObj: z.unknown().nullish(),
 		discord: z.coerce.string().nullish(),
 		id: z.coerce.string().nullish(),

@@ -5,7 +5,7 @@ import { DeckListSchema } from '../deck-list';
 const PlayerStandingSchema = z
 	.object({
 		byes: z.coerce.number(),
-		decklist: DeckListSchema,
+		decklist: DeckListSchema.nullish(),
 		deckObj: z.unknown().nullish(),
 		discord: z.coerce.string().nullish(),
 		gamesDrawn: z.coerce.number(),
