@@ -1796,7 +1796,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "deckObj": null,
                 "id": "LNzdrD9JEvSmQqif7SOOSpjNOqh1",
-                "name": "Hannah James ",
+                "name": "Hannah James",
               },
               {
                 "deckObj": null,
@@ -1875,7 +1875,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "deckObj": null,
                 "id": "LNzdrD9JEvSmQqif7SOOSpjNOqh1",
-                "name": "Hannah James ",
+                "name": "Hannah James",
               },
               {
                 "deckObj": null,
@@ -5395,7 +5395,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "deckObj": null,
                 "id": "Cpk5UxD45Cg6mUaY9Nj7v9byoSn2",
-                "name": "Dan Tiesi",
+                "name": "Danny Legend",
               },
               {
                 "deckObj": null,
@@ -5407,7 +5407,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
                 "deckObj": null,
                 "decklist": "https://www.moxfield.com/decks/k0CAcYyfC0WkwEzA1j8E0w",
                 "id": "ZNejqEeEllZqMK0NdEtcIAs3PFt2",
-                "name": "Noam D Opitz",
+                "name": "Noam Opitz",
               },
               {
                 "deckObj": null,
@@ -5463,7 +5463,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "deckObj": null,
                 "id": "Cpk5UxD45Cg6mUaY9Nj7v9byoSn2",
-                "name": "Dan Tiesi",
+                "name": "Danny Legend",
               },
               {
                 "deckObj": null,
@@ -5495,7 +5495,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
                 "deckObj": null,
                 "decklist": "https://www.moxfield.com/decks/k0CAcYyfC0WkwEzA1j8E0w",
                 "id": "ZNejqEeEllZqMK0NdEtcIAs3PFt2",
-                "name": "Noam D Opitz",
+                "name": "Noam Opitz",
               },
               {
                 "deckObj": null,
@@ -5580,7 +5580,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
                 "deckObj": null,
                 "decklist": "https://www.moxfield.com/decks/k0CAcYyfC0WkwEzA1j8E0w",
                 "id": "ZNejqEeEllZqMK0NdEtcIAs3PFt2",
-                "name": "Noam D Opitz",
+                "name": "Noam Opitz",
               },
             ],
             "status": "Completed",
@@ -5611,12 +5611,12 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "deckObj": null,
                 "id": "Cpk5UxD45Cg6mUaY9Nj7v9byoSn2",
-                "name": "Dan Tiesi",
+                "name": "Danny Legend",
               },
             ],
             "status": "Completed",
             "table": 2,
-            "winner": "Dan Tiesi",
+            "winner": "Danny Legend",
             "winner_id": "Cpk5UxD45Cg6mUaY9Nj7v9byoSn2",
           },
           {
@@ -5704,7 +5704,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "deckObj": null,
                 "id": "Cpk5UxD45Cg6mUaY9Nj7v9byoSn2",
-                "name": "Dan Tiesi",
+                "name": "Danny Legend",
               },
               {
                 "deckObj": null,
@@ -6316,7 +6316,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
                 "deckObj": null,
                 "decklist": "https://www.moxfield.com/decks/UcVx1nGh1kWee49-HsawFg",
                 "id": "A5FxQt2H5hadFBy7LLiZza9ULGq2",
-                "name": "Matthew Phan",
+                "name": "Phan, M. ",
               },
             ],
             "status": "Completed",
@@ -6494,7 +6494,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
                 "deckObj": null,
                 "decklist": "https://www.moxfield.com/decks/UcVx1nGh1kWee49-HsawFg",
                 "id": "A5FxQt2H5hadFBy7LLiZza9ULGq2",
-                "name": "Matthew Phan",
+                "name": "Phan, M. ",
               },
               {
                 "deckObj": null,
@@ -8494,7 +8494,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "deckObj": null,
                 "id": "LNzdrD9JEvSmQqif7SOOSpjNOqh1",
-                "name": "Hannah James ",
+                "name": "Hannah James",
               },
               {
                 "deckObj": null,
@@ -8573,7 +8573,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "deckObj": null,
                 "id": "LNzdrD9JEvSmQqif7SOOSpjNOqh1",
-                "name": "Hannah James ",
+                "name": "Hannah James",
               },
               {
                 "deckObj": null,
@@ -8717,7 +8717,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "losses": 2,
         "lossesBracket": 0,
         "lossesSwiss": 2,
-        "name": "Hannah James ",
+        "name": "Hannah James",
         "winRate": 0,
         "winRateBracket": null,
         "winRateSwiss": 0,
@@ -12921,7 +12921,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "deckObj": null,
                 "id": "Cpk5UxD45Cg6mUaY9Nj7v9byoSn2",
-                "name": "Dan Tiesi",
+                "name": "Danny Legend",
               },
               {
                 "deckObj": null,
@@ -12933,7 +12933,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
                 "deckObj": null,
                 "decklist": "https://www.moxfield.com/decks/k0CAcYyfC0WkwEzA1j8E0w",
                 "id": "ZNejqEeEllZqMK0NdEtcIAs3PFt2",
-                "name": "Noam D Opitz",
+                "name": "Noam Opitz",
               },
               {
                 "deckObj": null,
@@ -12989,7 +12989,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "deckObj": null,
                 "id": "Cpk5UxD45Cg6mUaY9Nj7v9byoSn2",
-                "name": "Dan Tiesi",
+                "name": "Danny Legend",
               },
               {
                 "deckObj": null,
@@ -13021,7 +13021,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
                 "deckObj": null,
                 "decklist": "https://www.moxfield.com/decks/k0CAcYyfC0WkwEzA1j8E0w",
                 "id": "ZNejqEeEllZqMK0NdEtcIAs3PFt2",
-                "name": "Noam D Opitz",
+                "name": "Noam Opitz",
               },
               {
                 "deckObj": null,
@@ -13106,7 +13106,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
                 "deckObj": null,
                 "decklist": "https://www.moxfield.com/decks/k0CAcYyfC0WkwEzA1j8E0w",
                 "id": "ZNejqEeEllZqMK0NdEtcIAs3PFt2",
-                "name": "Noam D Opitz",
+                "name": "Noam Opitz",
               },
             ],
             "status": "Completed",
@@ -13137,12 +13137,12 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "deckObj": null,
                 "id": "Cpk5UxD45Cg6mUaY9Nj7v9byoSn2",
-                "name": "Dan Tiesi",
+                "name": "Danny Legend",
               },
             ],
             "status": "Completed",
             "table": 2,
-            "winner": "Dan Tiesi",
+            "winner": "Danny Legend",
             "winner_id": "Cpk5UxD45Cg6mUaY9Nj7v9byoSn2",
           },
           {
@@ -13230,7 +13230,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "deckObj": null,
                 "id": "Cpk5UxD45Cg6mUaY9Nj7v9byoSn2",
-                "name": "Dan Tiesi",
+                "name": "Danny Legend",
               },
               {
                 "deckObj": null,
@@ -13287,7 +13287,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "losses": 2,
         "lossesBracket": 1,
         "lossesSwiss": 1,
-        "name": "Dan Tiesi",
+        "name": "Danny Legend",
         "winRate": 0.25,
         "winRateBracket": 0,
         "winRateSwiss": 0.3333333333333333,
@@ -13478,7 +13478,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "losses": 2,
         "lossesBracket": 0,
         "lossesSwiss": 2,
-        "name": "Noam D Opitz",
+        "name": "Noam Opitz",
         "winRate": 0,
         "winRateBracket": null,
         "winRateSwiss": 0,
@@ -14076,7 +14076,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
                 "deckObj": null,
                 "decklist": "https://www.moxfield.com/decks/UcVx1nGh1kWee49-HsawFg",
                 "id": "A5FxQt2H5hadFBy7LLiZza9ULGq2",
-                "name": "Matthew Phan",
+                "name": "Phan, M. ",
               },
             ],
             "status": "Completed",
@@ -14254,7 +14254,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
                 "deckObj": null,
                 "decklist": "https://www.moxfield.com/decks/UcVx1nGh1kWee49-HsawFg",
                 "id": "A5FxQt2H5hadFBy7LLiZza9ULGq2",
-                "name": "Matthew Phan",
+                "name": "Phan, M. ",
               },
               {
                 "deckObj": null,
@@ -14603,7 +14603,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "losses": 2,
         "lossesBracket": 0,
         "lossesSwiss": 2,
-        "name": "Matthew Phan",
+        "name": "Phan, M. ",
         "winRate": 0,
         "winRateBracket": null,
         "winRateSwiss": 0,
