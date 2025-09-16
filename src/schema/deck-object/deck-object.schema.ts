@@ -1,5 +1,15 @@
 import { z } from 'zod';
 
+import { DeckListSchema } from '../deck-list';
+import { FormatSchema } from '../format';
+import { GameSchema } from '../game';
+
+const DeckObjectMetadataSchema = z.object({
+	format: FormatSchema.nullish(),
+	game: GameSchema.nullish(),
+	importedFrom: DeckListSchema.nullish(),
+});
+
 const DeckObjectCardSchema = z.object({
 	count: z.number().min(1),
 	id: z.uuidv4(),
@@ -11,6 +21,7 @@ const DeckObjectSchema = z
 	.object({
 		Commanders: DeckObjectSectionSchema.nullish(),
 		Mainboard: DeckObjectSectionSchema.nullish(),
+		metadata: DeckObjectMetadataSchema.nullish(),
 		Sideboard: DeckObjectSectionSchema.nullish(),
 	})
 	.strict()
@@ -37,10 +48,17 @@ const DeckObjectSchema = z
 				...rest,
 			};
 		}
+		if (!transformedValue.metadata || Object.keys(transformedValue.metadata).length === 0) {
+			const { metadata, ...rest } = transformedValue;
+
+			transformedValue = {
+				...rest,
+			};
+		}
 
 		return transformedValue;
 	});
 
-export { DeckObjectCardSchema, DeckObjectSectionSchema };
+export { DeckObjectCardSchema, DeckObjectMetadataSchema, DeckObjectSectionSchema };
 
 export default DeckObjectSchema;
