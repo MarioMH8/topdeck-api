@@ -1,5 +1,11 @@
 # topdeck-api
 
+## 1.0.3
+
+### Patch Changes
+
+- 828f5a1: Add Stickers section to DeckObject schema
+
 ## 1.0.2
 
 ### Patch Changes
