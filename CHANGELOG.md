@@ -1,5 +1,11 @@
 # topdeck-api
 
+## 1.0.2
+
+### Patch Changes
+
+- d0d943c: Add metadata schema to DeckObject
+
 ## 1.0.1
 
 ### Patch Changes
