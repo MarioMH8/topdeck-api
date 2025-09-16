@@ -1,11 +1,12 @@
 import { z } from 'zod';
 
 import { DeckListSchema } from '../deck-list';
+import { DeckObjectSchema } from '../deck-object';
 
 const RoundTablePlayerSchema = z
 	.object({
 		decklist: DeckListSchema.nullish(),
-		deckObj: z.unknown().nullish(),
+		deckObj: DeckObjectSchema.nullish(),
 		discord: z.coerce.string().nullish(),
 		id: z.coerce
 			.string()
@@ -16,6 +17,13 @@ const RoundTablePlayerSchema = z
 	.strict()
 	.transform(value => {
 		let transformedValue = value;
+		if (!transformedValue.deckObj || Object.keys(transformedValue.deckObj).length === 0) {
+			const { deckObj, ...rest } = transformedValue;
+
+			transformedValue = {
+				...rest,
+			};
+		}
 		if (!transformedValue.decklist) {
 			const { decklist, ...rest } = transformedValue;
 

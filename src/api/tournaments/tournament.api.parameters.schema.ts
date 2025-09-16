@@ -8,7 +8,6 @@ const OptionalSearchParametersSchema = z.object({
 			z.union([
 				z.literal('name'),
 				z.literal('decklist'),
-				z.literal('deckSnapshot'),
 				z.literal('commanders'),
 				z.literal('wins'),
 				z.literal('winsSwiss'),

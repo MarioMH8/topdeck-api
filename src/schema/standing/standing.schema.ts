@@ -1,14 +1,13 @@
 import { z } from 'zod';
 
 import { DeckListSchema } from '../deck-list';
-import { DeckSnapshotSchema } from '../deck-snapshot';
+import { DeckObjectSchema } from '../deck-object';
 
 const StandingSchema = z
 	.object({
 		commanders: z.array(z.string()).nullish(),
 		decklist: DeckListSchema.nullish(),
-		deckObj: z.unknown().nullish(),
-		deckSnapshot: DeckSnapshotSchema.nullish(),
+		deckObj: DeckObjectSchema.nullish(),
 		draws: z.coerce.number().nullish(),
 		id: z.coerce.string().nullish(),
 		losses: z.coerce.number().nullish(),
@@ -25,8 +24,9 @@ const StandingSchema = z
 	.strict()
 	.transform(value => {
 		let transformedValue = value;
-		if (!transformedValue.deckSnapshot || Object.keys(transformedValue.deckSnapshot).length === 0) {
-			const { deckSnapshot, ...rest } = transformedValue;
+
+		if (!transformedValue.deckObj || Object.keys(transformedValue.deckObj).length === 0) {
+			const { deckObj, ...rest } = transformedValue;
 
 			transformedValue = {
 				...rest,
