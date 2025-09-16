@@ -1,5 +1,12 @@
 # topdeck-api
 
+## 1.0.1
+
+### Patch Changes
+
+- e851311: Fix decklist URL
+- bdd83b9: Refactor deckSnapshot to deckObject
+
 ## 1.0.0
 
 ### Major Changes
