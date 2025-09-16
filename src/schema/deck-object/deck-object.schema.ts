@@ -23,6 +23,7 @@ const DeckObjectSchema = z
 		Mainboard: DeckObjectSectionSchema.nullish(),
 		metadata: DeckObjectMetadataSchema.nullish(),
 		Sideboard: DeckObjectSectionSchema.nullish(),
+		Stickers: DeckObjectSectionSchema.nullish(),
 	})
 	.strict()
 	.transform(value => {
