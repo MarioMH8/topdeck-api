@@ -1,5 +1,11 @@
 # topdeck-api
 
+## 1.0.4
+
+### Patch Changes
+
+- 788b71b: Add opponentWinRate field to standing schema
+
 ## 1.0.3
 
 ### Patch Changes
