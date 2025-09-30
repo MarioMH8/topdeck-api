@@ -14,6 +14,7 @@ const StandingSchema = z
 		lossesBracket: z.coerce.number().nullish(),
 		lossesSwiss: z.coerce.number().nullish(),
 		name: z.coerce.string().nullish(),
+		opponentWinRate: z.coerce.number().nullish(),
 		winRate: z.coerce.number().nullish(),
 		winRateBracket: z.coerce.number().nullish(),
 		winRateSwiss: z.coerce.number().nullish(),

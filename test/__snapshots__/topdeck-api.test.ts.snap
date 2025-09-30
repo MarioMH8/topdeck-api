@@ -6617,12 +6617,12 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/6iHJDApW2kSNOr7DydaZeQ",
                 "id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
-                "name": "Lyndon Zhang",
+                "name": "Lyndon",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/jNcQp2nnf0WPN1SvZIcCUg",
                 "id": "cbdKjwW2lMRNxtG0pfwgGB5zj3l2",
-                "name": "Jaymie Inciong-Lewis",
+                "name": "★ᴍɪsᴀ-ᴍɪsᴀ★",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
@@ -6711,12 +6711,12 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/6iHJDApW2kSNOr7DydaZeQ",
                 "id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
-                "name": "Lyndon Zhang",
+                "name": "Lyndon",
               },
             ],
             "status": "Completed",
             "table": 2,
-            "winner": "Lyndon Zhang",
+            "winner": "Lyndon",
             "winner_id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
           },
           {
@@ -6729,7 +6729,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/jNcQp2nnf0WPN1SvZIcCUg",
                 "id": "cbdKjwW2lMRNxtG0pfwgGB5zj3l2",
-                "name": "Jaymie Inciong-Lewis",
+                "name": "★ᴍɪsᴀ-ᴍɪsᴀ★",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/fJtoXZFPUEuZS0xU6Cr_iA",
@@ -6780,7 +6780,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/6iHJDApW2kSNOr7DydaZeQ",
                 "id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
-                "name": "Lyndon Zhang",
+                "name": "Lyndon",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/DFc1qUPuq0OGmmmYHlbr3w",
@@ -6800,7 +6800,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
             ],
             "status": "Completed",
             "table": 1,
-            "winner": "Lyndon Zhang",
+            "winner": "Lyndon",
             "winner_id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
           },
           {
@@ -6874,12 +6874,12 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/jNcQp2nnf0WPN1SvZIcCUg",
                 "id": "cbdKjwW2lMRNxtG0pfwgGB5zj3l2",
-                "name": "Jaymie Inciong-Lewis",
+                "name": "★ᴍɪsᴀ-ᴍɪsᴀ★",
               },
             ],
             "status": "Completed",
             "table": 4,
-            "winner": "Jaymie Inciong-Lewis",
+            "winner": "★ᴍɪsᴀ-ᴍɪsᴀ★",
             "winner_id": "cbdKjwW2lMRNxtG0pfwgGB5zj3l2",
           },
         ],
@@ -6897,7 +6897,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/jNcQp2nnf0WPN1SvZIcCUg",
                 "id": "cbdKjwW2lMRNxtG0pfwgGB5zj3l2",
-                "name": "Jaymie Inciong-Lewis",
+                "name": "★ᴍɪsᴀ-ᴍɪsᴀ★",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/fJtoXZFPUEuZS0xU6Cr_iA",
@@ -6912,7 +6912,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
             ],
             "status": "Completed",
             "table": 1,
-            "winner": "Jaymie Inciong-Lewis",
+            "winner": "★ᴍɪsᴀ-ᴍɪsᴀ★",
             "winner_id": "cbdKjwW2lMRNxtG0pfwgGB5zj3l2",
           },
           {
@@ -6958,7 +6958,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/6iHJDApW2kSNOr7DydaZeQ",
                 "id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
-                "name": "Lyndon Zhang",
+                "name": "Lyndon",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/1tAtuOqgk0y55tuoDE7NZQ",
@@ -6968,12 +6968,12 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/jNcQp2nnf0WPN1SvZIcCUg",
                 "id": "cbdKjwW2lMRNxtG0pfwgGB5zj3l2",
-                "name": "Jaymie Inciong-Lewis",
+                "name": "★ᴍɪsᴀ-ᴍɪsᴀ★",
               },
             ],
             "status": "Completed",
             "table": 1,
-            "winner": "Lyndon Zhang",
+            "winner": "Lyndon",
             "winner_id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
           },
         ],
@@ -13884,12 +13884,12 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/6iHJDApW2kSNOr7DydaZeQ",
                 "id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
-                "name": "Lyndon Zhang",
+                "name": "Lyndon",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/jNcQp2nnf0WPN1SvZIcCUg",
                 "id": "cbdKjwW2lMRNxtG0pfwgGB5zj3l2",
-                "name": "Jaymie Inciong-Lewis",
+                "name": "★ᴍɪsᴀ-ᴍɪsᴀ★",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/nql-fE8XOE2TlVElMOOSMg",
@@ -13978,12 +13978,12 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/6iHJDApW2kSNOr7DydaZeQ",
                 "id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
-                "name": "Lyndon Zhang",
+                "name": "Lyndon",
               },
             ],
             "status": "Completed",
             "table": 2,
-            "winner": "Lyndon Zhang",
+            "winner": "Lyndon",
             "winner_id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
           },
           {
@@ -13996,7 +13996,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/jNcQp2nnf0WPN1SvZIcCUg",
                 "id": "cbdKjwW2lMRNxtG0pfwgGB5zj3l2",
-                "name": "Jaymie Inciong-Lewis",
+                "name": "★ᴍɪsᴀ-ᴍɪsᴀ★",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/fJtoXZFPUEuZS0xU6Cr_iA",
@@ -14047,7 +14047,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/6iHJDApW2kSNOr7DydaZeQ",
                 "id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
-                "name": "Lyndon Zhang",
+                "name": "Lyndon",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/DFc1qUPuq0OGmmmYHlbr3w",
@@ -14067,7 +14067,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
             ],
             "status": "Completed",
             "table": 1,
-            "winner": "Lyndon Zhang",
+            "winner": "Lyndon",
             "winner_id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
           },
           {
@@ -14141,12 +14141,12 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/jNcQp2nnf0WPN1SvZIcCUg",
                 "id": "cbdKjwW2lMRNxtG0pfwgGB5zj3l2",
-                "name": "Jaymie Inciong-Lewis",
+                "name": "★ᴍɪsᴀ-ᴍɪsᴀ★",
               },
             ],
             "status": "Completed",
             "table": 4,
-            "winner": "Jaymie Inciong-Lewis",
+            "winner": "★ᴍɪsᴀ-ᴍɪsᴀ★",
             "winner_id": "cbdKjwW2lMRNxtG0pfwgGB5zj3l2",
           },
         ],
@@ -14164,7 +14164,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/jNcQp2nnf0WPN1SvZIcCUg",
                 "id": "cbdKjwW2lMRNxtG0pfwgGB5zj3l2",
-                "name": "Jaymie Inciong-Lewis",
+                "name": "★ᴍɪsᴀ-ᴍɪsᴀ★",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/fJtoXZFPUEuZS0xU6Cr_iA",
@@ -14179,7 +14179,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
             ],
             "status": "Completed",
             "table": 1,
-            "winner": "Jaymie Inciong-Lewis",
+            "winner": "★ᴍɪsᴀ-ᴍɪsᴀ★",
             "winner_id": "cbdKjwW2lMRNxtG0pfwgGB5zj3l2",
           },
           {
@@ -14225,7 +14225,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/6iHJDApW2kSNOr7DydaZeQ",
                 "id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
-                "name": "Lyndon Zhang",
+                "name": "Lyndon",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/1tAtuOqgk0y55tuoDE7NZQ",
@@ -14235,12 +14235,12 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/jNcQp2nnf0WPN1SvZIcCUg",
                 "id": "cbdKjwW2lMRNxtG0pfwgGB5zj3l2",
-                "name": "Jaymie Inciong-Lewis",
+                "name": "★ᴍɪsᴀ-ᴍɪsᴀ★",
               },
             ],
             "status": "Completed",
             "table": 1,
-            "winner": "Lyndon Zhang",
+            "winner": "Lyndon",
             "winner_id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
           },
         ],
@@ -14254,7 +14254,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "losses": 1,
         "lossesBracket": 0,
         "lossesSwiss": 1,
-        "name": "Lyndon Zhang",
+        "name": "Lyndon",
         "winRate": 0.75,
         "winRateBracket": 1,
         "winRateSwiss": 0.6666666666666666,
@@ -14299,7 +14299,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "losses": 2,
         "lossesBracket": 1,
         "lossesSwiss": 1,
-        "name": "Jaymie Inciong-Lewis",
+        "name": "★ᴍɪsᴀ-ᴍɪsᴀ★",
         "winRate": 0.4,
         "winRateBracket": 0.5,
         "winRateSwiss": 0.3333333333333333,
