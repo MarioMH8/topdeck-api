@@ -1,5 +1,11 @@
 # topdeck-api
 
+## 1.0.5
+
+### Patch Changes
+
+- 7c1787b: Add byes field to tournament parameters schema
+
 ## 1.0.4
 
 ### Patch Changes
