@@ -5,6 +5,7 @@ import { DeckObjectSchema } from '../deck-object';
 
 const StandingSchema = z
 	.object({
+		byes: z.coerce.number().nullish(),
 		commanders: z.array(z.string()).nullish(),
 		decklist: DeckListSchema.nullish(),
 		deckObj: DeckObjectSchema.nullish(),
