@@ -1576,7 +1576,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
             "players": [
               {
                 "id": "LNzdrD9JEvSmQqif7SOOSpjNOqh1",
-                "name": "Hannah James",
+                "name": "Paige",
               },
               {
                 "id": "fz14DLNsSncFWvtk59ZuDQ4RUGG2",
@@ -1584,12 +1584,12 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "id": "DHAeKQNG2UQr97iBMGcRLb6Eu1O2",
-                "name": "William Foster-Dow",
+                "name": "Will F-D",
               },
             ],
             "status": "Completed",
             "table": 3,
-            "winner": "William Foster-Dow",
+            "winner": "Will F-D",
             "winner_id": "DHAeKQNG2UQr97iBMGcRLb6Eu1O2",
           },
         ],
@@ -1601,7 +1601,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
             "players": [
               {
                 "id": "DHAeKQNG2UQr97iBMGcRLb6Eu1O2",
-                "name": "William Foster-Dow",
+                "name": "Will F-D",
               },
               {
                 "id": "3XvA8WwgnTdbGxraDigmJ1N99CH3",
@@ -1645,7 +1645,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "id": "LNzdrD9JEvSmQqif7SOOSpjNOqh1",
-                "name": "Hannah James",
+                "name": "Paige",
               },
               {
                 "id": "DtgFdVEQTSQLRxSBzpGFi0CBXun2",
@@ -4705,7 +4705,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/BNWjUa_lA0mzxNpgpHDGSA",
                 "id": "VBae1VRtECWYQolK2HSPab8XGli2",
-                "name": "Anthony DeDilectis",
+                "name": "Anthony Deeds",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/E-TRpd9DgkmRHRaQ5HqYjw",
@@ -4902,7 +4902,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/BNWjUa_lA0mzxNpgpHDGSA",
                 "id": "VBae1VRtECWYQolK2HSPab8XGli2",
-                "name": "Anthony DeDilectis",
+                "name": "Anthony Deeds",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/ka104_ZGlESbW_hLQ7zW9g",
@@ -6617,7 +6617,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/6iHJDApW2kSNOr7DydaZeQ",
                 "id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
-                "name": "Lyndon",
+                "name": "Sifu",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/jNcQp2nnf0WPN1SvZIcCUg",
@@ -6711,12 +6711,12 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/6iHJDApW2kSNOr7DydaZeQ",
                 "id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
-                "name": "Lyndon",
+                "name": "Sifu",
               },
             ],
             "status": "Completed",
             "table": 2,
-            "winner": "Lyndon",
+            "winner": "Sifu",
             "winner_id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
           },
           {
@@ -6780,7 +6780,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/6iHJDApW2kSNOr7DydaZeQ",
                 "id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
-                "name": "Lyndon",
+                "name": "Sifu",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/DFc1qUPuq0OGmmmYHlbr3w",
@@ -6800,7 +6800,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
             ],
             "status": "Completed",
             "table": 1,
-            "winner": "Lyndon",
+            "winner": "Sifu",
             "winner_id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
           },
           {
@@ -6958,7 +6958,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/6iHJDApW2kSNOr7DydaZeQ",
                 "id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
-                "name": "Lyndon",
+                "name": "Sifu",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/1tAtuOqgk0y55tuoDE7NZQ",
@@ -6973,7 +6973,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
             ],
             "status": "Completed",
             "table": 1,
-            "winner": "Lyndon",
+            "winner": "Sifu",
             "winner_id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
           },
         ],
@@ -7465,7 +7465,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
             "players": [
               {
                 "id": "LNzdrD9JEvSmQqif7SOOSpjNOqh1",
-                "name": "Hannah James",
+                "name": "Paige",
               },
               {
                 "id": "fz14DLNsSncFWvtk59ZuDQ4RUGG2",
@@ -7473,12 +7473,12 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "id": "DHAeKQNG2UQr97iBMGcRLb6Eu1O2",
-                "name": "William Foster-Dow",
+                "name": "Will F-D",
               },
             ],
             "status": "Completed",
             "table": 3,
-            "winner": "William Foster-Dow",
+            "winner": "Will F-D",
             "winner_id": "DHAeKQNG2UQr97iBMGcRLb6Eu1O2",
           },
         ],
@@ -7490,7 +7490,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
             "players": [
               {
                 "id": "DHAeKQNG2UQr97iBMGcRLb6Eu1O2",
-                "name": "William Foster-Dow",
+                "name": "Will F-D",
               },
               {
                 "id": "3XvA8WwgnTdbGxraDigmJ1N99CH3",
@@ -7534,7 +7534,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               },
               {
                 "id": "LNzdrD9JEvSmQqif7SOOSpjNOqh1",
-                "name": "Hannah James",
+                "name": "Paige",
               },
               {
                 "id": "DtgFdVEQTSQLRxSBzpGFi0CBXun2",
@@ -7587,7 +7587,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "losses": 1,
         "lossesBracket": 0,
         "lossesSwiss": 1,
-        "name": "William Foster-Dow",
+        "name": "Will F-D",
         "winRate": 0.5,
         "winRateBracket": null,
         "winRateSwiss": 0.5,
@@ -7677,7 +7677,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "losses": 2,
         "lossesBracket": 0,
         "lossesSwiss": 2,
-        "name": "Hannah James",
+        "name": "Paige",
         "winRate": 0,
         "winRateBracket": null,
         "winRateSwiss": 0,
@@ -11514,7 +11514,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/BNWjUa_lA0mzxNpgpHDGSA",
                 "id": "VBae1VRtECWYQolK2HSPab8XGli2",
-                "name": "Anthony DeDilectis",
+                "name": "Anthony Deeds",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/E-TRpd9DgkmRHRaQ5HqYjw",
@@ -11711,7 +11711,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/BNWjUa_lA0mzxNpgpHDGSA",
                 "id": "VBae1VRtECWYQolK2HSPab8XGli2",
-                "name": "Anthony DeDilectis",
+                "name": "Anthony Deeds",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/ka104_ZGlESbW_hLQ7zW9g",
@@ -11959,7 +11959,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "losses": 2,
         "lossesBracket": 0,
         "lossesSwiss": 2,
-        "name": "Anthony DeDilectis",
+        "name": "Anthony Deeds",
         "winRate": 0,
         "winRateBracket": null,
         "winRateSwiss": 0,
@@ -14046,7 +14046,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/6iHJDApW2kSNOr7DydaZeQ",
                 "id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
-                "name": "Lyndon",
+                "name": "Sifu",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/jNcQp2nnf0WPN1SvZIcCUg",
@@ -14140,12 +14140,12 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/6iHJDApW2kSNOr7DydaZeQ",
                 "id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
-                "name": "Lyndon",
+                "name": "Sifu",
               },
             ],
             "status": "Completed",
             "table": 2,
-            "winner": "Lyndon",
+            "winner": "Sifu",
             "winner_id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
           },
           {
@@ -14209,7 +14209,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/6iHJDApW2kSNOr7DydaZeQ",
                 "id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
-                "name": "Lyndon",
+                "name": "Sifu",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/DFc1qUPuq0OGmmmYHlbr3w",
@@ -14229,7 +14229,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
             ],
             "status": "Completed",
             "table": 1,
-            "winner": "Lyndon",
+            "winner": "Sifu",
             "winner_id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
           },
           {
@@ -14387,7 +14387,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
               {
                 "decklist": "https://www.moxfield.com/decks/6iHJDApW2kSNOr7DydaZeQ",
                 "id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
-                "name": "Lyndon",
+                "name": "Sifu",
               },
               {
                 "decklist": "https://www.moxfield.com/decks/1tAtuOqgk0y55tuoDE7NZQ",
@@ -14402,7 +14402,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
             ],
             "status": "Completed",
             "table": 1,
-            "winner": "Lyndon",
+            "winner": "Sifu",
             "winner_id": "1vncB2Drt6WFJB8k4jDRq17BlV53",
           },
         ],
@@ -14417,7 +14417,7 @@ exports[`topdeck-api tournaments search() should return a list of tournaments wi
         "losses": 1,
         "lossesBracket": 0,
         "lossesSwiss": 1,
-        "name": "Lyndon",
+        "name": "Sifu",
         "winRate": 0.75,
         "winRateBracket": 1,
         "winRateSwiss": 0.6666666666666666,
